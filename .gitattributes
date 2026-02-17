@@ -2,3 +2,4 @@ CA-2024/NIBRS_incident.csv filter=lfs diff=lfs merge=lfs -text
 CA-2024/NIBRS_month.csv filter=lfs diff=lfs merge=lfs -text
 CA-2024/NIBRS_VICTIM.csv filter=lfs diff=lfs merge=lfs -text
 CA-2024/NIBRS_OFFENDER.csv filter=lfs diff=lfs merge=lfs -text
+data/00-raw/CA-2024/NIBRS_incident.csv filter=lfs diff=lfs merge=lfs -text
