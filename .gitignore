@@ -164,27 +164,30 @@ cython_debug/
 
 # Prevents common data formats from being kept in git
 # if for some reason you want to source code control your data you will need to remove this
-data/*.csv
-data/*/*.csv
-data/*.CSV
-data/*/*.CSV
-data/*.json
-data/*/*.json
-data/*.JSON
-data/*/*.JSON
-data/*.*ml
-data/*/*.*ml
-data/*.*ML
-data/*/*.*ML
-data/*.jp*
-data/*/*.jp*
-data/*.JP*
-data/*/*.JP*
-data/*.mp*
-data/*/*.mp*
-data/*.MP*
-data/*/*.MP*
-data/*.sq*
-data/*/*.sq*
-data/*.SQ*
-data/*/*.SQ*CA-2024/
+# Our datasets were not csv downloads from the website. Some were really big files and some where in 
+# Microsoft Access Database File format. We decided that it would be more convenient for us to upload
+# our datasets in csv file format after we did all the complicated stuff to download them.
+#data/*.csv
+#data/*/*.csv
+#data/*.CSV
+#data/*/*.CSV
+#data/*.json
+#data/*/*.json
+#data/*.JSON
+#data/*/*.JSON
+#data/*.*ml
+#data/*/*.*ml
+#data/*.*ML
+#data/*/*.*ML
+#data/*.jp*
+#data/*/*.jp*
+#data/*.JP*
+#data/*/*.JP*
+#data/*.mp*
+#data/*/*.mp*
+##data/*.MP*
+#data/*/*.MP*
+#data/*.sq*
+#data/*/*.sq*
+#data/*.SQ*
+#data/*/*.SQ*CA-2024/
