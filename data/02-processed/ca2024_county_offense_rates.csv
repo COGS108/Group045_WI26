@@ -1,0 +1,2283 @@
+county_name,offense_category_name,offense_name,offense_rows,county_population,offenses_per_100k
+ALAMEDA,Animal Cruelty,Animal Cruelty,40,1037336,3.856031218428744
+ALAMEDA,Arson,Arson,274,1037336,26.4138138462369
+ALAMEDA,Assault Offenses,Aggravated Assault,2121,1037336,204.4660553571842
+ALAMEDA,Assault Offenses,Intimidation,905,1037336,87.24270631695035
+ALAMEDA,Assault Offenses,Simple Assault,5809,1037336,559.9921336963143
+ALAMEDA,Bribery,Bribery,2,1037336,0.19280156092143724
+ALAMEDA,Burglary/Breaking & Entering,Burglary/Breaking & Entering,3574,1037336,344.5363893666083
+ALAMEDA,Counterfeiting/Forgery,Counterfeiting/Forgery,366,1037336,35.282685648623016
+ALAMEDA,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,5498,1037336,530.011490973031
+ALAMEDA,Drug/Narcotic Offenses,Drug Equipment Violations,2370,1037336,228.4698496919031
+ALAMEDA,Drug/Narcotic Offenses,Drug/Narcotic Violations,2747,1037336,264.812943925594
+ALAMEDA,Embezzlement,Embezzlement,107,1037336,10.314883509296891
+ALAMEDA,Extortion/Blackmail,Extortion/Blackmail,75,1037336,7.230058534553896
+ALAMEDA,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,263,1037336,25.353405261168994
+ALAMEDA,Fraud Offenses,False Pretenses/Swindle/Confidence Game,1615,1037336,155.68726044406057
+ALAMEDA,Fraud Offenses,Hacking/Computer Invasion,9,1037336,0.8676070241464674
+ALAMEDA,Fraud Offenses,Identity Theft,1357,1037336,130.81585908519517
+ALAMEDA,Fraud Offenses,Impersonation,267,1037336,25.73900838301187
+ALAMEDA,Homicide Offenses,Murder and Nonnegligent Manslaughter,35,1037336,3.3740273161251513
+ALAMEDA,Homicide Offenses,Negligent Manslaughter,9,1037336,0.8676070241464674
+ALAMEDA,Human Trafficking,"Human Trafficking, Commercial Sex Acts",2,1037336,0.19280156092143724
+ALAMEDA,Human Trafficking,"Human Trafficking, Involuntary Servitude",1,1037336,0.09640078046071862
+ALAMEDA,Kidnapping/Abduction,Kidnapping/Abduction,273,1037336,26.317413065776183
+ALAMEDA,Larceny/Theft Offenses,All Other Larceny,5251,1037336,506.2004981992334
+ALAMEDA,Larceny/Theft Offenses,Pocket-picking,183,1037336,17.641342824311508
+ALAMEDA,Larceny/Theft Offenses,Purse-snatching,53,1037336,5.109241364418087
+ALAMEDA,Larceny/Theft Offenses,Shoplifting,5152,1037336,496.6568209336223
+ALAMEDA,Larceny/Theft Offenses,Theft From Building,1168,1037336,112.59611157811935
+ALAMEDA,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,63,1037336,6.073249169025273
+ALAMEDA,Larceny/Theft Offenses,Theft From Motor Vehicle,7045,1037336,679.1434983457626
+ALAMEDA,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,2826,1037336,272.4286055819908
+ALAMEDA,Motor Vehicle Theft,Motor Vehicle Theft,8779,1037336,846.3024516646487
+ALAMEDA,Pornography/Obscene Material,Pornography/Obscene Material,60,1037336,5.784046827643116
+ALAMEDA,Prostitution Offenses,Assisting or Promoting Prostitution,7,1037336,0.6748054632250303
+ALAMEDA,Prostitution Offenses,Prostitution,13,1037336,1.2532101459893419
+ALAMEDA,Prostitution Offenses,Purchasing Prostitution,3,1037336,0.28920234138215584
+ALAMEDA,Robbery,Robbery,1282,1037336,123.58580055064127
+ALAMEDA,Sex Offenses,Criminal Sexual Contact,273,1037336,26.317413065776183
+ALAMEDA,Sex Offenses,Rape,206,1037336,19.858560774908035
+ALAMEDA,Sex Offenses,Sexual Assault With An Object,37,1037336,3.5668288770465884
+ALAMEDA,Sex Offenses,Sodomy,59,1037336,5.687646047182398
+ALAMEDA,"Sex Offenses, Non-forcible",Statutory Rape,20,1037336,1.928015609214372
+ALAMEDA,Stolen Property Offenses,Stolen Property Offenses,1030,1037336,99.29280387454017
+ALAMEDA,Weapon Law Violations,Weapon Law Violations,1508,1037336,145.37237693476368
+ALPINE,Assault Offenses,Aggravated Assault,9,1139,790.1668129938544
+ALPINE,Assault Offenses,Intimidation,1,1139,87.7963125548727
+ALPINE,Assault Offenses,Simple Assault,15,1139,1316.9446883230905
+ALPINE,Burglary/Breaking & Entering,Burglary/Breaking & Entering,2,1139,175.5926251097454
+ALPINE,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,8,1139,702.3705004389816
+ALPINE,Drug/Narcotic Offenses,Drug Equipment Violations,2,1139,175.5926251097454
+ALPINE,Drug/Narcotic Offenses,Drug/Narcotic Violations,3,1139,263.3889376646181
+ALPINE,Fraud Offenses,False Pretenses/Swindle/Confidence Game,4,1139,351.1852502194908
+ALPINE,Larceny/Theft Offenses,All Other Larceny,12,1139,1053.5557506584723
+ALPINE,Larceny/Theft Offenses,Purse-snatching,1,1139,87.7963125548727
+ALPINE,Larceny/Theft Offenses,Theft From Building,1,1139,87.7963125548727
+ALPINE,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,1,1139,87.7963125548727
+ALPINE,Larceny/Theft Offenses,Theft From Motor Vehicle,3,1139,263.3889376646181
+ALPINE,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,1,1139,87.7963125548727
+ALPINE,Motor Vehicle Theft,Motor Vehicle Theft,1,1139,87.7963125548727
+ALPINE,Sex Offenses,Criminal Sexual Contact,1,1139,87.7963125548727
+ALPINE,Sex Offenses,Rape,1,1139,87.7963125548727
+ALPINE,Sex Offenses,Sexual Assault With An Object,1,1139,87.7963125548727
+ALPINE,Weapon Law Violations,Weapon Law Violations,8,1139,702.3705004389816
+AMADOR,Animal Cruelty,Animal Cruelty,5,42944,11.64307004470939
+AMADOR,Arson,Arson,7,42944,16.300298062593146
+AMADOR,Assault Offenses,Aggravated Assault,89,42944,207.24664679582713
+AMADOR,Assault Offenses,Intimidation,31,42944,72.18703427719821
+AMADOR,Assault Offenses,Simple Assault,242,42944,563.5245901639345
+AMADOR,Burglary/Breaking & Entering,Burglary/Breaking & Entering,34,42944,79.17287630402384
+AMADOR,Counterfeiting/Forgery,Counterfeiting/Forgery,18,42944,41.915052160953806
+AMADOR,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,176,42944,409.8360655737705
+AMADOR,Drug/Narcotic Offenses,Drug Equipment Violations,175,42944,407.5074515648286
+AMADOR,Drug/Narcotic Offenses,Drug/Narcotic Violations,220,42944,512.295081967213
+AMADOR,Embezzlement,Embezzlement,7,42944,16.300298062593146
+AMADOR,Extortion/Blackmail,Extortion/Blackmail,3,42944,6.985842026825633
+AMADOR,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,6,42944,13.971684053651266
+AMADOR,Fraud Offenses,False Pretenses/Swindle/Confidence Game,63,42944,146.7026825633383
+AMADOR,Fraud Offenses,Identity Theft,26,42944,60.54396423248882
+AMADOR,Fraud Offenses,Impersonation,17,42944,39.58643815201192
+AMADOR,Kidnapping/Abduction,Kidnapping/Abduction,10,42944,23.28614008941878
+AMADOR,Larceny/Theft Offenses,All Other Larceny,157,42944,365.5923994038748
+AMADOR,Larceny/Theft Offenses,Pocket-picking,4,42944,9.314456035767511
+AMADOR,Larceny/Theft Offenses,Purse-snatching,3,42944,6.985842026825633
+AMADOR,Larceny/Theft Offenses,Shoplifting,37,42944,86.15871833084948
+AMADOR,Larceny/Theft Offenses,Theft From Building,31,42944,72.18703427719821
+AMADOR,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,2,42944,4.657228017883756
+AMADOR,Larceny/Theft Offenses,Theft From Motor Vehicle,31,42944,72.18703427719821
+AMADOR,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,36,42944,83.83010432190761
+AMADOR,Motor Vehicle Theft,Motor Vehicle Theft,187,42944,435.4508196721311
+AMADOR,Pornography/Obscene Material,Pornography/Obscene Material,12,42944,27.943368107302533
+AMADOR,Robbery,Robbery,8,42944,18.628912071535023
+AMADOR,Sex Offenses,Criminal Sexual Contact,9,42944,20.957526080476903
+AMADOR,Sex Offenses,Rape,12,42944,27.943368107302533
+AMADOR,Sex Offenses,Sexual Assault With An Object,4,42944,9.314456035767511
+AMADOR,Sex Offenses,Sodomy,5,42944,11.64307004470939
+AMADOR,"Sex Offenses, Non-forcible",Statutory Rape,4,42944,9.314456035767511
+AMADOR,Stolen Property Offenses,Stolen Property Offenses,27,42944,62.872578241430695
+AMADOR,Weapon Law Violations,Weapon Law Violations,54,42944,125.74515648286139
+BUTTE,Animal Cruelty,Animal Cruelty,40,209590,19.084880003816977
+BUTTE,Arson,Arson,62,209590,29.581564005916313
+BUTTE,Assault Offenses,Aggravated Assault,840,209590,400.7824800801565
+BUTTE,Assault Offenses,Intimidation,239,209590,114.03215802280643
+BUTTE,Assault Offenses,Simple Assault,2097,209590,1000.524834200105
+BUTTE,Burglary/Breaking & Entering,Burglary/Breaking & Entering,493,209590,235.22114604704424
+BUTTE,Counterfeiting/Forgery,Counterfeiting/Forgery,209,209590,99.7184980199437
+BUTTE,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,1391,209590,663.6767021327353
+BUTTE,Drug/Narcotic Offenses,Drug Equipment Violations,660,209590,314.9005200629801
+BUTTE,Drug/Narcotic Offenses,Drug/Narcotic Violations,971,209590,463.2854620926571
+BUTTE,Embezzlement,Embezzlement,29,209590,13.836538002767309
+BUTTE,Extortion/Blackmail,Extortion/Blackmail,20,209590,9.542440001908489
+BUTTE,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,140,209590,66.79708001335942
+BUTTE,Fraud Offenses,False Pretenses/Swindle/Confidence Game,271,209590,129.30006202586003
+BUTTE,Fraud Offenses,Hacking/Computer Invasion,12,209590,5.725464001145093
+BUTTE,Fraud Offenses,Identity Theft,109,209590,52.00629801040125
+BUTTE,Fraud Offenses,Impersonation,62,209590,29.581564005916313
+BUTTE,Homicide Offenses,Murder and Nonnegligent Manslaughter,8,209590,3.8169760007633955
+BUTTE,Homicide Offenses,Negligent Manslaughter,4,209590,1.9084880003816977
+BUTTE,Human Trafficking,"Human Trafficking, Involuntary Servitude",1,209590,0.47712200009542444
+BUTTE,Kidnapping/Abduction,Kidnapping/Abduction,105,209590,50.097810010019565
+BUTTE,Larceny/Theft Offenses,All Other Larceny,1228,209590,585.9058161171812
+BUTTE,Larceny/Theft Offenses,Pocket-picking,10,209590,4.771220000954244
+BUTTE,Larceny/Theft Offenses,Purse-snatching,14,209590,6.679708001335942
+BUTTE,Larceny/Theft Offenses,Shoplifting,613,209590,292.47578605849515
+BUTTE,Larceny/Theft Offenses,Theft From Building,167,209590,79.67937401593588
+BUTTE,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,3,209590,1.4313660002862731
+BUTTE,Larceny/Theft Offenses,Theft From Motor Vehicle,625,209590,298.20125005964024
+BUTTE,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,162,209590,77.29376401545876
+BUTTE,Motor Vehicle Theft,Motor Vehicle Theft,406,209590,193.71153203874232
+BUTTE,Pornography/Obscene Material,Pornography/Obscene Material,50,209590,23.85610000477122
+BUTTE,Prostitution Offenses,Prostitution,1,209590,0.47712200009542444
+BUTTE,Robbery,Robbery,144,209590,68.70556801374111
+BUTTE,Sex Offenses,Criminal Sexual Contact,103,209590,49.14356600982872
+BUTTE,Sex Offenses,Rape,169,209590,80.63361801612673
+BUTTE,Sex Offenses,Sexual Assault With An Object,29,209590,13.836538002767309
+BUTTE,Sex Offenses,Sodomy,50,209590,23.85610000477122
+BUTTE,"Sex Offenses, Non-forcible",Statutory Rape,17,209590,8.111074001622214
+BUTTE,Stolen Property Offenses,Stolen Property Offenses,209,209590,99.7184980199437
+BUTTE,Weapon Law Violations,Weapon Law Violations,506,209590,241.42373204828473
+CALAVERAS,Animal Cruelty,Animal Cruelty,5,47752,10.470765622382308
+CALAVERAS,Arson,Arson,21,47752,43.977215614005694
+CALAVERAS,Assault Offenses,Aggravated Assault,122,47752,255.48668118612832
+CALAVERAS,Assault Offenses,Intimidation,87,47752,182.19132182945216
+CALAVERAS,Assault Offenses,Simple Assault,388,47752,812.5314122968672
+CALAVERAS,Burglary/Breaking & Entering,Burglary/Breaking & Entering,101,47752,211.50946557212265
+CALAVERAS,Counterfeiting/Forgery,Counterfeiting/Forgery,18,47752,37.69475624057631
+CALAVERAS,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,360,47752,753.8951248115262
+CALAVERAS,Drug/Narcotic Offenses,Drug Equipment Violations,113,47752,236.63930306584015
+CALAVERAS,Drug/Narcotic Offenses,Drug/Narcotic Violations,162,47752,339.2528061651868
+CALAVERAS,Embezzlement,Embezzlement,6,47752,12.564918746858769
+CALAVERAS,Extortion/Blackmail,Extortion/Blackmail,5,47752,10.470765622382308
+CALAVERAS,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,11,47752,23.03568436924108
+CALAVERAS,Fraud Offenses,False Pretenses/Swindle/Confidence Game,50,47752,104.7076562238231
+CALAVERAS,Fraud Offenses,Identity Theft,11,47752,23.03568436924108
+CALAVERAS,Fraud Offenses,Impersonation,13,47752,27.223990618194
+CALAVERAS,Homicide Offenses,Murder and Nonnegligent Manslaughter,1,47752,2.094153124476462
+CALAVERAS,Homicide Offenses,Negligent Manslaughter,1,47752,2.094153124476462
+CALAVERAS,Kidnapping/Abduction,Kidnapping/Abduction,23,47752,48.16552186295862
+CALAVERAS,Larceny/Theft Offenses,All Other Larceny,190,47752,397.88909365052774
+CALAVERAS,Larceny/Theft Offenses,Pocket-picking,5,47752,10.470765622382308
+CALAVERAS,Larceny/Theft Offenses,Shoplifting,68,47752,142.4024124643994
+CALAVERAS,Larceny/Theft Offenses,Theft From Building,73,47752,152.8731780867817
+CALAVERAS,Larceny/Theft Offenses,Theft From Motor Vehicle,58,47752,121.46088121963477
+CALAVERAS,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,43,47752,90.04858435248785
+CALAVERAS,Motor Vehicle Theft,Motor Vehicle Theft,79,47752,165.4380968336405
+CALAVERAS,Pornography/Obscene Material,Pornography/Obscene Material,10,47752,20.941531244764615
+CALAVERAS,Robbery,Robbery,12,47752,25.129837493717538
+CALAVERAS,Sex Offenses,Criminal Sexual Contact,17,47752,35.60060311609985
+CALAVERAS,Sex Offenses,Rape,18,47752,37.69475624057631
+CALAVERAS,Sex Offenses,Sexual Assault With An Object,3,47752,6.2824593734293845
+CALAVERAS,Sex Offenses,Sodomy,9,47752,18.847378120288155
+CALAVERAS,Stolen Property Offenses,Stolen Property Offenses,21,47752,43.977215614005694
+CALAVERAS,Weapon Law Violations,Weapon Law Violations,84,47752,175.90886245602277
+COLUSA,Animal Cruelty,Animal Cruelty,1,22458,4.45275625612254
+COLUSA,Arson,Arson,2,22458,8.90551251224508
+COLUSA,Assault Offenses,Aggravated Assault,58,22458,258.2598628551073
+COLUSA,Assault Offenses,Intimidation,26,22458,115.77166265918605
+COLUSA,Assault Offenses,Simple Assault,116,22458,516.5197257102146
+COLUSA,Burglary/Breaking & Entering,Burglary/Breaking & Entering,29,22458,129.12993142755366
+COLUSA,Counterfeiting/Forgery,Counterfeiting/Forgery,22,22458,97.96063763469589
+COLUSA,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,110,22458,489.8031881734793
+COLUSA,Drug/Narcotic Offenses,Drug Equipment Violations,57,22458,253.80710659898475
+COLUSA,Drug/Narcotic Offenses,Drug/Narcotic Violations,75,22458,333.95671920919045
+COLUSA,Embezzlement,Embezzlement,7,22458,31.169293792857776
+COLUSA,Extortion/Blackmail,Extortion/Blackmail,3,22458,13.358268768367621
+COLUSA,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,4,22458,17.81102502449016
+COLUSA,Fraud Offenses,False Pretenses/Swindle/Confidence Game,23,22458,102.41339389081843
+COLUSA,Fraud Offenses,Identity Theft,5,22458,22.263781280612697
+COLUSA,Fraud Offenses,Impersonation,6,22458,26.716537536735242
+COLUSA,Homicide Offenses,Murder and Nonnegligent Manslaughter,1,22458,4.45275625612254
+COLUSA,Kidnapping/Abduction,Kidnapping/Abduction,17,22458,75.69685635408317
+COLUSA,Larceny/Theft Offenses,All Other Larceny,56,22458,249.3543503428622
+COLUSA,Larceny/Theft Offenses,Pocket-picking,3,22458,13.358268768367621
+COLUSA,Larceny/Theft Offenses,Shoplifting,15,22458,66.7913438418381
+COLUSA,Larceny/Theft Offenses,Theft From Building,16,22458,71.24410009796064
+COLUSA,Larceny/Theft Offenses,Theft From Motor Vehicle,32,22458,142.48820019592128
+COLUSA,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,18,22458,80.14961261020571
+COLUSA,Motor Vehicle Theft,Motor Vehicle Theft,28,22458,124.6771751714311
+COLUSA,Pornography/Obscene Material,Pornography/Obscene Material,5,22458,22.263781280612697
+COLUSA,Robbery,Robbery,9,22458,40.074806305102854
+COLUSA,Sex Offenses,Criminal Sexual Contact,8,22458,35.62205004898032
+COLUSA,Sex Offenses,Rape,5,22458,22.263781280612697
+COLUSA,Sex Offenses,Sexual Assault With An Object,1,22458,4.45275625612254
+COLUSA,Sex Offenses,Sodomy,4,22458,17.81102502449016
+COLUSA,Stolen Property Offenses,Stolen Property Offenses,18,22458,80.14961261020571
+COLUSA,Weapon Law Violations,Weapon Law Violations,24,22458,106.86615014694097
+CONTRA COSTA,Animal Cruelty,Animal Cruelty,34,1170307,2.9052205959632813
+CONTRA COSTA,Arson,Arson,228,1170307,19.482067525871415
+CONTRA COSTA,Assault Offenses,Aggravated Assault,2460,1170307,210.20125488440215
+CONTRA COSTA,Assault Offenses,Intimidation,1091,1170307,93.22340206458647
+CONTRA COSTA,Assault Offenses,Simple Assault,5553,1170307,474.49088145247356
+CONTRA COSTA,Burglary/Breaking & Entering,Burglary/Breaking & Entering,2746,1170307,234.63928695632856
+CONTRA COSTA,Counterfeiting/Forgery,Counterfeiting/Forgery,411,1170307,35.11899014532084
+CONTRA COSTA,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,5967,1170307,509.8662145915559
+CONTRA COSTA,Drug/Narcotic Offenses,Drug Equipment Violations,1955,1170307,167.05018426788868
+CONTRA COSTA,Drug/Narcotic Offenses,Drug/Narcotic Violations,3009,1170307,257.1120227427504
+CONTRA COSTA,Embezzlement,Embezzlement,167,1170307,14.269759986054943
+CONTRA COSTA,Extortion/Blackmail,Extortion/Blackmail,63,1170307,5.383202868990786
+CONTRA COSTA,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,495,1170307,42.296593970641894
+CONTRA COSTA,Fraud Offenses,False Pretenses/Swindle/Confidence Game,1297,1170307,110.82562096954047
+CONTRA COSTA,Fraud Offenses,Hacking/Computer Invasion,15,1170307,1.28171496880733
+CONTRA COSTA,Fraud Offenses,Identity Theft,530,1170307,45.28726223119233
+CONTRA COSTA,Fraud Offenses,Impersonation,626,1170307,53.49023803155924
+CONTRA COSTA,Fraud Offenses,Wire Fraud,10,1170307,0.8544766458715533
+CONTRA COSTA,Gambling Offenses,Betting/Wagering,1,1170307,0.08544766458715534
+CONTRA COSTA,Gambling Offenses,Operating/Promoting/Assisting Gambling,1,1170307,0.08544766458715534
+CONTRA COSTA,Homicide Offenses,Justifiable Homicide,1,1170307,0.08544766458715534
+CONTRA COSTA,Homicide Offenses,Murder and Nonnegligent Manslaughter,36,1170307,3.076115925137592
+CONTRA COSTA,Homicide Offenses,Negligent Manslaughter,9,1170307,0.769028981284398
+CONTRA COSTA,Human Trafficking,"Human Trafficking, Commercial Sex Acts",6,1170307,0.512685987522932
+CONTRA COSTA,Human Trafficking,"Human Trafficking, Involuntary Servitude",2,1170307,0.1708953291743107
+CONTRA COSTA,Kidnapping/Abduction,Kidnapping/Abduction,329,1170307,28.112281649174104
+CONTRA COSTA,Larceny/Theft Offenses,All Other Larceny,3934,1170307,336.1511124858691
+CONTRA COSTA,Larceny/Theft Offenses,Pocket-picking,222,1170307,18.969381538348486
+CONTRA COSTA,Larceny/Theft Offenses,Purse-snatching,67,1170307,5.724993527339408
+CONTRA COSTA,Larceny/Theft Offenses,Shoplifting,4773,1170307,407.8417030744924
+CONTRA COSTA,Larceny/Theft Offenses,Theft From Building,953,1170307,81.43162435155904
+CONTRA COSTA,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,5,1170307,0.4272383229357766
+CONTRA COSTA,Larceny/Theft Offenses,Theft From Motor Vehicle,3796,1170307,324.3593347728417
+CONTRA COSTA,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,1910,1170307,163.2050393614667
+CONTRA COSTA,Motor Vehicle Theft,Motor Vehicle Theft,5814,1170307,496.79272190972114
+CONTRA COSTA,Pornography/Obscene Material,Pornography/Obscene Material,93,1170307,7.946632806605447
+CONTRA COSTA,Prostitution Offenses,Assisting or Promoting Prostitution,16,1170307,1.3671626333944855
+CONTRA COSTA,Prostitution Offenses,Prostitution,17,1170307,1.4526102979816407
+CONTRA COSTA,Prostitution Offenses,Purchasing Prostitution,4,1170307,0.3417906583486214
+CONTRA COSTA,Robbery,Robbery,1227,1170307,104.8442844484396
+CONTRA COSTA,Sex Offenses,Criminal Sexual Contact,309,1170307,26.403328357430997
+CONTRA COSTA,Sex Offenses,Rape,200,1170307,17.089532917431068
+CONTRA COSTA,Sex Offenses,Sexual Assault With An Object,45,1170307,3.84514490642199
+CONTRA COSTA,Sex Offenses,Sodomy,76,1170307,6.4940225086238055
+CONTRA COSTA,"Sex Offenses, Non-forcible",Statutory Rape,37,1170307,3.161563589724747
+CONTRA COSTA,Stolen Property Offenses,Stolen Property Offenses,1056,1170307,90.23273380403603
+CONTRA COSTA,Weapon Law Violations,Weapon Law Violations,1482,1170307,126.6334389181642
+DEL NORTE,Animal Cruelty,Animal Cruelty,3,26692,11.239322643488686
+DEL NORTE,Arson,Arson,8,26692,29.97152704930316
+DEL NORTE,Assault Offenses,Aggravated Assault,60,26692,224.7864528697737
+DEL NORTE,Assault Offenses,Intimidation,25,26692,93.66102202907238
+DEL NORTE,Assault Offenses,Simple Assault,110,26692,412.10849692791845
+DEL NORTE,Burglary/Breaking & Entering,Burglary/Breaking & Entering,38,26692,142.36475348419003
+DEL NORTE,Counterfeiting/Forgery,Counterfeiting/Forgery,5,26692,18.73220440581448
+DEL NORTE,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,110,26692,412.10849692791845
+DEL NORTE,Drug/Narcotic Offenses,Drug Equipment Violations,167,26692,625.6556271542036
+DEL NORTE,Drug/Narcotic Offenses,Drug/Narcotic Violations,127,26692,475.7979919076877
+DEL NORTE,Embezzlement,Embezzlement,1,26692,3.746440881162895
+DEL NORTE,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,6,26692,22.478645286977372
+DEL NORTE,Fraud Offenses,False Pretenses/Swindle/Confidence Game,8,26692,29.97152704930316
+DEL NORTE,Fraud Offenses,Identity Theft,2,26692,7.49288176232579
+DEL NORTE,Fraud Offenses,Impersonation,2,26692,7.49288176232579
+DEL NORTE,Kidnapping/Abduction,Kidnapping/Abduction,3,26692,11.239322643488686
+DEL NORTE,Larceny/Theft Offenses,All Other Larceny,91,26692,340.9261201858235
+DEL NORTE,Larceny/Theft Offenses,Pocket-picking,2,26692,7.49288176232579
+DEL NORTE,Larceny/Theft Offenses,Shoplifting,150,26692,561.9661321744343
+DEL NORTE,Larceny/Theft Offenses,Theft From Building,12,26692,44.957290573954744
+DEL NORTE,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,2,26692,7.49288176232579
+DEL NORTE,Larceny/Theft Offenses,Theft From Motor Vehicle,50,26692,187.32204405814477
+DEL NORTE,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,27,26692,101.15390379139818
+DEL NORTE,Motor Vehicle Theft,Motor Vehicle Theft,71,26692,265.99730256256555
+DEL NORTE,Pornography/Obscene Material,Pornography/Obscene Material,21,26692,78.6752585044208
+DEL NORTE,Robbery,Robbery,12,26692,44.957290573954744
+DEL NORTE,Sex Offenses,Criminal Sexual Contact,11,26692,41.21084969279185
+DEL NORTE,Sex Offenses,Rape,4,26692,14.98576352465158
+DEL NORTE,Sex Offenses,Sexual Assault With An Object,1,26692,3.746440881162895
+DEL NORTE,Sex Offenses,Sodomy,4,26692,14.98576352465158
+DEL NORTE,"Sex Offenses, Non-forcible",Statutory Rape,4,26692,14.98576352465158
+DEL NORTE,Stolen Property Offenses,Stolen Property Offenses,37,26692,138.61831260302714
+DEL NORTE,Weapon Law Violations,Weapon Law Violations,53,26692,198.56136670163343
+EL DORADO,Animal Cruelty,Animal Cruelty,4,195712,2.0438194898626554
+EL DORADO,Arson,Arson,34,195712,17.37246566383257
+EL DORADO,Assault Offenses,Aggravated Assault,360,195712,183.94375408763898
+EL DORADO,Assault Offenses,Intimidation,157,195712,80.21991497710923
+EL DORADO,Assault Offenses,Simple Assault,967,195712,494.0933616742969
+EL DORADO,Bribery,Bribery,2,195712,1.0219097449313277
+EL DORADO,Burglary/Breaking & Entering,Burglary/Breaking & Entering,199,195712,101.68001962066711
+EL DORADO,Counterfeiting/Forgery,Counterfeiting/Forgery,97,195712,49.56262262916939
+EL DORADO,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,560,195712,286.13472858077176
+EL DORADO,Drug/Narcotic Offenses,Drug Equipment Violations,573,195712,292.77714192282536
+EL DORADO,Drug/Narcotic Offenses,Drug/Narcotic Violations,674,195712,344.38358404185743
+EL DORADO,Embezzlement,Embezzlement,30,195712,15.328646173969913
+EL DORADO,Extortion/Blackmail,Extortion/Blackmail,5,195712,2.554774362328319
+EL DORADO,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,31,195712,15.83960104643558
+EL DORADO,Fraud Offenses,False Pretenses/Swindle/Confidence Game,287,195712,146.64404839764552
+EL DORADO,Fraud Offenses,Hacking/Computer Invasion,2,195712,1.0219097449313277
+EL DORADO,Fraud Offenses,Identity Theft,191,195712,97.5923806409418
+EL DORADO,Fraud Offenses,Impersonation,76,195712,38.83257030739045
+EL DORADO,Homicide Offenses,Negligent Manslaughter,2,195712,1.0219097449313277
+EL DORADO,Human Trafficking,"Human Trafficking, Commercial Sex Acts",1,195712,0.5109548724656638
+EL DORADO,Kidnapping/Abduction,Kidnapping/Abduction,55,195712,28.10251798561151
+EL DORADO,Larceny/Theft Offenses,All Other Larceny,525,195712,268.2513080444735
+EL DORADO,Larceny/Theft Offenses,Pocket-picking,2,195712,1.0219097449313277
+EL DORADO,Larceny/Theft Offenses,Purse-snatching,17,195712,8.686232831916286
+EL DORADO,Larceny/Theft Offenses,Shoplifting,210,195712,107.3005232177894
+EL DORADO,Larceny/Theft Offenses,Theft From Building,106,195712,54.16121648136036
+EL DORADO,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,3,195712,1.5328646173969915
+EL DORADO,Larceny/Theft Offenses,Theft From Motor Vehicle,154,195712,78.68705035971223
+EL DORADO,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,88,195712,44.96402877697842
+EL DORADO,Motor Vehicle Theft,Motor Vehicle Theft,147,195712,75.11036625245258
+EL DORADO,Pornography/Obscene Material,Pornography/Obscene Material,52,195712,26.569653368214517
+EL DORADO,Prostitution Offenses,Assisting or Promoting Prostitution,2,195712,1.0219097449313277
+EL DORADO,Prostitution Offenses,Prostitution,4,195712,2.0438194898626554
+EL DORADO,Robbery,Robbery,34,195712,17.37246566383257
+EL DORADO,Sex Offenses,Criminal Sexual Contact,70,195712,35.76684107259647
+EL DORADO,Sex Offenses,Rape,51,195712,26.058698495748857
+EL DORADO,Sex Offenses,Sexual Assault With An Object,8,195712,4.087638979725311
+EL DORADO,Sex Offenses,Sodomy,22,195712,11.241007194244604
+EL DORADO,"Sex Offenses, Non-forcible",Statutory Rape,14,195712,7.153368214519293
+EL DORADO,Stolen Property Offenses,Stolen Property Offenses,108,195712,55.18312622629169
+EL DORADO,Weapon Law Violations,Weapon Law Violations,203,195712,103.72383911052977
+FRESNO,Animal Cruelty,Animal Cruelty,47,674282,6.970377379197428
+FRESNO,Arson,Arson,237,674282,35.14849869935724
+FRESNO,Assault Offenses,Aggravated Assault,2788,674282,413.476853897924
+FRESNO,Assault Offenses,Intimidation,1234,674282,183.00948267935374
+FRESNO,Assault Offenses,Simple Assault,7207,674282,1068.8406334441672
+FRESNO,Burglary/Breaking & Entering,Burglary/Breaking & Entering,2320,674282,344.06969190931983
+FRESNO,Counterfeiting/Forgery,Counterfeiting/Forgery,372,674282,55.169795426839215
+FRESNO,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,7329,674282,1086.9339534497437
+FRESNO,Drug/Narcotic Offenses,Drug Equipment Violations,1478,674282,219.19612269050634
+FRESNO,Drug/Narcotic Offenses,Drug/Narcotic Violations,1437,674282,213.11558072141924
+FRESNO,Embezzlement,Embezzlement,93,674282,13.792448856709804
+FRESNO,Extortion/Blackmail,Extortion/Blackmail,82,674282,12.161083938174237
+FRESNO,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,845,674282,125.31848692386865
+FRESNO,Fraud Offenses,False Pretenses/Swindle/Confidence Game,1049,674282,155.5728908676192
+FRESNO,Fraud Offenses,Hacking/Computer Invasion,17,674282,2.521200328645878
+FRESNO,Fraud Offenses,Identity Theft,774,674282,114.78876790422999
+FRESNO,Fraud Offenses,Impersonation,668,674282,99.0683423256145
+FRESNO,Fraud Offenses,Welfare Fraud,1,674282,0.14830590168505167
+FRESNO,Gambling Offenses,Betting/Wagering,1,674282,0.14830590168505167
+FRESNO,Gambling Offenses,Gambling Equipment Violation,5,674282,0.7415295084252583
+FRESNO,Gambling Offenses,Operating/Promoting/Assisting Gambling,3,674282,0.444917705055155
+FRESNO,Homicide Offenses,Murder and Nonnegligent Manslaughter,34,674282,5.042400657291756
+FRESNO,Homicide Offenses,Negligent Manslaughter,3,674282,0.444917705055155
+FRESNO,Human Trafficking,"Human Trafficking, Commercial Sex Acts",21,674282,3.1144239353860845
+FRESNO,Human Trafficking,"Human Trafficking, Involuntary Servitude",5,674282,0.7415295084252583
+FRESNO,Kidnapping/Abduction,Kidnapping/Abduction,689,674282,102.18276626100058
+FRESNO,Larceny/Theft Offenses,All Other Larceny,3655,674282,542.0580706588638
+FRESNO,Larceny/Theft Offenses,Pocket-picking,80,674282,11.864472134804133
+FRESNO,Larceny/Theft Offenses,Purse-snatching,73,674282,10.826330823008771
+FRESNO,Larceny/Theft Offenses,Shoplifting,3969,674282,588.6261237879701
+FRESNO,Larceny/Theft Offenses,Theft From Building,1101,674282,163.28479775524187
+FRESNO,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,5,674282,0.7415295084252583
+FRESNO,Larceny/Theft Offenses,Theft From Motor Vehicle,4770,674282,707.4191510376965
+FRESNO,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,817,674282,121.16592167668719
+FRESNO,Motor Vehicle Theft,Motor Vehicle Theft,4128,674282,612.2067621558932
+FRESNO,Pornography/Obscene Material,Pornography/Obscene Material,68,674282,10.084801314583512
+FRESNO,Prostitution Offenses,Assisting or Promoting Prostitution,33,674282,4.894094755606704
+FRESNO,Prostitution Offenses,Prostitution,21,674282,3.1144239353860845
+FRESNO,Prostitution Offenses,Purchasing Prostitution,1,674282,0.14830590168505167
+FRESNO,Robbery,Robbery,973,674282,144.30164233955526
+FRESNO,Sex Offenses,Criminal Sexual Contact,277,674282,41.080734766759306
+FRESNO,Sex Offenses,Rape,175,674282,25.95353279488404
+FRESNO,Sex Offenses,Sexual Assault With An Object,73,674282,10.826330823008771
+FRESNO,Sex Offenses,Sodomy,94,674282,13.940754758394856
+FRESNO,"Sex Offenses, Non-forcible",Incest,2,674282,0.29661180337010334
+FRESNO,"Sex Offenses, Non-forcible",Statutory Rape,32,674282,4.7457888539216535
+FRESNO,Stolen Property Offenses,Stolen Property Offenses,595,674282,88.24201150260573
+FRESNO,Weapon Law Violations,Weapon Law Violations,2031,674282,301.2092863223399
+GLENN,Animal Cruelty,Animal Cruelty,1,20265,4.934616333580064
+GLENN,Arson,Arson,3,20265,14.803849000740191
+GLENN,Assault Offenses,Aggravated Assault,88,20265,434.24623735504565
+GLENN,Assault Offenses,Intimidation,14,20265,69.08462867012089
+GLENN,Assault Offenses,Simple Assault,29,20265,143.10387367382185
+GLENN,Burglary/Breaking & Entering,Burglary/Breaking & Entering,52,20265,256.6000493461633
+GLENN,Counterfeiting/Forgery,Counterfeiting/Forgery,9,20265,44.41154700222057
+GLENN,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,103,20265,508.2654823587466
+GLENN,Drug/Narcotic Offenses,Drug Equipment Violations,14,20265,69.08462867012089
+GLENN,Drug/Narcotic Offenses,Drug/Narcotic Violations,35,20265,172.71157167530222
+GLENN,Embezzlement,Embezzlement,1,20265,4.934616333580064
+GLENN,Extortion/Blackmail,Extortion/Blackmail,1,20265,4.934616333580064
+GLENN,Fraud Offenses,False Pretenses/Swindle/Confidence Game,7,20265,34.542314335060446
+GLENN,Fraud Offenses,Identity Theft,1,20265,4.934616333580064
+GLENN,Fraud Offenses,Impersonation,4,20265,19.738465334320257
+GLENN,Kidnapping/Abduction,Kidnapping/Abduction,13,20265,64.15001233654083
+GLENN,Larceny/Theft Offenses,All Other Larceny,65,20265,320.75006168270414
+GLENN,Larceny/Theft Offenses,Pocket-picking,2,20265,9.869232667160128
+GLENN,Larceny/Theft Offenses,Purse-snatching,1,20265,4.934616333580064
+GLENN,Larceny/Theft Offenses,Shoplifting,2,20265,9.869232667160128
+GLENN,Larceny/Theft Offenses,Theft From Building,10,20265,49.34616333580064
+GLENN,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,1,20265,4.934616333580064
+GLENN,Larceny/Theft Offenses,Theft From Motor Vehicle,19,20265,93.75771033802121
+GLENN,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,10,20265,49.34616333580064
+GLENN,Motor Vehicle Theft,Motor Vehicle Theft,38,20265,187.51542067604242
+GLENN,Pornography/Obscene Material,Pornography/Obscene Material,14,20265,69.08462867012089
+GLENN,Robbery,Robbery,3,20265,14.803849000740191
+GLENN,Sex Offenses,Criminal Sexual Contact,6,20265,29.607698001480383
+GLENN,Sex Offenses,Rape,5,20265,24.67308166790032
+GLENN,Sex Offenses,Sexual Assault With An Object,1,20265,4.934616333580064
+GLENN,Sex Offenses,Sodomy,2,20265,9.869232667160128
+GLENN,"Sex Offenses, Non-forcible",Statutory Rape,3,20265,14.803849000740191
+GLENN,Stolen Property Offenses,Stolen Property Offenses,7,20265,34.542314335060446
+GLENN,Weapon Law Violations,Weapon Law Violations,22,20265,108.56155933876141
+HUMBOLDT,Animal Cruelty,Animal Cruelty,26,135427,19.198535004098147
+HUMBOLDT,Arson,Arson,57,135427,42.08909597052286
+HUMBOLDT,Assault Offenses,Aggravated Assault,364,135427,268.77949005737406
+HUMBOLDT,Assault Offenses,Intimidation,209,135427,154.32668522525051
+HUMBOLDT,Assault Offenses,Simple Assault,1295,135427,956.2347242425809
+HUMBOLDT,Burglary/Breaking & Entering,Burglary/Breaking & Entering,369,135427,272.4715160197007
+HUMBOLDT,Counterfeiting/Forgery,Counterfeiting/Forgery,67,135427,49.473147895176
+HUMBOLDT,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,1097,135427,810.0304961344488
+HUMBOLDT,Drug/Narcotic Offenses,Drug Equipment Violations,542,135427,400.21561431619983
+HUMBOLDT,Drug/Narcotic Offenses,Drug/Narcotic Violations,785,135427,579.648076085271
+HUMBOLDT,Embezzlement,Embezzlement,34,135427,25.10577654382066
+HUMBOLDT,Extortion/Blackmail,Extortion/Blackmail,1,135427,0.7384051924653134
+HUMBOLDT,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,111,135427,81.96297636364979
+HUMBOLDT,Fraud Offenses,False Pretenses/Swindle/Confidence Game,108,135427,79.74776078625385
+HUMBOLDT,Fraud Offenses,Hacking/Computer Invasion,2,135427,1.4768103849306269
+HUMBOLDT,Fraud Offenses,Identity Theft,22,135427,16.244914234236894
+HUMBOLDT,Fraud Offenses,Impersonation,39,135427,28.797802506147224
+HUMBOLDT,Homicide Offenses,Justifiable Homicide,2,135427,1.4768103849306269
+HUMBOLDT,Homicide Offenses,Murder and Nonnegligent Manslaughter,2,135427,1.4768103849306269
+HUMBOLDT,Homicide Offenses,Negligent Manslaughter,2,135427,1.4768103849306269
+HUMBOLDT,Human Trafficking,"Human Trafficking, Commercial Sex Acts",3,135427,2.21521557739594
+HUMBOLDT,Human Trafficking,"Human Trafficking, Involuntary Servitude",2,135427,1.4768103849306269
+HUMBOLDT,Kidnapping/Abduction,Kidnapping/Abduction,96,135427,70.88689847667008
+HUMBOLDT,Larceny/Theft Offenses,All Other Larceny,516,135427,381.0170793121017
+HUMBOLDT,Larceny/Theft Offenses,Pocket-picking,6,135427,4.43043115479188
+HUMBOLDT,Larceny/Theft Offenses,Purse-snatching,8,135427,5.9072415397225075
+HUMBOLDT,Larceny/Theft Offenses,Shoplifting,360,135427,265.82586928751283
+HUMBOLDT,Larceny/Theft Offenses,Theft From Building,145,135427,107.06875290747045
+HUMBOLDT,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,2,135427,1.4768103849306269
+HUMBOLDT,Larceny/Theft Offenses,Theft From Motor Vehicle,404,135427,298.3156977559866
+HUMBOLDT,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,91,135427,67.19487251434352
+HUMBOLDT,Motor Vehicle Theft,Motor Vehicle Theft,349,135427,257.7034121703944
+HUMBOLDT,Pornography/Obscene Material,Pornography/Obscene Material,23,135427,16.98331942670221
+HUMBOLDT,Prostitution Offenses,Assisting or Promoting Prostitution,2,135427,1.4768103849306269
+HUMBOLDT,Prostitution Offenses,Prostitution,3,135427,2.21521557739594
+HUMBOLDT,Robbery,Robbery,117,135427,86.39340751844166
+HUMBOLDT,Sex Offenses,Criminal Sexual Contact,65,135427,47.996337510245375
+HUMBOLDT,Sex Offenses,Rape,64,135427,47.25793231778006
+HUMBOLDT,Sex Offenses,Sexual Assault With An Object,12,135427,8.86086230958376
+HUMBOLDT,Sex Offenses,Sodomy,24,135427,17.72172461916752
+HUMBOLDT,"Sex Offenses, Non-forcible",Statutory Rape,12,135427,8.86086230958376
+HUMBOLDT,Stolen Property Offenses,Stolen Property Offenses,145,135427,107.06875290747045
+HUMBOLDT,Weapon Law Violations,Weapon Law Violations,322,135427,237.7664719738309
+IMPERIAL,Animal Cruelty,Animal Cruelty,4,179845,2.224137451694515
+IMPERIAL,Arson,Arson,50,179845,27.801718146181436
+IMPERIAL,Assault Offenses,Aggravated Assault,307,179845,170.70254941755402
+IMPERIAL,Assault Offenses,Intimidation,175,179845,97.30601351163502
+IMPERIAL,Assault Offenses,Simple Assault,737,179845,409.7973254747143
+IMPERIAL,Burglary/Breaking & Entering,Burglary/Breaking & Entering,255,179845,141.78876254552532
+IMPERIAL,Counterfeiting/Forgery,Counterfeiting/Forgery,50,179845,27.801718146181436
+IMPERIAL,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,534,179845,296.9223498012177
+IMPERIAL,Drug/Narcotic Offenses,Drug Equipment Violations,593,179845,329.7283772137118
+IMPERIAL,Drug/Narcotic Offenses,Drug/Narcotic Violations,600,179845,333.6206177541772
+IMPERIAL,Embezzlement,Embezzlement,24,179845,13.344824710167087
+IMPERIAL,Extortion/Blackmail,Extortion/Blackmail,4,179845,2.224137451694515
+IMPERIAL,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,29,179845,16.12499652478523
+IMPERIAL,Fraud Offenses,False Pretenses/Swindle/Confidence Game,42,179845,23.353443242792405
+IMPERIAL,Fraud Offenses,Identity Theft,33,179845,18.349133976479745
+IMPERIAL,Fraud Offenses,Impersonation,11,179845,6.116377992159916
+IMPERIAL,Fraud Offenses,Welfare Fraud,1,179845,0.5560343629236287
+IMPERIAL,Homicide Offenses,Murder and Nonnegligent Manslaughter,5,179845,2.7801718146181433
+IMPERIAL,Homicide Offenses,Negligent Manslaughter,5,179845,2.7801718146181433
+IMPERIAL,Kidnapping/Abduction,Kidnapping/Abduction,39,179845,21.685340154021517
+IMPERIAL,Larceny/Theft Offenses,All Other Larceny,225,179845,125.10773165781644
+IMPERIAL,Larceny/Theft Offenses,Pocket-picking,3,179845,1.6681030887708859
+IMPERIAL,Larceny/Theft Offenses,Purse-snatching,5,179845,2.7801718146181433
+IMPERIAL,Larceny/Theft Offenses,Shoplifting,120,179845,66.72412355083544
+IMPERIAL,Larceny/Theft Offenses,Theft From Building,127,179845,70.61636409130084
+IMPERIAL,Larceny/Theft Offenses,Theft From Motor Vehicle,180,179845,100.08618532625316
+IMPERIAL,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,75,179845,41.70257721927215
+IMPERIAL,Motor Vehicle Theft,Motor Vehicle Theft,318,179845,176.81892740971392
+IMPERIAL,Pornography/Obscene Material,Pornography/Obscene Material,2,179845,1.1120687258472575
+IMPERIAL,Robbery,Robbery,54,179845,30.025855597875946
+IMPERIAL,Sex Offenses,Criminal Sexual Contact,59,179845,32.806027412494096
+IMPERIAL,Sex Offenses,Rape,18,179845,10.008618532625317
+IMPERIAL,Sex Offenses,Sexual Assault With An Object,1,179845,0.5560343629236287
+IMPERIAL,Sex Offenses,Sodomy,7,179845,3.8922405404654006
+IMPERIAL,"Sex Offenses, Non-forcible",Statutory Rape,1,179845,0.5560343629236287
+IMPERIAL,Stolen Property Offenses,Stolen Property Offenses,29,179845,16.12499652478523
+IMPERIAL,Weapon Law Violations,Weapon Law Violations,213,179845,118.4353193027329
+INYO,Animal Cruelty,Animal Cruelty,5,18678,26.76946139843666
+INYO,Arson,Arson,6,18678,32.123353678124
+INYO,Assault Offenses,Aggravated Assault,89,18678,476.4964128921726
+INYO,Assault Offenses,Intimidation,47,18678,251.63293714530462
+INYO,Assault Offenses,Simple Assault,209,18678,1118.9634864546524
+INYO,Burglary/Breaking & Entering,Burglary/Breaking & Entering,26,18678,139.20119927187065
+INYO,Counterfeiting/Forgery,Counterfeiting/Forgery,17,18678,91.01616875468466
+INYO,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,151,18678,808.4377342327873
+INYO,Drug/Narcotic Offenses,Drug Equipment Violations,42,18678,224.86347574686795
+INYO,Drug/Narcotic Offenses,Drug/Narcotic Violations,58,18678,310.5257522218653
+INYO,Embezzlement,Embezzlement,7,18678,37.47724595781133
+INYO,Extortion/Blackmail,Extortion/Blackmail,4,18678,21.415569118749332
+INYO,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,2,18678,10.707784559374666
+INYO,Fraud Offenses,False Pretenses/Swindle/Confidence Game,21,18678,112.43173787343397
+INYO,Fraud Offenses,Hacking/Computer Invasion,1,18678,5.353892279687333
+INYO,Fraud Offenses,Identity Theft,6,18678,32.123353678124
+INYO,Fraud Offenses,Impersonation,7,18678,37.47724595781133
+INYO,Homicide Offenses,Murder and Nonnegligent Manslaughter,1,18678,5.353892279687333
+INYO,Kidnapping/Abduction,Kidnapping/Abduction,10,18678,53.53892279687332
+INYO,Larceny/Theft Offenses,All Other Larceny,67,18678,358.7107827390513
+INYO,Larceny/Theft Offenses,Pocket-picking,1,18678,5.353892279687333
+INYO,Larceny/Theft Offenses,Shoplifting,26,18678,139.20119927187065
+INYO,Larceny/Theft Offenses,Theft From Building,11,18678,58.89281507656065
+INYO,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,1,18678,5.353892279687333
+INYO,Larceny/Theft Offenses,Theft From Motor Vehicle,13,18678,69.60059963593532
+INYO,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,11,18678,58.89281507656065
+INYO,Motor Vehicle Theft,Motor Vehicle Theft,8,18678,42.831138237498664
+INYO,Pornography/Obscene Material,Pornography/Obscene Material,21,18678,112.43173787343397
+INYO,Robbery,Robbery,7,18678,37.47724595781133
+INYO,Sex Offenses,Criminal Sexual Contact,13,18678,69.60059963593532
+INYO,Sex Offenses,Rape,9,18678,48.18503051718599
+INYO,Sex Offenses,Sexual Assault With An Object,2,18678,10.707784559374666
+INYO,Sex Offenses,Sodomy,3,18678,16.061676839062
+INYO,"Sex Offenses, Non-forcible",Statutory Rape,2,18678,10.707784559374666
+INYO,Stolen Property Offenses,Stolen Property Offenses,19,18678,101.72395331405932
+INYO,Weapon Law Violations,Weapon Law Violations,37,18678,198.0940143484313
+KERN,Animal Cruelty,Animal Cruelty,66,596286,11.068514102293195
+KERN,Arson,Arson,63,596286,10.56539982491623
+KERN,Assault Offenses,Aggravated Assault,1919,596286,321.8254327621309
+KERN,Assault Offenses,Intimidation,992,596286,166.36312105264923
+KERN,Assault Offenses,Simple Assault,4249,596286,712.5775215249058
+KERN,Burglary/Breaking & Entering,Burglary/Breaking & Entering,2121,596286,355.70179410551316
+KERN,Counterfeiting/Forgery,Counterfeiting/Forgery,372,596286,62.38617039474346
+KERN,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,3266,596286,547.7237433043875
+KERN,Drug/Narcotic Offenses,Drug Equipment Violations,1414,596286,237.1345294036754
+KERN,Drug/Narcotic Offenses,Drug/Narcotic Violations,1912,596286,320.65149944825134
+KERN,Embezzlement,Embezzlement,95,596286,15.931952116937174
+KERN,Extortion/Blackmail,Extortion/Blackmail,22,596286,3.6895047007643984
+KERN,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,282,596286,47.29274207343456
+KERN,Fraud Offenses,False Pretenses/Swindle/Confidence Game,595,596286,99.7843316797644
+KERN,Fraud Offenses,Identity Theft,337,596286,56.51650382534556
+KERN,Fraud Offenses,Impersonation,174,596286,29.18062808786388
+KERN,Fraud Offenses,Wire Fraud,28,596286,4.695733255518325
+KERN,Gambling Offenses,Gambling Equipment Violation,3,596286,0.5031142773769633
+KERN,Gambling Offenses,Operating/Promoting/Assisting Gambling,2,596286,0.33540951825130894
+KERN,Homicide Offenses,Justifiable Homicide,2,596286,0.33540951825130894
+KERN,Homicide Offenses,Murder and Nonnegligent Manslaughter,31,596286,5.198847532895289
+KERN,Homicide Offenses,Negligent Manslaughter,17,596286,2.850980905136126
+KERN,Human Trafficking,"Human Trafficking, Commercial Sex Acts",12,596286,2.0124571095078534
+KERN,Human Trafficking,"Human Trafficking, Involuntary Servitude",3,596286,0.5031142773769633
+KERN,Kidnapping/Abduction,Kidnapping/Abduction,177,596286,29.68374236524084
+KERN,Larceny/Theft Offenses,All Other Larceny,1993,596286,334.23558493742934
+KERN,Larceny/Theft Offenses,Pocket-picking,181,596286,30.354561401743457
+KERN,Larceny/Theft Offenses,Purse-snatching,47,596286,7.88212367890576
+KERN,Larceny/Theft Offenses,Shoplifting,2141,596286,359.0558892880262
+KERN,Larceny/Theft Offenses,Theft From Building,387,596286,64.90174178162827
+KERN,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,15,596286,2.515571386884817
+KERN,Larceny/Theft Offenses,Theft From Motor Vehicle,1802,596286,302.2039759444294
+KERN,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,452,596286,75.80255112479583
+KERN,Motor Vehicle Theft,Motor Vehicle Theft,3542,596286,594.0102568230682
+KERN,Pornography/Obscene Material,Pornography/Obscene Material,74,596286,12.410152175298432
+KERN,Prostitution Offenses,Assisting or Promoting Prostitution,28,596286,4.695733255518325
+KERN,Prostitution Offenses,Prostitution,46,596286,7.714418919780106
+KERN,Prostitution Offenses,Purchasing Prostitution,3,596286,0.5031142773769633
+KERN,Robbery,Robbery,612,596286,102.63531258490053
+KERN,Sex Offenses,Criminal Sexual Contact,234,596286,39.24291363540314
+KERN,Sex Offenses,Rape,163,596286,27.33587573748168
+KERN,Sex Offenses,Sexual Assault With An Object,22,596286,3.6895047007643984
+KERN,Sex Offenses,Sodomy,66,596286,11.068514102293195
+KERN,"Sex Offenses, Non-forcible",Statutory Rape,51,596286,8.552942715408378
+KERN,Stolen Property Offenses,Stolen Property Offenses,529,596286,88.71581757747121
+KERN,Weapon Law Violations,Weapon Law Violations,1077,596286,180.61802557832985
+KINGS,Animal Cruelty,Animal Cruelty,11,155138,7.090461395660638
+KINGS,Arson,Arson,27,155138,17.40385978934884
+KINGS,Assault Offenses,Aggravated Assault,487,155138,313.9140636078846
+KINGS,Assault Offenses,Intimidation,159,155138,102.48939653727648
+KINGS,Assault Offenses,Simple Assault,790,155138,509.22404568835486
+KINGS,Burglary/Breaking & Entering,Burglary/Breaking & Entering,271,155138,174.68318529309389
+KINGS,Counterfeiting/Forgery,Counterfeiting/Forgery,91,155138,58.65745336410164
+KINGS,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,923,155138,594.954169835888
+KINGS,Drug/Narcotic Offenses,Drug Equipment Violations,399,155138,257.1903724425995
+KINGS,Drug/Narcotic Offenses,Drug/Narcotic Violations,763,155138,491.820185899006
+KINGS,Embezzlement,Embezzlement,12,155138,7.73504879526615
+KINGS,Extortion/Blackmail,Extortion/Blackmail,4,155138,2.5783495984220504
+KINGS,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,47,155138,30.295607781459086
+KINGS,Fraud Offenses,False Pretenses/Swindle/Confidence Game,106,155138,68.32626435818432
+KINGS,Fraud Offenses,Hacking/Computer Invasion,2,155138,1.2891747992110252
+KINGS,Fraud Offenses,Identity Theft,16,155138,10.313398393688201
+KINGS,Fraud Offenses,Impersonation,37,155138,23.849733785403963
+KINGS,Homicide Offenses,Murder and Nonnegligent Manslaughter,6,155138,3.867524397633075
+KINGS,Homicide Offenses,Negligent Manslaughter,2,155138,1.2891747992110252
+KINGS,Kidnapping/Abduction,Kidnapping/Abduction,62,155138,39.96441877554177
+KINGS,Larceny/Theft Offenses,All Other Larceny,469,155138,302.31149041498537
+KINGS,Larceny/Theft Offenses,Pocket-picking,4,155138,2.5783495984220504
+KINGS,Larceny/Theft Offenses,Purse-snatching,1,155138,0.6445873996055126
+KINGS,Larceny/Theft Offenses,Shoplifting,308,155138,198.53291907849786
+KINGS,Larceny/Theft Offenses,Theft From Building,101,155138,65.10332736015675
+KINGS,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,2,155138,1.2891747992110252
+KINGS,Larceny/Theft Offenses,Theft From Motor Vehicle,150,155138,96.68810994082688
+KINGS,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,93,155138,59.94662816331267
+KINGS,Motor Vehicle Theft,Motor Vehicle Theft,277,155138,178.55070969072696
+KINGS,Pornography/Obscene Material,Pornography/Obscene Material,61,155138,39.31983137593626
+KINGS,Prostitution Offenses,Prostitution,1,155138,0.6445873996055126
+KINGS,Robbery,Robbery,62,155138,39.96441877554177
+KINGS,Sex Offenses,Criminal Sexual Contact,65,155138,41.89818097435831
+KINGS,Sex Offenses,Rape,39,155138,25.13890858461499
+KINGS,Sex Offenses,Sexual Assault With An Object,6,155138,3.867524397633075
+KINGS,Sex Offenses,Sodomy,22,155138,14.180922791321276
+KINGS,"Sex Offenses, Non-forcible",Statutory Rape,10,155138,6.445873996055124
+KINGS,Stolen Property Offenses,Stolen Property Offenses,139,155138,89.59764854516624
+KINGS,Weapon Law Violations,Weapon Law Violations,288,155138,185.6411710863876
+LAKE,Animal Cruelty,Animal Cruelty,21,68887,30.4847068387359
+LAKE,Arson,Arson,15,68887,21.77479059909707
+LAKE,Assault Offenses,Aggravated Assault,341,68887,495.0135729528068
+LAKE,Assault Offenses,Intimidation,113,68887,164.0367558465313
+LAKE,Assault Offenses,Simple Assault,708,68887,1027.7701162773817
+LAKE,Bribery,Bribery,1,68887,1.4516527066064715
+LAKE,Burglary/Breaking & Entering,Burglary/Breaking & Entering,88,68887,127.7454381813695
+LAKE,Counterfeiting/Forgery,Counterfeiting/Forgery,51,68887,74.03428803693004
+LAKE,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,364,68887,528.4015852047556
+LAKE,Drug/Narcotic Offenses,Drug Equipment Violations,363,68887,526.9499324981492
+LAKE,Drug/Narcotic Offenses,Drug/Narcotic Violations,750,68887,1088.7395299548537
+LAKE,Embezzlement,Embezzlement,7,68887,10.1615689462453
+LAKE,Extortion/Blackmail,Extortion/Blackmail,1,68887,1.4516527066064715
+LAKE,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,27,68887,39.19462307837473
+LAKE,Fraud Offenses,False Pretenses/Swindle/Confidence Game,28,68887,40.6462757849812
+LAKE,Fraud Offenses,Identity Theft,8,68887,11.613221652851772
+LAKE,Fraud Offenses,Impersonation,10,68887,14.516527066064716
+LAKE,Homicide Offenses,Murder and Nonnegligent Manslaughter,5,68887,7.258263533032358
+LAKE,Kidnapping/Abduction,Kidnapping/Abduction,52,68887,75.48594074353652
+LAKE,Larceny/Theft Offenses,All Other Larceny,281,68887,407.9144105564185
+LAKE,Larceny/Theft Offenses,Pocket-picking,3,68887,4.354958119819415
+LAKE,Larceny/Theft Offenses,Purse-snatching,2,68887,2.903305413212943
+LAKE,Larceny/Theft Offenses,Shoplifting,80,68887,116.13221652851773
+LAKE,Larceny/Theft Offenses,Theft From Building,108,68887,156.77849231349893
+LAKE,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,1,68887,1.4516527066064715
+LAKE,Larceny/Theft Offenses,Theft From Motor Vehicle,75,68887,108.87395299548537
+LAKE,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,66,68887,95.80907863602711
+LAKE,Motor Vehicle Theft,Motor Vehicle Theft,272,68887,394.84953619696023
+LAKE,Pornography/Obscene Material,Pornography/Obscene Material,34,68887,49.35619202462003
+LAKE,Prostitution Offenses,Purchasing Prostitution,1,68887,1.4516527066064715
+LAKE,Robbery,Robbery,30,68887,43.54958119819414
+LAKE,Sex Offenses,Criminal Sexual Contact,38,68887,55.16280285104592
+LAKE,Sex Offenses,Rape,30,68887,43.54958119819414
+LAKE,Sex Offenses,Sexual Assault With An Object,10,68887,14.516527066064716
+LAKE,Sex Offenses,Sodomy,13,68887,18.87148518588413
+LAKE,"Sex Offenses, Non-forcible",Statutory Rape,1,68887,1.4516527066064715
+LAKE,Stolen Property Offenses,Stolen Property Offenses,93,68887,135.00370171440184
+LAKE,Weapon Law Violations,Weapon Law Violations,226,68887,328.0735116930626
+LASSEN,Animal Cruelty,Animal Cruelty,4,28256,14.156285390713478
+LASSEN,Arson,Arson,11,28256,38.92978482446206
+LASSEN,Assault Offenses,Aggravated Assault,92,28256,325.59456398641
+LASSEN,Assault Offenses,Intimidation,32,28256,113.25028312570782
+LASSEN,Assault Offenses,Simple Assault,178,28256,629.9546998867497
+LASSEN,Burglary/Breaking & Entering,Burglary/Breaking & Entering,66,28256,233.57870894677237
+LASSEN,Counterfeiting/Forgery,Counterfeiting/Forgery,9,28256,31.851642129105322
+LASSEN,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,157,28256,555.6342015855039
+LASSEN,Drug/Narcotic Offenses,Drug Equipment Violations,95,28256,336.21177802944504
+LASSEN,Drug/Narcotic Offenses,Drug/Narcotic Violations,108,28256,382.21970554926384
+LASSEN,Embezzlement,Embezzlement,4,28256,14.156285390713478
+LASSEN,Extortion/Blackmail,Extortion/Blackmail,1,28256,3.5390713476783695
+LASSEN,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,7,28256,24.773499433748583
+LASSEN,Fraud Offenses,False Pretenses/Swindle/Confidence Game,12,28256,42.468856172140434
+LASSEN,Fraud Offenses,Identity Theft,2,28256,7.078142695356739
+LASSEN,Fraud Offenses,Impersonation,1,28256,3.5390713476783695
+LASSEN,Homicide Offenses,Murder and Nonnegligent Manslaughter,3,28256,10.617214043035109
+LASSEN,Kidnapping/Abduction,Kidnapping/Abduction,9,28256,31.851642129105322
+LASSEN,Larceny/Theft Offenses,All Other Larceny,68,28256,240.6568516421291
+LASSEN,Larceny/Theft Offenses,Pocket-picking,2,28256,7.078142695356739
+LASSEN,Larceny/Theft Offenses,Shoplifting,44,28256,155.71913929784824
+LASSEN,Larceny/Theft Offenses,Theft From Building,22,28256,77.85956964892412
+LASSEN,Larceny/Theft Offenses,Theft From Motor Vehicle,37,28256,130.94563986409966
+LASSEN,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,11,28256,38.92978482446206
+LASSEN,Motor Vehicle Theft,Motor Vehicle Theft,28,28256,99.09399773499433
+LASSEN,Pornography/Obscene Material,Pornography/Obscene Material,4,28256,14.156285390713478
+LASSEN,Robbery,Robbery,11,28256,38.92978482446206
+LASSEN,Sex Offenses,Criminal Sexual Contact,22,28256,77.85956964892412
+LASSEN,Sex Offenses,Rape,8,28256,28.312570781426956
+LASSEN,Sex Offenses,Sexual Assault With An Object,3,28256,10.617214043035109
+LASSEN,Sex Offenses,Sodomy,2,28256,7.078142695356739
+LASSEN,"Sex Offenses, Non-forcible",Statutory Rape,4,28256,14.156285390713478
+LASSEN,Stolen Property Offenses,Stolen Property Offenses,22,28256,77.85956964892412
+LASSEN,Weapon Law Violations,Weapon Law Violations,81,28256,286.66477916194793
+LOS ANGELES,Animal Cruelty,Animal Cruelty,166,6484366,2.5600035531615584
+LOS ANGELES,Arson,Arson,928,6484366,14.311345164662203
+LOS ANGELES,Assault Offenses,Aggravated Assault,18368,6484366,283.26593532814155
+LOS ANGELES,Assault Offenses,Intimidation,6491,6484366,100.10230761187755
+LOS ANGELES,Assault Offenses,Simple Assault,34980,6484366,539.4513511421162
+LOS ANGELES,Bribery,Bribery,2,6484366,0.030843416303151305
+LOS ANGELES,Burglary/Breaking & Entering,Burglary/Breaking & Entering,21188,6484366,326.7551523155849
+LOS ANGELES,Counterfeiting/Forgery,Counterfeiting/Forgery,2334,6484366,35.99426682577757
+LOS ANGELES,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,30406,6484366,468.91245805680927
+LOS ANGELES,Drug/Narcotic Offenses,Drug Equipment Violations,8875,6484366,136.8676598452339
+LOS ANGELES,Drug/Narcotic Offenses,Drug/Narcotic Violations,10520,6484366,162.23636975457586
+LOS ANGELES,Embezzlement,Embezzlement,1007,6484366,15.52966010863668
+LOS ANGELES,Extortion/Blackmail,Extortion/Blackmail,608,6484366,9.376398556157996
+LOS ANGELES,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,1361,6484366,20.98894479429446
+LOS ANGELES,Fraud Offenses,False Pretenses/Swindle/Confidence Game,5126,6484366,79.05167598497678
+LOS ANGELES,Fraud Offenses,Hacking/Computer Invasion,71,6484366,1.0949412787618713
+LOS ANGELES,Fraud Offenses,Identity Theft,3989,6484366,61.51719381663527
+LOS ANGELES,Fraud Offenses,Impersonation,1182,6484366,18.22845903516242
+LOS ANGELES,Fraud Offenses,Welfare Fraud,2,6484366,0.030843416303151305
+LOS ANGELES,Fraud Offenses,Wire Fraud,1,6484366,0.015421708151575652
+LOS ANGELES,Gambling Offenses,Betting/Wagering,10,6484366,0.15421708151575653
+LOS ANGELES,Gambling Offenses,Gambling Equipment Violation,2,6484366,0.030843416303151305
+LOS ANGELES,Gambling Offenses,Operating/Promoting/Assisting Gambling,18,6484366,0.2775907467283617
+LOS ANGELES,Homicide Offenses,Justifiable Homicide,8,6484366,0.12337366521260522
+LOS ANGELES,Homicide Offenses,Murder and Nonnegligent Manslaughter,291,6484366,4.487717072108515
+LOS ANGELES,Homicide Offenses,Negligent Manslaughter,26,6484366,0.40096441194096694
+LOS ANGELES,Human Trafficking,"Human Trafficking, Commercial Sex Acts",86,6484366,1.326266901035506
+LOS ANGELES,Human Trafficking,"Human Trafficking, Involuntary Servitude",46,6484366,0.7093985749724799
+LOS ANGELES,Kidnapping/Abduction,Kidnapping/Abduction,914,6484366,14.095441250540146
+LOS ANGELES,Larceny/Theft Offenses,All Other Larceny,16858,6484366,259.97915601926235
+LOS ANGELES,Larceny/Theft Offenses,Pocket-picking,1255,6484366,19.35424373022744
+LOS ANGELES,Larceny/Theft Offenses,Purse-snatching,337,6484366,5.197115647080994
+LOS ANGELES,Larceny/Theft Offenses,Shoplifting,16888,6484366,260.4418072638096
+LOS ANGELES,Larceny/Theft Offenses,Theft From Building,4322,6484366,66.65262263110996
+LOS ANGELES,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,51,6484366,0.7865071157303583
+LOS ANGELES,Larceny/Theft Offenses,Theft From Motor Vehicle,16357,6484366,252.25288023532295
+LOS ANGELES,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,5916,6484366,91.23482542472155
+LOS ANGELES,Motor Vehicle Theft,Motor Vehicle Theft,16305,6484366,251.45095141144097
+LOS ANGELES,Pornography/Obscene Material,Pornography/Obscene Material,273,6484366,4.210126325380153
+LOS ANGELES,Prostitution Offenses,Assisting or Promoting Prostitution,39,6484366,0.6014466179114504
+LOS ANGELES,Prostitution Offenses,Prostitution,192,6484366,2.960967965102525
+LOS ANGELES,Prostitution Offenses,Purchasing Prostitution,68,6484366,1.0486761543071443
+LOS ANGELES,Robbery,Robbery,9660,6484366,148.9737007442208
+LOS ANGELES,Sex Offenses,Criminal Sexual Contact,1659,6484366,25.584613823464004
+LOS ANGELES,Sex Offenses,Rape,1300,6484366,20.048220597048346
+LOS ANGELES,Sex Offenses,Sexual Assault With An Object,259,6484366,3.9942224112580935
+LOS ANGELES,Sex Offenses,Sodomy,453,6484366,6.986033792663771
+LOS ANGELES,"Sex Offenses, Non-forcible",Statutory Rape,188,6484366,2.899281132496222
+LOS ANGELES,Stolen Property Offenses,Stolen Property Offenses,2659,6484366,41.006321975039654
+LOS ANGELES,Weapon Law Violations,Weapon Law Violations,5514,6484366,85.03529874778815
+MADERA,Animal Cruelty,Animal Cruelty,11,167805,6.555227794165847
+MADERA,Arson,Arson,74,167805,44.098805160752065
+MADERA,Assault Offenses,Aggravated Assault,489,167805,291.40967194064535
+MADERA,Assault Offenses,Intimidation,210,167805,125.1452578886207
+MADERA,Assault Offenses,Simple Assault,1161,167805,691.8744971842317
+MADERA,Burglary/Breaking & Entering,Burglary/Breaking & Entering,181,167805,107.86329370400168
+MADERA,Counterfeiting/Forgery,Counterfeiting/Forgery,83,167805,49.46217335597867
+MADERA,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,1130,167805,673.4006734006733
+MADERA,Drug/Narcotic Offenses,Drug Equipment Violations,626,167805,373.0520544679837
+MADERA,Drug/Narcotic Offenses,Drug/Narcotic Violations,603,167805,359.34566908018235
+MADERA,Embezzlement,Embezzlement,21,167805,12.514525788862073
+MADERA,Extortion/Blackmail,Extortion/Blackmail,7,167805,4.1715085962873575
+MADERA,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,16,167805,9.534876791513959
+MADERA,Fraud Offenses,False Pretenses/Swindle/Confidence Game,156,167805,92.9650487172611
+MADERA,Fraud Offenses,Hacking/Computer Invasion,3,167805,1.7877893984088673
+MADERA,Fraud Offenses,Identity Theft,77,167805,45.88659455916093
+MADERA,Fraud Offenses,Impersonation,112,167805,66.74413754059772
+MADERA,Homicide Offenses,Murder and Nonnegligent Manslaughter,4,167805,2.3837191978784897
+MADERA,Homicide Offenses,Negligent Manslaughter,1,167805,0.5959297994696224
+MADERA,Human Trafficking,"Human Trafficking, Commercial Sex Acts",1,167805,0.5959297994696224
+MADERA,Kidnapping/Abduction,Kidnapping/Abduction,93,167805,55.42147135067489
+MADERA,Larceny/Theft Offenses,All Other Larceny,901,167805,536.9327493221298
+MADERA,Larceny/Theft Offenses,Pocket-picking,3,167805,1.7877893984088673
+MADERA,Larceny/Theft Offenses,Purse-snatching,4,167805,2.3837191978784897
+MADERA,Larceny/Theft Offenses,Shoplifting,232,167805,138.2557134769524
+MADERA,Larceny/Theft Offenses,Theft From Building,111,167805,66.14820774112809
+MADERA,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,4,167805,2.3837191978784897
+MADERA,Larceny/Theft Offenses,Theft From Motor Vehicle,310,167805,184.73823783558296
+MADERA,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,66,167805,39.33136676499508
+MADERA,Motor Vehicle Theft,Motor Vehicle Theft,387,167805,230.62483239474392
+MADERA,Pornography/Obscene Material,Pornography/Obscene Material,44,167805,26.22091117666339
+MADERA,Robbery,Robbery,79,167805,47.07845415810017
+MADERA,Sex Offenses,Criminal Sexual Contact,80,167805,47.6743839575698
+MADERA,Sex Offenses,Rape,52,167805,30.988349572420372
+MADERA,Sex Offenses,Sexual Assault With An Object,7,167805,4.1715085962873575
+MADERA,Sex Offenses,Sodomy,14,167805,8.343017192574715
+MADERA,"Sex Offenses, Non-forcible",Statutory Rape,19,167805,11.322666189922828
+MADERA,Stolen Property Offenses,Stolen Property Offenses,103,167805,61.38076934537112
+MADERA,Weapon Law Violations,Weapon Law Violations,318,167805,189.50567623133995
+MARIN,Animal Cruelty,Animal Cruelty,1,154633,0.646692491253484
+MARIN,Arson,Arson,43,154633,27.80777712389981
+MARIN,Assault Offenses,Aggravated Assault,292,154633,188.83420744601733
+MARIN,Assault Offenses,Intimidation,186,154633,120.28480337314804
+MARIN,Assault Offenses,Simple Assault,738,154633,477.25905854507124
+MARIN,Burglary/Breaking & Entering,Burglary/Breaking & Entering,276,154633,178.4871275859616
+MARIN,Counterfeiting/Forgery,Counterfeiting/Forgery,106,154633,68.54940407286931
+MARIN,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,784,154633,507.0069131427315
+MARIN,Drug/Narcotic Offenses,Drug Equipment Violations,354,154633,228.92914190373335
+MARIN,Drug/Narcotic Offenses,Drug/Narcotic Violations,599,154633,387.36880226083696
+MARIN,Embezzlement,Embezzlement,43,154633,27.80777712389981
+MARIN,Extortion/Blackmail,Extortion/Blackmail,11,154633,7.113617403788324
+MARIN,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,68,154633,43.975089405236915
+MARIN,Fraud Offenses,False Pretenses/Swindle/Confidence Game,210,154633,135.80542316323164
+MARIN,Fraud Offenses,Hacking/Computer Invasion,5,154633,3.23346245626742
+MARIN,Fraud Offenses,Identity Theft,216,154633,139.68557811075254
+MARIN,Fraud Offenses,Impersonation,83,154633,53.675476774039176
+MARIN,Homicide Offenses,Murder and Nonnegligent Manslaughter,1,154633,0.646692491253484
+MARIN,Kidnapping/Abduction,Kidnapping/Abduction,55,154633,35.568087018941625
+MARIN,Larceny/Theft Offenses,All Other Larceny,860,154633,556.1555424779963
+MARIN,Larceny/Theft Offenses,Pocket-picking,29,154633,18.754082246351036
+MARIN,Larceny/Theft Offenses,Purse-snatching,32,154633,20.69415972011149
+MARIN,Larceny/Theft Offenses,Shoplifting,653,154633,422.29019678852507
+MARIN,Larceny/Theft Offenses,Theft From Building,141,154633,91.18364126674125
+MARIN,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,5,154633,3.23346245626742
+MARIN,Larceny/Theft Offenses,Theft From Motor Vehicle,464,154633,300.0653159416166
+MARIN,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,99,154633,64.02255663409493
+MARIN,Motor Vehicle Theft,Motor Vehicle Theft,437,154633,282.6046186777725
+MARIN,Pornography/Obscene Material,Pornography/Obscene Material,41,154633,26.514392141392847
+MARIN,Prostitution Offenses,Assisting or Promoting Prostitution,1,154633,0.646692491253484
+MARIN,Prostitution Offenses,Prostitution,1,154633,0.646692491253484
+MARIN,Prostitution Offenses,Purchasing Prostitution,1,154633,0.646692491253484
+MARIN,Robbery,Robbery,127,154633,82.12994638919247
+MARIN,Sex Offenses,Criminal Sexual Contact,40,154633,25.86769965013936
+MARIN,Sex Offenses,Rape,47,154633,30.39454708891375
+MARIN,Sex Offenses,Sexual Assault With An Object,4,154633,2.586769965013936
+MARIN,Sex Offenses,Sodomy,7,154633,4.526847438774388
+MARIN,"Sex Offenses, Non-forcible",Statutory Rape,9,154633,5.820232421281357
+MARIN,Stolen Property Offenses,Stolen Property Offenses,74,154633,47.85524435275782
+MARIN,Weapon Law Violations,Weapon Law Violations,134,154633,86.65679382796687
+MARIPOSA,Animal Cruelty,Animal Cruelty,1,17130,5.837711617046118
+MARIPOSA,Arson,Arson,15,17130,87.56567425569177
+MARIPOSA,Assault Offenses,Aggravated Assault,70,17130,408.63981319322824
+MARIPOSA,Assault Offenses,Intimidation,43,17130,251.0215995329831
+MARIPOSA,Assault Offenses,Simple Assault,120,17130,700.5253940455342
+MARIPOSA,Burglary/Breaking & Entering,Burglary/Breaking & Entering,58,17130,338.58727378867485
+MARIPOSA,Counterfeiting/Forgery,Counterfeiting/Forgery,14,17130,81.72796263864565
+MARIPOSA,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,75,17130,437.82837127845886
+MARIPOSA,Drug/Narcotic Offenses,Drug Equipment Violations,93,17130,542.9071803852889
+MARIPOSA,Drug/Narcotic Offenses,Drug/Narcotic Violations,192,17130,1120.8406304728546
+MARIPOSA,Embezzlement,Embezzlement,1,17130,5.837711617046118
+MARIPOSA,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,7,17130,40.863981319322825
+MARIPOSA,Fraud Offenses,False Pretenses/Swindle/Confidence Game,29,17130,169.29363689433742
+MARIPOSA,Fraud Offenses,Identity Theft,9,17130,52.53940455341507
+MARIPOSA,Fraud Offenses,Impersonation,9,17130,52.53940455341507
+MARIPOSA,Kidnapping/Abduction,Kidnapping/Abduction,20,17130,116.75423234092236
+MARIPOSA,Larceny/Theft Offenses,All Other Larceny,68,17130,396.964389959136
+MARIPOSA,Larceny/Theft Offenses,Pocket-picking,1,17130,5.837711617046118
+MARIPOSA,Larceny/Theft Offenses,Purse-snatching,1,17130,5.837711617046118
+MARIPOSA,Larceny/Theft Offenses,Shoplifting,13,17130,75.89025102159952
+MARIPOSA,Larceny/Theft Offenses,Theft From Building,26,17130,151.78050204319905
+MARIPOSA,Larceny/Theft Offenses,Theft From Motor Vehicle,9,17130,52.53940455341507
+MARIPOSA,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,5,17130,29.18855808523059
+MARIPOSA,Motor Vehicle Theft,Motor Vehicle Theft,16,17130,93.40338587273789
+MARIPOSA,Pornography/Obscene Material,Pornography/Obscene Material,17,17130,99.241097489784
+MARIPOSA,Robbery,Robbery,2,17130,11.675423234092236
+MARIPOSA,Sex Offenses,Criminal Sexual Contact,10,17130,58.37711617046118
+MARIPOSA,Sex Offenses,Rape,6,17130,35.02626970227671
+MARIPOSA,Sex Offenses,Sodomy,2,17130,11.675423234092236
+MARIPOSA,Stolen Property Offenses,Stolen Property Offenses,5,17130,29.18855808523059
+MARIPOSA,Weapon Law Violations,Weapon Law Violations,32,17130,186.80677174547577
+MENDOCINO,Animal Cruelty,Animal Cruelty,7,89823,7.793104216069381
+MENDOCINO,Arson,Arson,38,89823,42.30542288723378
+MENDOCINO,Assault Offenses,Aggravated Assault,223,89823,248.26603431192456
+MENDOCINO,Assault Offenses,Intimidation,89,89823,99.08375360431071
+MENDOCINO,Assault Offenses,Simple Assault,541,89823,602.2956258419335
+MENDOCINO,Bribery,Bribery,2,89823,2.2266012045912515
+MENDOCINO,Burglary/Breaking & Entering,Burglary/Breaking & Entering,58,89823,64.57143493314629
+MENDOCINO,Counterfeiting/Forgery,Counterfeiting/Forgery,46,89823,51.211827705598786
+MENDOCINO,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,375,89823,417.48772586085965
+MENDOCINO,Drug/Narcotic Offenses,Drug Equipment Violations,451,89823,502.09857163532723
+MENDOCINO,Drug/Narcotic Offenses,Drug/Narcotic Violations,598,89823,665.7537601727843
+MENDOCINO,Embezzlement,Embezzlement,6,89823,6.679803613773756
+MENDOCINO,Extortion/Blackmail,Extortion/Blackmail,1,89823,1.1133006022956258
+MENDOCINO,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,11,89823,12.246306625251883
+MENDOCINO,Fraud Offenses,False Pretenses/Swindle/Confidence Game,68,89823,75.70444095610256
+MENDOCINO,Fraud Offenses,Identity Theft,6,89823,6.679803613773756
+MENDOCINO,Fraud Offenses,Impersonation,28,89823,31.172416864277523
+MENDOCINO,Homicide Offenses,Murder and Nonnegligent Manslaughter,4,89823,4.453202409182503
+MENDOCINO,Homicide Offenses,Negligent Manslaughter,2,89823,2.2266012045912515
+MENDOCINO,Kidnapping/Abduction,Kidnapping/Abduction,50,89823,55.665030114781295
+MENDOCINO,Larceny/Theft Offenses,All Other Larceny,88,89823,97.97045300201506
+MENDOCINO,Larceny/Theft Offenses,Pocket-picking,5,89823,5.566503011478129
+MENDOCINO,Larceny/Theft Offenses,Purse-snatching,1,89823,1.1133006022956258
+MENDOCINO,Larceny/Theft Offenses,Shoplifting,204,89823,227.11332286830768
+MENDOCINO,Larceny/Theft Offenses,Theft From Building,27,89823,30.0591162619819
+MENDOCINO,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,1,89823,1.1133006022956258
+MENDOCINO,Larceny/Theft Offenses,Theft From Motor Vehicle,31,89823,34.5123186711644
+MENDOCINO,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,20,89823,22.266012045912515
+MENDOCINO,Motor Vehicle Theft,Motor Vehicle Theft,164,89823,182.58129877648264
+MENDOCINO,Pornography/Obscene Material,Pornography/Obscene Material,24,89823,26.719214455095024
+MENDOCINO,Prostitution Offenses,Prostitution,1,89823,1.1133006022956258
+MENDOCINO,Robbery,Robbery,33,89823,36.73891987575565
+MENDOCINO,Sex Offenses,Criminal Sexual Contact,34,89823,37.85222047805128
+MENDOCINO,Sex Offenses,Rape,24,89823,26.719214455095024
+MENDOCINO,Sex Offenses,Sexual Assault With An Object,2,89823,2.2266012045912515
+MENDOCINO,Sex Offenses,Sodomy,6,89823,6.679803613773756
+MENDOCINO,"Sex Offenses, Non-forcible",Statutory Rape,6,89823,6.679803613773756
+MENDOCINO,Stolen Property Offenses,Stolen Property Offenses,76,89823,84.61084577446756
+MENDOCINO,Weapon Law Violations,Weapon Law Violations,193,89823,214.8670162430558
+MERCED,Animal Cruelty,Animal Cruelty,34,300226,11.324801982506512
+MERCED,Arson,Arson,116,300226,38.63755970502221
+MERCED,Assault Offenses,Aggravated Assault,947,300226,315.42904345393134
+MERCED,Assault Offenses,Intimidation,510,300226,169.87202973759767
+MERCED,Assault Offenses,Simple Assault,2579,300226,859.019538614244
+MERCED,Burglary/Breaking & Entering,Burglary/Breaking & Entering,1125,300226,374.71771265646544
+MERCED,Counterfeiting/Forgery,Counterfeiting/Forgery,205,300226,68.28189430628926
+MERCED,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,2596,300226,864.6819396054972
+MERCED,Drug/Narcotic Offenses,Drug Equipment Violations,514,300226,171.20435938259843
+MERCED,Drug/Narcotic Offenses,Drug/Narcotic Violations,717,300226,238.8200888663873
+MERCED,Embezzlement,Embezzlement,132,300226,43.96687828502528
+MERCED,Extortion/Blackmail,Extortion/Blackmail,27,300226,8.993225103755172
+MERCED,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,169,300226,56.29092750128237
+MERCED,Fraud Offenses,False Pretenses/Swindle/Confidence Game,362,300226,120.57583287256932
+MERCED,Fraud Offenses,Hacking/Computer Invasion,5,300226,1.6654120562509578
+MERCED,Fraud Offenses,Identity Theft,122,300226,40.636054172523366
+MERCED,Fraud Offenses,Impersonation,54,300226,17.986450207510345
+MERCED,Gambling Offenses,Operating/Promoting/Assisting Gambling,1,300226,0.3330824112501915
+MERCED,Homicide Offenses,Murder and Nonnegligent Manslaughter,14,300226,4.663153757502681
+MERCED,Homicide Offenses,Negligent Manslaughter,1,300226,0.3330824112501915
+MERCED,Human Trafficking,"Human Trafficking, Commercial Sex Acts",2,300226,0.666164822500383
+MERCED,Kidnapping/Abduction,Kidnapping/Abduction,137,300226,45.63229034127624
+MERCED,Larceny/Theft Offenses,All Other Larceny,1512,300226,503.62060581028953
+MERCED,Larceny/Theft Offenses,Pocket-picking,18,300226,5.995483402503448
+MERCED,Larceny/Theft Offenses,Purse-snatching,8,300226,2.664659290001532
+MERCED,Larceny/Theft Offenses,Shoplifting,1266,300226,421.6823326427425
+MERCED,Larceny/Theft Offenses,Theft From Building,242,300226,80.60594352254634
+MERCED,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,14,300226,4.663153757502681
+MERCED,Larceny/Theft Offenses,Theft From Motor Vehicle,771,300226,256.8065390738977
+MERCED,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,276,300226,91.93074550505285
+MERCED,Motor Vehicle Theft,Motor Vehicle Theft,1092,300226,363.72599308520915
+MERCED,Pornography/Obscene Material,Pornography/Obscene Material,61,300226,20.318027086261683
+MERCED,Prostitution Offenses,Assisting or Promoting Prostitution,2,300226,0.666164822500383
+MERCED,Prostitution Offenses,Prostitution,3,300226,0.9992472337505746
+MERCED,Robbery,Robbery,262,300226,87.26759174755017
+MERCED,Sex Offenses,Criminal Sexual Contact,156,300226,51.96085615502987
+MERCED,Sex Offenses,Rape,118,300226,39.303724527522604
+MERCED,Sex Offenses,Sexual Assault With An Object,37,300226,12.324049216257086
+MERCED,Sex Offenses,Sodomy,46,300226,15.321790917508809
+MERCED,"Sex Offenses, Non-forcible",Statutory Rape,27,300226,8.993225103755172
+MERCED,Stolen Property Offenses,Stolen Property Offenses,246,300226,81.93827316754712
+MERCED,Weapon Law Violations,Weapon Law Violations,541,300226,180.1975844863536
+MODOC,Animal Cruelty,Animal Cruelty,5,8580,58.27505827505828
+MODOC,Arson,Arson,2,8580,23.31002331002331
+MODOC,Assault Offenses,Aggravated Assault,51,8580,594.4055944055943
+MODOC,Assault Offenses,Intimidation,22,8580,256.4102564102564
+MODOC,Assault Offenses,Simple Assault,72,8580,839.1608391608391
+MODOC,Burglary/Breaking & Entering,Burglary/Breaking & Entering,25,8580,291.3752913752914
+MODOC,Counterfeiting/Forgery,Counterfeiting/Forgery,4,8580,46.62004662004662
+MODOC,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,38,8580,442.89044289044296
+MODOC,Drug/Narcotic Offenses,Drug Equipment Violations,37,8580,431.23543123543124
+MODOC,Drug/Narcotic Offenses,Drug/Narcotic Violations,49,8580,571.0955710955711
+MODOC,Embezzlement,Embezzlement,3,8580,34.96503496503497
+MODOC,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,2,8580,23.31002331002331
+MODOC,Fraud Offenses,False Pretenses/Swindle/Confidence Game,3,8580,34.96503496503497
+MODOC,Fraud Offenses,Impersonation,1,8580,11.655011655011656
+MODOC,Homicide Offenses,Murder and Nonnegligent Manslaughter,2,8580,23.31002331002331
+MODOC,Kidnapping/Abduction,Kidnapping/Abduction,13,8580,151.5151515151515
+MODOC,Larceny/Theft Offenses,All Other Larceny,8,8580,93.24009324009324
+MODOC,Larceny/Theft Offenses,Shoplifting,2,8580,23.31002331002331
+MODOC,Larceny/Theft Offenses,Theft From Building,10,8580,116.55011655011656
+MODOC,Larceny/Theft Offenses,Theft From Motor Vehicle,4,8580,46.62004662004662
+MODOC,Motor Vehicle Theft,Motor Vehicle Theft,2,8580,23.31002331002331
+MODOC,Pornography/Obscene Material,Pornography/Obscene Material,2,8580,23.31002331002331
+MODOC,Robbery,Robbery,2,8580,23.31002331002331
+MODOC,Sex Offenses,Criminal Sexual Contact,3,8580,34.96503496503497
+MODOC,Sex Offenses,Rape,3,8580,34.96503496503497
+MODOC,Sex Offenses,Sexual Assault With An Object,1,8580,11.655011655011656
+MODOC,Sex Offenses,Sodomy,1,8580,11.655011655011656
+MODOC,Stolen Property Offenses,Stolen Property Offenses,7,8580,81.58508158508158
+MODOC,Weapon Law Violations,Weapon Law Violations,31,8580,361.3053613053613
+MONO,Animal Cruelty,Animal Cruelty,3,13227,22.680880018144705
+MONO,Arson,Arson,3,13227,22.680880018144705
+MONO,Assault Offenses,Aggravated Assault,40,13227,302.41173357526276
+MONO,Assault Offenses,Intimidation,19,13227,143.6455734482498
+MONO,Assault Offenses,Simple Assault,84,13227,635.0646405080518
+MONO,Burglary/Breaking & Entering,Burglary/Breaking & Entering,9,13227,68.04264005443412
+MONO,Counterfeiting/Forgery,Counterfeiting/Forgery,11,13227,83.16322673319725
+MONO,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,48,13227,362.8940802903153
+MONO,Drug/Narcotic Offenses,Drug Equipment Violations,30,13227,226.80880018144705
+MONO,Drug/Narcotic Offenses,Drug/Narcotic Violations,38,13227,287.2911468964996
+MONO,Embezzlement,Embezzlement,5,13227,37.801466696907845
+MONO,Extortion/Blackmail,Extortion/Blackmail,1,13227,7.560293339381567
+MONO,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,1,13227,7.560293339381567
+MONO,Fraud Offenses,False Pretenses/Swindle/Confidence Game,18,13227,136.08528010886823
+MONO,Fraud Offenses,Identity Theft,3,13227,22.680880018144705
+MONO,Fraud Offenses,Impersonation,2,13227,15.120586678763134
+MONO,Fraud Offenses,Welfare Fraud,2,13227,15.120586678763134
+MONO,Kidnapping/Abduction,Kidnapping/Abduction,6,13227,45.36176003628941
+MONO,Larceny/Theft Offenses,All Other Larceny,58,13227,438.49701368413093
+MONO,Larceny/Theft Offenses,Pocket-picking,1,13227,7.560293339381567
+MONO,Larceny/Theft Offenses,Shoplifting,13,13227,98.28381341196038
+MONO,Larceny/Theft Offenses,Theft From Building,13,13227,98.28381341196038
+MONO,Larceny/Theft Offenses,Theft From Motor Vehicle,13,13227,98.28381341196038
+MONO,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,6,13227,45.36176003628941
+MONO,Motor Vehicle Theft,Motor Vehicle Theft,52,13227,393.1352536478415
+MONO,Pornography/Obscene Material,Pornography/Obscene Material,5,13227,37.801466696907845
+MONO,Robbery,Robbery,1,13227,7.560293339381567
+MONO,Sex Offenses,Criminal Sexual Contact,4,13227,30.241173357526268
+MONO,Sex Offenses,Rape,6,13227,45.36176003628941
+MONO,Sex Offenses,Sexual Assault With An Object,1,13227,7.560293339381567
+MONO,Sex Offenses,Sodomy,2,13227,15.120586678763134
+MONO,Stolen Property Offenses,Stolen Property Offenses,12,13227,90.72352007257882
+MONO,Weapon Law Violations,Weapon Law Violations,22,13227,166.3264534663945
+MONTEREY,Animal Cruelty,Animal Cruelty,20,435264,4.594912512865755
+MONTEREY,Arson,Arson,85,435264,19.52837817967946
+MONTEREY,Assault Offenses,Aggravated Assault,1121,435264,257.54484634612555
+MONTEREY,Assault Offenses,Intimidation,595,435264,136.69864725775622
+MONTEREY,Assault Offenses,Simple Assault,2335,435264,536.4560358770769
+MONTEREY,Burglary/Breaking & Entering,Burglary/Breaking & Entering,646,435264,148.4156741655639
+MONTEREY,Counterfeiting/Forgery,Counterfeiting/Forgery,226,435264,51.92251139538303
+MONTEREY,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,1899,435264,436.28694309660347
+MONTEREY,Drug/Narcotic Offenses,Drug Equipment Violations,1023,435264,235.02977503308338
+MONTEREY,Drug/Narcotic Offenses,Drug/Narcotic Violations,1325,435264,304.41295397735627
+MONTEREY,Embezzlement,Embezzlement,37,435264,8.500588148801647
+MONTEREY,Extortion/Blackmail,Extortion/Blackmail,43,435264,9.879061902661373
+MONTEREY,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,123,435264,28.258711954124394
+MONTEREY,Fraud Offenses,False Pretenses/Swindle/Confidence Game,407,435264,93.50646963681811
+MONTEREY,Fraud Offenses,Hacking/Computer Invasion,13,435264,2.9866931333627407
+MONTEREY,Fraud Offenses,Identity Theft,149,435264,34.23209822084987
+MONTEREY,Fraud Offenses,Impersonation,159,435264,36.52955447728275
+MONTEREY,Gambling Offenses,Betting/Wagering,1,435264,0.22974562564328777
+MONTEREY,Gambling Offenses,Gambling Equipment Violation,1,435264,0.22974562564328777
+MONTEREY,Homicide Offenses,Murder and Nonnegligent Manslaughter,8,435264,1.8379650051463021
+MONTEREY,Homicide Offenses,Negligent Manslaughter,8,435264,1.8379650051463021
+MONTEREY,Human Trafficking,"Human Trafficking, Commercial Sex Acts",4,435264,0.9189825025731511
+MONTEREY,Human Trafficking,"Human Trafficking, Involuntary Servitude",3,435264,0.6892368769298632
+MONTEREY,Kidnapping/Abduction,Kidnapping/Abduction,265,435264,60.88259079547125
+MONTEREY,Larceny/Theft Offenses,All Other Larceny,1210,435264,277.9922070283782
+MONTEREY,Larceny/Theft Offenses,Pocket-picking,48,435264,11.027790030877812
+MONTEREY,Larceny/Theft Offenses,Purse-snatching,37,435264,8.500588148801647
+MONTEREY,Larceny/Theft Offenses,Shoplifting,1375,435264,315.9002352595207
+MONTEREY,Larceny/Theft Offenses,Theft From Building,292,435264,67.08572268784002
+MONTEREY,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,6,435264,1.3784737538597265
+MONTEREY,Larceny/Theft Offenses,Theft From Motor Vehicle,866,435264,198.95971180708716
+MONTEREY,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,247,435264,56.74716953389207
+MONTEREY,Motor Vehicle Theft,Motor Vehicle Theft,801,435264,184.02624614027349
+MONTEREY,Pornography/Obscene Material,Pornography/Obscene Material,83,435264,19.06888692839288
+MONTEREY,Prostitution Offenses,Assisting or Promoting Prostitution,6,435264,1.3784737538597265
+MONTEREY,Prostitution Offenses,Prostitution,8,435264,1.8379650051463021
+MONTEREY,Prostitution Offenses,Purchasing Prostitution,2,435264,0.45949125128657553
+MONTEREY,Robbery,Robbery,368,435264,84.54639023672989
+MONTEREY,Sex Offenses,Criminal Sexual Contact,181,435264,41.583958241435084
+MONTEREY,Sex Offenses,Rape,135,435264,31.01565946184385
+MONTEREY,Sex Offenses,Sexual Assault With An Object,26,435264,5.973386266725481
+MONTEREY,Sex Offenses,Sodomy,49,435264,11.2575356565211
+MONTEREY,"Sex Offenses, Non-forcible",Statutory Rape,29,435264,6.6626231436553445
+MONTEREY,Stolen Property Offenses,Stolen Property Offenses,249,435264,57.20666078517865
+MONTEREY,Weapon Law Violations,Weapon Law Violations,635,435264,145.88847228348772
+NAPA,Animal Cruelty,Animal Cruelty,8,133999,5.970193807416473
+NAPA,Arson,Arson,29,133999,21.641952551884717
+NAPA,Assault Offenses,Aggravated Assault,268,133999,200.00149254845184
+NAPA,Assault Offenses,Intimidation,115,133999,85.8215359816118
+NAPA,Assault Offenses,Simple Assault,1314,133999,980.6043328681558
+NAPA,Burglary/Breaking & Entering,Burglary/Breaking & Entering,116,133999,86.56781020753887
+NAPA,Counterfeiting/Forgery,Counterfeiting/Forgery,123,133999,91.79172978902827
+NAPA,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,588,133999,438.80924484511075
+NAPA,Drug/Narcotic Offenses,Drug Equipment Violations,264,133999,197.0163956447436
+NAPA,Drug/Narcotic Offenses,Drug/Narcotic Violations,517,133999,385.8237748042896
+NAPA,Embezzlement,Embezzlement,17,133999,12.686661840760006
+NAPA,Extortion/Blackmail,Extortion/Blackmail,9,133999,6.716468033343532
+NAPA,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,14,133999,10.447839162978827
+NAPA,Fraud Offenses,False Pretenses/Swindle/Confidence Game,192,133999,143.28465137799537
+NAPA,Fraud Offenses,Identity Theft,106,133999,79.10506794826827
+NAPA,Fraud Offenses,Impersonation,56,133999,41.79135665191531
+NAPA,Homicide Offenses,Murder and Nonnegligent Manslaughter,5,133999,3.731371129635296
+NAPA,Homicide Offenses,Negligent Manslaughter,3,133999,2.2388226777811777
+NAPA,Kidnapping/Abduction,Kidnapping/Abduction,50,133999,37.313711296352956
+NAPA,Larceny/Theft Offenses,All Other Larceny,524,133999,391.047694385779
+NAPA,Larceny/Theft Offenses,Pocket-picking,10,133999,7.462742259270592
+NAPA,Larceny/Theft Offenses,Purse-snatching,8,133999,5.970193807416473
+NAPA,Larceny/Theft Offenses,Shoplifting,330,133999,246.27049455592953
+NAPA,Larceny/Theft Offenses,Theft From Building,175,133999,130.59798953723535
+NAPA,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,4,133999,2.9850969037082367
+NAPA,Larceny/Theft Offenses,Theft From Motor Vehicle,254,133999,189.55365338547304
+NAPA,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,84,133999,62.68703497787297
+NAPA,Motor Vehicle Theft,Motor Vehicle Theft,227,133999,169.40424928544243
+NAPA,Pornography/Obscene Material,Pornography/Obscene Material,19,133999,14.179210292614123
+NAPA,Prostitution Offenses,Purchasing Prostitution,1,133999,0.7462742259270592
+NAPA,Robbery,Robbery,55,133999,41.045082425988255
+NAPA,Sex Offenses,Criminal Sexual Contact,57,133999,42.537630877842375
+NAPA,Sex Offenses,Rape,36,133999,26.86587213337413
+NAPA,Sex Offenses,Sexual Assault With An Object,2,133999,1.4925484518541183
+NAPA,Sex Offenses,Sodomy,15,133999,11.194113388905887
+NAPA,"Sex Offenses, Non-forcible",Statutory Rape,6,133999,4.477645355562355
+NAPA,Stolen Property Offenses,Stolen Property Offenses,55,133999,41.045082425988255
+NAPA,Weapon Law Violations,Weapon Law Violations,143,133999,106.71721430756946
+NEVADA,Animal Cruelty,Animal Cruelty,19,103643,18.332159431896027
+NEVADA,Arson,Arson,21,103643,20.26186042472719
+NEVADA,Assault Offenses,Aggravated Assault,269,103643,259.5447835357911
+NEVADA,Assault Offenses,Intimidation,90,103643,86.83654467740223
+NEVADA,Assault Offenses,Simple Assault,583,103643,562.5078394102834
+NEVADA,Burglary/Breaking & Entering,Burglary/Breaking & Entering,181,103643,174.63793985122007
+NEVADA,Counterfeiting/Forgery,Counterfeiting/Forgery,72,103643,69.46923574192179
+NEVADA,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,423,103643,408.1317599837905
+NEVADA,Drug/Narcotic Offenses,Drug Equipment Violations,280,103643,270.1581389963625
+NEVADA,Drug/Narcotic Offenses,Drug/Narcotic Violations,378,103643,364.7134876450894
+NEVADA,Embezzlement,Embezzlement,10,103643,9.648504964155805
+NEVADA,Extortion/Blackmail,Extortion/Blackmail,8,103643,7.718803971324644
+NEVADA,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,19,103643,18.332159431896027
+NEVADA,Fraud Offenses,False Pretenses/Swindle/Confidence Game,137,103643,132.18451800893453
+NEVADA,Fraud Offenses,Hacking/Computer Invasion,4,103643,3.859401985662322
+NEVADA,Fraud Offenses,Identity Theft,46,103643,44.383122835116694
+NEVADA,Fraud Offenses,Impersonation,24,103643,23.15641191397393
+NEVADA,Homicide Offenses,Murder and Nonnegligent Manslaughter,1,103643,0.9648504964155805
+NEVADA,Homicide Offenses,Negligent Manslaughter,1,103643,0.9648504964155805
+NEVADA,Kidnapping/Abduction,Kidnapping/Abduction,44,103643,42.453421842285536
+NEVADA,Larceny/Theft Offenses,All Other Larceny,191,103643,184.28644481537586
+NEVADA,Larceny/Theft Offenses,Pocket-picking,36,103643,34.734617870960896
+NEVADA,Larceny/Theft Offenses,Purse-snatching,6,103643,5.789102978493482
+NEVADA,Larceny/Theft Offenses,Shoplifting,147,103643,141.83302297309032
+NEVADA,Larceny/Theft Offenses,Theft From Building,52,103643,50.17222581361018
+NEVADA,Larceny/Theft Offenses,Theft From Motor Vehicle,52,103643,50.17222581361018
+NEVADA,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,27,103643,26.05096340322067
+NEVADA,Motor Vehicle Theft,Motor Vehicle Theft,125,103643,120.60631205194755
+NEVADA,Pornography/Obscene Material,Pornography/Obscene Material,48,103643,46.31282382794786
+NEVADA,Prostitution Offenses,Prostitution,1,103643,0.9648504964155805
+NEVADA,Robbery,Robbery,15,103643,14.472757446233706
+NEVADA,Sex Offenses,Criminal Sexual Contact,35,103643,33.76976737454531
+NEVADA,Sex Offenses,Rape,34,103643,32.80491687812973
+NEVADA,Sex Offenses,Sexual Assault With An Object,8,103643,7.718803971324644
+NEVADA,Sex Offenses,Sodomy,10,103643,9.648504964155805
+NEVADA,"Sex Offenses, Non-forcible",Statutory Rape,9,103643,8.683654467740224
+NEVADA,Stolen Property Offenses,Stolen Property Offenses,52,103643,50.17222581361018
+NEVADA,Weapon Law Violations,Weapon Law Violations,116,103643,111.92265758420733
+NOT SPECIFIED,Animal Cruelty,Animal Cruelty,1,0,inf
+NOT SPECIFIED,Arson,Arson,4,0,inf
+NOT SPECIFIED,Assault Offenses,Aggravated Assault,21,0,inf
+NOT SPECIFIED,Assault Offenses,Intimidation,12,0,inf
+NOT SPECIFIED,Assault Offenses,Simple Assault,99,0,inf
+NOT SPECIFIED,Burglary/Breaking & Entering,Burglary/Breaking & Entering,27,0,inf
+NOT SPECIFIED,Counterfeiting/Forgery,Counterfeiting/Forgery,72,0,inf
+NOT SPECIFIED,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,40,0,inf
+NOT SPECIFIED,Drug/Narcotic Offenses,Drug Equipment Violations,59,0,inf
+NOT SPECIFIED,Drug/Narcotic Offenses,Drug/Narcotic Violations,211,0,inf
+NOT SPECIFIED,Embezzlement,Embezzlement,4,0,inf
+NOT SPECIFIED,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,10,0,inf
+NOT SPECIFIED,Fraud Offenses,False Pretenses/Swindle/Confidence Game,22,0,inf
+NOT SPECIFIED,Fraud Offenses,Identity Theft,10,0,inf
+NOT SPECIFIED,Fraud Offenses,Impersonation,7,0,inf
+NOT SPECIFIED,Kidnapping/Abduction,Kidnapping/Abduction,2,0,inf
+NOT SPECIFIED,Larceny/Theft Offenses,All Other Larceny,93,0,inf
+NOT SPECIFIED,Larceny/Theft Offenses,Pocket-picking,2,0,inf
+NOT SPECIFIED,Larceny/Theft Offenses,Shoplifting,6,0,inf
+NOT SPECIFIED,Larceny/Theft Offenses,Theft From Building,12,0,inf
+NOT SPECIFIED,Larceny/Theft Offenses,Theft From Motor Vehicle,19,0,inf
+NOT SPECIFIED,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,4,0,inf
+NOT SPECIFIED,Motor Vehicle Theft,Motor Vehicle Theft,22,0,inf
+NOT SPECIFIED,Robbery,Robbery,4,0,inf
+NOT SPECIFIED,Sex Offenses,Criminal Sexual Contact,9,0,inf
+NOT SPECIFIED,Sex Offenses,Rape,2,0,inf
+NOT SPECIFIED,Stolen Property Offenses,Stolen Property Offenses,5,0,inf
+NOT SPECIFIED,Weapon Law Violations,Weapon Law Violations,11,0,inf
+ORANGE,Animal Cruelty,Animal Cruelty,127,2980501,4.2610285988832075
+ORANGE,Arson,Arson,322,2980501,10.803552825514904
+ORANGE,Assault Offenses,Aggravated Assault,5599,2980501,187.85432382005575
+ORANGE,Assault Offenses,Intimidation,1512,2980501,50.72972631111347
+ORANGE,Assault Offenses,Simple Assault,12486,2980501,418.92285894217116
+ORANGE,Bribery,Bribery,8,2980501,0.26841125032335167
+ORANGE,Burglary/Breaking & Entering,Burglary/Breaking & Entering,6791,2980501,227.84760011823516
+ORANGE,Counterfeiting/Forgery,Counterfeiting/Forgery,1536,2980501,51.53496006208352
+ORANGE,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,12811,2980501,429.8270659865573
+ORANGE,Drug/Narcotic Offenses,Drug Equipment Violations,16901,2980501,567.0523177143709
+ORANGE,Drug/Narcotic Offenses,Drug/Narcotic Violations,16302,2980501,546.9550253464099
+ORANGE,Embezzlement,Embezzlement,275,2980501,9.226636729865213
+ORANGE,Extortion/Blackmail,Extortion/Blackmail,289,2980501,9.69635641793108
+ORANGE,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,1520,2980501,50.99813756143682
+ORANGE,Fraud Offenses,False Pretenses/Swindle/Confidence Game,3278,2980501,109.98150981999335
+ORANGE,Fraud Offenses,Hacking/Computer Invasion,28,2980501,0.9394393761317309
+ORANGE,Fraud Offenses,Identity Theft,2192,2980501,73.54468258859836
+ORANGE,Fraud Offenses,Impersonation,1340,2980501,44.95888442916141
+ORANGE,Fraud Offenses,Welfare Fraud,21,2980501,0.7045795320987981
+ORANGE,Fraud Offenses,Wire Fraud,142,2980501,4.764299693239492
+ORANGE,Gambling Offenses,Betting/Wagering,7,2980501,0.23485984403293272
+ORANGE,Gambling Offenses,Gambling Equipment Violation,4,2980501,0.13420562516167583
+ORANGE,Gambling Offenses,Operating/Promoting/Assisting Gambling,10,2980501,0.3355140629041896
+ORANGE,Homicide Offenses,Justifiable Homicide,3,2980501,0.10065421887125688
+ORANGE,Homicide Offenses,Murder and Nonnegligent Manslaughter,48,2980501,1.61046750194011
+ORANGE,Homicide Offenses,Negligent Manslaughter,23,2980501,0.7716823446796361
+ORANGE,Human Trafficking,"Human Trafficking, Commercial Sex Acts",9,2980501,0.30196265661377064
+ORANGE,Human Trafficking,"Human Trafficking, Involuntary Servitude",5,2980501,0.1677570314520948
+ORANGE,Kidnapping/Abduction,Kidnapping/Abduction,616,2980501,20.667666274898078
+ORANGE,Larceny/Theft Offenses,All Other Larceny,9758,2980501,327.3946225819082
+ORANGE,Larceny/Theft Offenses,Pocket-picking,1730,2980501,58.0439328824248
+ORANGE,Larceny/Theft Offenses,Purse-snatching,139,2980501,4.663645474368235
+ORANGE,Larceny/Theft Offenses,Shoplifting,8980,2980501,301.29162848796227
+ORANGE,Larceny/Theft Offenses,Theft From Building,3070,2980501,103.0028173115862
+ORANGE,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,31,2980501,1.040093595002988
+ORANGE,Larceny/Theft Offenses,Theft From Motor Vehicle,9196,2980501,308.53873224669275
+ORANGE,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,3241,2980501,108.74010778724784
+ORANGE,Motor Vehicle Theft,Motor Vehicle Theft,6386,2980501,214.25928057061546
+ORANGE,Pornography/Obscene Material,Pornography/Obscene Material,195,2980501,6.542524226631697
+ORANGE,Prostitution Offenses,Assisting or Promoting Prostitution,48,2980501,1.61046750194011
+ORANGE,Prostitution Offenses,Prostitution,145,2980501,4.8649539121107495
+ORANGE,Prostitution Offenses,Purchasing Prostitution,109,2980501,3.657103285655667
+ORANGE,Robbery,Robbery,1962,2980501,65.82785914180201
+ORANGE,Sex Offenses,Criminal Sexual Contact,751,2980501,25.19710612410464
+ORANGE,Sex Offenses,Rape,495,2980501,16.607946113757382
+ORANGE,Sex Offenses,Sexual Assault With An Object,102,2980501,3.4222434416227343
+ORANGE,Sex Offenses,Sodomy,181,2980501,6.072804538565832
+ORANGE,"Sex Offenses, Non-forcible",Statutory Rape,79,2980501,2.6505610969430977
+ORANGE,Stolen Property Offenses,Stolen Property Offenses,2713,2980501,91.02496526590663
+ORANGE,Weapon Law Violations,Weapon Law Violations,2949,2980501,98.94309715044551
+PLACER,Animal Cruelty,Animal Cruelty,11,436675,2.519035896261522
+PLACER,Arson,Arson,61,436675,13.96919906108662
+PLACER,Assault Offenses,Aggravated Assault,550,436675,125.95179481307609
+PLACER,Assault Offenses,Intimidation,342,436675,78.31911604740368
+PLACER,Assault Offenses,Simple Assault,1535,436675,351.5200091601305
+PLACER,Burglary/Breaking & Entering,Burglary/Breaking & Entering,443,436675,101.44844564035037
+PLACER,Counterfeiting/Forgery,Counterfeiting/Forgery,203,436675,46.487662449189905
+PLACER,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,1237,436675,283.2770366977729
+PLACER,Drug/Narcotic Offenses,Drug Equipment Violations,1448,436675,331.59672525333485
+PLACER,Drug/Narcotic Offenses,Drug/Narcotic Violations,1738,436675,398.0076716093205
+PLACER,Embezzlement,Embezzlement,96,436675,21.98431327646419
+PLACER,Extortion/Blackmail,Extortion/Blackmail,24,436675,5.496078319116047
+PLACER,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,80,436675,18.320261063720157
+PLACER,Fraud Offenses,False Pretenses/Swindle/Confidence Game,814,436675,186.4086563233526
+PLACER,Fraud Offenses,Hacking/Computer Invasion,7,436675,1.6030228430755138
+PLACER,Fraud Offenses,Identity Theft,365,436675,83.58619110322321
+PLACER,Fraud Offenses,Impersonation,220,436675,50.38071792523043
+PLACER,Fraud Offenses,Welfare Fraud,1,436675,0.22900326329650197
+PLACER,Fraud Offenses,Wire Fraud,1,436675,0.22900326329650197
+PLACER,Gambling Offenses,Betting/Wagering,1,436675,0.22900326329650197
+PLACER,Homicide Offenses,Murder and Nonnegligent Manslaughter,6,436675,1.3740195797790118
+PLACER,Human Trafficking,"Human Trafficking, Commercial Sex Acts",2,436675,0.45800652659300395
+PLACER,Human Trafficking,"Human Trafficking, Involuntary Servitude",2,436675,0.45800652659300395
+PLACER,Kidnapping/Abduction,Kidnapping/Abduction,127,436675,29.08341443865575
+PLACER,Larceny/Theft Offenses,All Other Larceny,1111,436675,254.4226255224137
+PLACER,Larceny/Theft Offenses,Pocket-picking,90,436675,20.61029369668518
+PLACER,Larceny/Theft Offenses,Purse-snatching,42,436675,9.618137058453083
+PLACER,Larceny/Theft Offenses,Shoplifting,1278,436675,292.6661704929295
+PLACER,Larceny/Theft Offenses,Theft From Building,265,436675,60.68586477357302
+PLACER,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,7,436675,1.6030228430755138
+PLACER,Larceny/Theft Offenses,Theft From Motor Vehicle,672,436675,153.89019293524933
+PLACER,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,186,436675,42.59460697314937
+PLACER,Motor Vehicle Theft,Motor Vehicle Theft,355,436675,81.2961584702582
+PLACER,Pornography/Obscene Material,Pornography/Obscene Material,69,436675,15.801225167458636
+PLACER,Prostitution Offenses,Assisting or Promoting Prostitution,10,436675,2.2900326329650196
+PLACER,Prostitution Offenses,Prostitution,32,436675,7.328104425488063
+PLACER,Prostitution Offenses,Purchasing Prostitution,5,436675,1.1450163164825098
+PLACER,Robbery,Robbery,162,436675,37.098528654033316
+PLACER,Sex Offenses,Criminal Sexual Contact,108,436675,24.732352436022214
+PLACER,Sex Offenses,Rape,82,436675,18.77826759031316
+PLACER,Sex Offenses,Sexual Assault With An Object,30,436675,6.870097898895059
+PLACER,Sex Offenses,Sodomy,42,436675,9.618137058453083
+PLACER,"Sex Offenses, Non-forcible",Incest,1,436675,0.22900326329650197
+PLACER,"Sex Offenses, Non-forcible",Statutory Rape,16,436675,3.6640522127440316
+PLACER,Stolen Property Offenses,Stolen Property Offenses,325,436675,74.42606057136314
+PLACER,Weapon Law Violations,Weapon Law Violations,394,436675,90.22728573882178
+PLUMAS,Larceny/Theft Offenses,All Other Larceny,1,0,inf
+RIVERSIDE,Animal Cruelty,Animal Cruelty,26,1140491,2.279719875036278
+RIVERSIDE,Arson,Arson,225,1140491,19.72834507242933
+RIVERSIDE,Assault Offenses,Aggravated Assault,2673,1140491,234.37273946046045
+RIVERSIDE,Assault Offenses,Intimidation,759,1140491,66.55028404432828
+RIVERSIDE,Assault Offenses,Simple Assault,5986,1140491,524.8616604602754
+RIVERSIDE,Bribery,Bribery,2,1140491,0.17536306731048296
+RIVERSIDE,Burglary/Breaking & Entering,Burglary/Breaking & Entering,2656,1140491,232.8821533883213
+RIVERSIDE,Counterfeiting/Forgery,Counterfeiting/Forgery,469,1140491,41.12263928430825
+RIVERSIDE,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,6135,1140491,537.9262089749064
+RIVERSIDE,Drug/Narcotic Offenses,Drug Equipment Violations,3320,1140491,291.10269173540166
+RIVERSIDE,Drug/Narcotic Offenses,Drug/Narcotic Violations,3804,1140491,333.54055402453855
+RIVERSIDE,Embezzlement,Embezzlement,255,1140491,22.358791082086576
+RIVERSIDE,Extortion/Blackmail,Extortion/Blackmail,104,1140491,9.118879500145113
+RIVERSIDE,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,429,1140491,37.61537793809859
+RIVERSIDE,Fraud Offenses,False Pretenses/Swindle/Confidence Game,1168,1140491,102.41203130932203
+RIVERSIDE,Fraud Offenses,Hacking/Computer Invasion,11,1140491,0.9644968702076561
+RIVERSIDE,Fraud Offenses,Identity Theft,792,1140491,69.44377465495124
+RIVERSIDE,Fraud Offenses,Impersonation,401,1140491,35.16029499575183
+RIVERSIDE,Fraud Offenses,Welfare Fraud,1,1140491,0.08768153365524148
+RIVERSIDE,Gambling Offenses,Operating/Promoting/Assisting Gambling,5,1140491,0.43840766827620736
+RIVERSIDE,Homicide Offenses,Murder and Nonnegligent Manslaughter,34,1140491,2.98117214427821
+RIVERSIDE,Homicide Offenses,Negligent Manslaughter,9,1140491,0.7891338028971733
+RIVERSIDE,Human Trafficking,"Human Trafficking, Commercial Sex Acts",1,1140491,0.08768153365524148
+RIVERSIDE,Kidnapping/Abduction,Kidnapping/Abduction,321,1140491,28.145772303332514
+RIVERSIDE,Larceny/Theft Offenses,All Other Larceny,4368,1140491,382.99293900609473
+RIVERSIDE,Larceny/Theft Offenses,Pocket-picking,547,1140491,47.961798909417084
+RIVERSIDE,Larceny/Theft Offenses,Purse-snatching,66,1140491,5.786981221245937
+RIVERSIDE,Larceny/Theft Offenses,Shoplifting,4323,1140491,379.04726999160886
+RIVERSIDE,Larceny/Theft Offenses,Theft From Building,1399,1140491,122.66646558368281
+RIVERSIDE,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,19,1140491,1.6659491394495878
+RIVERSIDE,Larceny/Theft Offenses,Theft From Motor Vehicle,3270,1140491,286.71861505263956
+RIVERSIDE,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,1092,1140491,95.74823475152368
+RIVERSIDE,Motor Vehicle Theft,Motor Vehicle Theft,3223,1140491,282.5975829708433
+RIVERSIDE,Pornography/Obscene Material,Pornography/Obscene Material,56,1140491,4.910165884693522
+RIVERSIDE,Prostitution Offenses,Assisting or Promoting Prostitution,2,1140491,0.17536306731048296
+RIVERSIDE,Prostitution Offenses,Prostitution,15,1140491,1.315223004828622
+RIVERSIDE,Prostitution Offenses,Purchasing Prostitution,17,1140491,1.490586072139105
+RIVERSIDE,Robbery,Robbery,864,1140491,75.75684507812863
+RIVERSIDE,Sex Offenses,Criminal Sexual Contact,377,1140491,33.05593818802603
+RIVERSIDE,Sex Offenses,Rape,277,1140491,24.287784822501887
+RIVERSIDE,Sex Offenses,Sexual Assault With An Object,60,1140491,5.260892019314488
+RIVERSIDE,Sex Offenses,Sodomy,107,1140491,9.381924101110837
+RIVERSIDE,"Sex Offenses, Non-forcible",Statutory Rape,47,1140491,4.121032081796349
+RIVERSIDE,Stolen Property Offenses,Stolen Property Offenses,835,1140491,73.21408060212663
+RIVERSIDE,Weapon Law Violations,Weapon Law Violations,1414,1140491,123.98168858851143
+SACRAMENTO,Animal Cruelty,Animal Cruelty,96,1609578,5.964296231683087
+SACRAMENTO,Arson,Arson,311,1609578,19.321834667223335
+SACRAMENTO,Assault Offenses,Aggravated Assault,5047,1609578,313.56044876358897
+SACRAMENTO,Assault Offenses,Intimidation,1594,1609578,99.03216868023793
+SACRAMENTO,Assault Offenses,Simple Assault,9914,1609578,615.9378420927721
+SACRAMENTO,Burglary/Breaking & Entering,Burglary/Breaking & Entering,5100,1609578,316.853237308164
+SACRAMENTO,Counterfeiting/Forgery,Counterfeiting/Forgery,513,1609578,31.8717079880565
+SACRAMENTO,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,8134,1609578,505.3498494636482
+SACRAMENTO,Drug/Narcotic Offenses,Drug Equipment Violations,3268,1609578,203.03458422021177
+SACRAMENTO,Drug/Narcotic Offenses,Drug/Narcotic Violations,3408,1609578,211.7325162247496
+SACRAMENTO,Embezzlement,Embezzlement,468,1609578,29.075944129455053
+SACRAMENTO,Extortion/Blackmail,Extortion/Blackmail,53,1609578,3.292788544575038
+SACRAMENTO,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,414,1609578,25.721027499133317
+SACRAMENTO,Fraud Offenses,False Pretenses/Swindle/Confidence Game,1152,1609578,71.57155478019705
+SACRAMENTO,Fraud Offenses,Hacking/Computer Invasion,9,1609578,0.5591527717202894
+SACRAMENTO,Fraud Offenses,Identity Theft,509,1609578,31.6231956450697
+SACRAMENTO,Fraud Offenses,Impersonation,1978,1609578,122.88935360697027
+SACRAMENTO,Fraud Offenses,Welfare Fraud,2,1609578,0.12425617149339764
+SACRAMENTO,Fraud Offenses,Wire Fraud,2,1609578,0.12425617149339764
+SACRAMENTO,Gambling Offenses,Betting/Wagering,2,1609578,0.12425617149339764
+SACRAMENTO,Gambling Offenses,Operating/Promoting/Assisting Gambling,2,1609578,0.12425617149339764
+SACRAMENTO,Homicide Offenses,Justifiable Homicide,7,1609578,0.4348966002268918
+SACRAMENTO,Homicide Offenses,Murder and Nonnegligent Manslaughter,82,1609578,5.094503031229303
+SACRAMENTO,Homicide Offenses,Negligent Manslaughter,5,1609578,0.3106404287334941
+SACRAMENTO,Human Trafficking,"Human Trafficking, Commercial Sex Acts",39,1609578,2.4229953441212544
+SACRAMENTO,Human Trafficking,"Human Trafficking, Involuntary Servitude",7,1609578,0.4348966002268918
+SACRAMENTO,Kidnapping/Abduction,Kidnapping/Abduction,381,1609578,23.67080066949225
+SACRAMENTO,Larceny/Theft Offenses,All Other Larceny,7123,1609578,442.5383547737357
+SACRAMENTO,Larceny/Theft Offenses,Pocket-picking,143,1609578,8.884316261777931
+SACRAMENTO,Larceny/Theft Offenses,Purse-snatching,106,1609578,6.585577089150076
+SACRAMENTO,Larceny/Theft Offenses,Shoplifting,5625,1609578,349.47048232518085
+SACRAMENTO,Larceny/Theft Offenses,Theft From Building,993,1609578,61.69318914647194
+SACRAMENTO,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,16,1609578,0.9940493719471811
+SACRAMENTO,Larceny/Theft Offenses,Theft From Motor Vehicle,5144,1609578,319.5868730810188
+SACRAMENTO,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,1996,1609578,124.00765915041086
+SACRAMENTO,Motor Vehicle Theft,Motor Vehicle Theft,5603,1609578,348.10366443875347
+SACRAMENTO,Pornography/Obscene Material,Pornography/Obscene Material,149,1609578,9.257084776258125
+SACRAMENTO,Prostitution Offenses,Assisting or Promoting Prostitution,31,1609578,1.9259706581476637
+SACRAMENTO,Prostitution Offenses,Prostitution,204,1609578,12.674129492326559
+SACRAMENTO,Prostitution Offenses,Purchasing Prostitution,64,1609578,3.9761974877887245
+SACRAMENTO,Robbery,Robbery,1938,1609578,120.40423017710233
+SACRAMENTO,Sex Offenses,Criminal Sexual Contact,420,1609578,26.09379601361351
+SACRAMENTO,Sex Offenses,Rape,342,1609578,21.247805325370997
+SACRAMENTO,Sex Offenses,Sexual Assault With An Object,76,1609578,4.721734516749111
+SACRAMENTO,Sex Offenses,Sodomy,138,1609578,8.573675833044437
+SACRAMENTO,"Sex Offenses, Non-forcible",Incest,1,1609578,0.06212808574669882
+SACRAMENTO,"Sex Offenses, Non-forcible",Statutory Rape,37,1609578,2.2987391726278568
+SACRAMENTO,Stolen Property Offenses,Stolen Property Offenses,1213,1609578,75.36136801074568
+SACRAMENTO,Weapon Law Violations,Weapon Law Violations,2169,1609578,134.75581798458975
+SAN BENITO,Animal Cruelty,Animal Cruelty,27,70581,38.25392102690526
+SAN BENITO,Arson,Arson,7,70581,9.917683229197658
+SAN BENITO,Assault Offenses,Aggravated Assault,147,70581,208.27134781315084
+SAN BENITO,Assault Offenses,Intimidation,79,70581,111.928139300945
+SAN BENITO,Assault Offenses,Simple Assault,317,70581,449.12936909366545
+SAN BENITO,Burglary/Breaking & Entering,Burglary/Breaking & Entering,50,70581,70.84059449426898
+SAN BENITO,Counterfeiting/Forgery,Counterfeiting/Forgery,31,70581,43.921168586446775
+SAN BENITO,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,196,70581,277.6951304175345
+SAN BENITO,Drug/Narcotic Offenses,Drug Equipment Violations,242,70581,342.86847735226195
+SAN BENITO,Drug/Narcotic Offenses,Drug/Narcotic Violations,274,70581,388.2064578285941
+SAN BENITO,Embezzlement,Embezzlement,10,70581,14.168118898853798
+SAN BENITO,Extortion/Blackmail,Extortion/Blackmail,7,70581,9.917683229197658
+SAN BENITO,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,28,70581,39.670732916790634
+SAN BENITO,Fraud Offenses,False Pretenses/Swindle/Confidence Game,50,70581,70.84059449426898
+SAN BENITO,Fraud Offenses,Identity Theft,7,70581,9.917683229197658
+SAN BENITO,Fraud Offenses,Impersonation,18,70581,25.50261401793684
+SAN BENITO,Homicide Offenses,Murder and Nonnegligent Manslaughter,2,70581,2.8336237797707597
+SAN BENITO,Kidnapping/Abduction,Kidnapping/Abduction,37,70581,52.42203992575906
+SAN BENITO,Larceny/Theft Offenses,All Other Larceny,105,70581,148.76524843796489
+SAN BENITO,Larceny/Theft Offenses,Pocket-picking,1,70581,1.4168118898853799
+SAN BENITO,Larceny/Theft Offenses,Purse-snatching,2,70581,2.8336237797707597
+SAN BENITO,Larceny/Theft Offenses,Shoplifting,128,70581,181.35192190532862
+SAN BENITO,Larceny/Theft Offenses,Theft From Building,25,70581,35.42029724713449
+SAN BENITO,Larceny/Theft Offenses,Theft From Motor Vehicle,110,70581,155.8493078873918
+SAN BENITO,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,20,70581,28.336237797707597
+SAN BENITO,Motor Vehicle Theft,Motor Vehicle Theft,92,70581,130.34669386945495
+SAN BENITO,Pornography/Obscene Material,Pornography/Obscene Material,8,70581,11.334495119083039
+SAN BENITO,Prostitution Offenses,Prostitution,2,70581,2.8336237797707597
+SAN BENITO,Robbery,Robbery,22,70581,31.16986157747836
+SAN BENITO,Sex Offenses,Criminal Sexual Contact,27,70581,38.25392102690526
+SAN BENITO,Sex Offenses,Rape,15,70581,21.2521783482807
+SAN BENITO,Sex Offenses,Sexual Assault With An Object,4,70581,5.6672475595415195
+SAN BENITO,Sex Offenses,Sodomy,3,70581,4.25043566965614
+SAN BENITO,"Sex Offenses, Non-forcible",Statutory Rape,3,70581,4.25043566965614
+SAN BENITO,Stolen Property Offenses,Stolen Property Offenses,23,70581,32.58667346736374
+SAN BENITO,Weapon Law Violations,Weapon Law Violations,80,70581,113.34495119083039
+SAN BERNARDINO,Animal Cruelty,Animal Cruelty,14,577722,2.423310865779735
+SAN BERNARDINO,Arson,Arson,131,577722,22.67526595836752
+SAN BERNARDINO,Assault Offenses,Aggravated Assault,1290,577722,223.2907869182756
+SAN BERNARDINO,Assault Offenses,Intimidation,487,577722,84.29659940248078
+SAN BERNARDINO,Assault Offenses,Simple Assault,3682,577722,637.3307577000702
+SAN BERNARDINO,Bribery,Bribery,2,577722,0.3461872665399621
+SAN BERNARDINO,Burglary/Breaking & Entering,Burglary/Breaking & Entering,1522,577722,263.44850983691117
+SAN BERNARDINO,Counterfeiting/Forgery,Counterfeiting/Forgery,381,577722,65.94867427586279
+SAN BERNARDINO,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,2402,577722,415.7709071144945
+SAN BERNARDINO,Drug/Narcotic Offenses,Drug Equipment Violations,2857,577722,494.52851025233593
+SAN BERNARDINO,Drug/Narcotic Offenses,Drug/Narcotic Violations,3331,577722,576.5748924223069
+SAN BERNARDINO,Embezzlement,Embezzlement,105,577722,18.174831493348012
+SAN BERNARDINO,Extortion/Blackmail,Extortion/Blackmail,23,577722,3.9811535652095644
+SAN BERNARDINO,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,257,577722,44.48506375038514
+SAN BERNARDINO,Fraud Offenses,False Pretenses/Swindle/Confidence Game,628,577722,108.70280169354811
+SAN BERNARDINO,Fraud Offenses,Hacking/Computer Invasion,12,577722,2.0771235992397727
+SAN BERNARDINO,Fraud Offenses,Identity Theft,369,577722,63.87155067662301
+SAN BERNARDINO,Fraud Offenses,Impersonation,140,577722,24.23310865779735
+SAN BERNARDINO,Homicide Offenses,Justifiable Homicide,3,577722,0.5192808998099432
+SAN BERNARDINO,Homicide Offenses,Murder and Nonnegligent Manslaughter,14,577722,2.423310865779735
+SAN BERNARDINO,Homicide Offenses,Negligent Manslaughter,3,577722,0.5192808998099432
+SAN BERNARDINO,Human Trafficking,"Human Trafficking, Involuntary Servitude",1,577722,0.17309363326998106
+SAN BERNARDINO,Kidnapping/Abduction,Kidnapping/Abduction,139,577722,24.060015024527367
+SAN BERNARDINO,Larceny/Theft Offenses,All Other Larceny,2259,577722,391.0185175568872
+SAN BERNARDINO,Larceny/Theft Offenses,Pocket-picking,30,577722,5.192808998099432
+SAN BERNARDINO,Larceny/Theft Offenses,Purse-snatching,21,577722,3.634966298669602
+SAN BERNARDINO,Larceny/Theft Offenses,Shoplifting,2738,577722,473.9303678932082
+SAN BERNARDINO,Larceny/Theft Offenses,Theft From Building,386,577722,66.8141424422127
+SAN BERNARDINO,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,6,577722,1.0385617996198864
+SAN BERNARDINO,Larceny/Theft Offenses,Theft From Motor Vehicle,1461,577722,252.88979820744234
+SAN BERNARDINO,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,776,577722,134.3206594175053
+SAN BERNARDINO,Motor Vehicle Theft,Motor Vehicle Theft,2001,577722,346.3603601732321
+SAN BERNARDINO,Pornography/Obscene Material,Pornography/Obscene Material,141,577722,24.40620229106733
+SAN BERNARDINO,Prostitution Offenses,Assisting or Promoting Prostitution,2,577722,0.3461872665399621
+SAN BERNARDINO,Prostitution Offenses,Prostitution,11,577722,1.904029965969792
+SAN BERNARDINO,Robbery,Robbery,531,577722,91.91271926635994
+SAN BERNARDINO,Sex Offenses,Criminal Sexual Contact,205,577722,35.48419482034612
+SAN BERNARDINO,Sex Offenses,Rape,128,577722,22.155985058557576
+SAN BERNARDINO,Sex Offenses,Sexual Assault With An Object,21,577722,3.634966298669602
+SAN BERNARDINO,Sex Offenses,Sodomy,65,577722,11.25108616254877
+SAN BERNARDINO,"Sex Offenses, Non-forcible",Statutory Rape,28,577722,4.84662173155947
+SAN BERNARDINO,Stolen Property Offenses,Stolen Property Offenses,993,577722,171.8819778370912
+SAN BERNARDINO,Weapon Law Violations,Weapon Law Violations,1098,577722,190.0568093304392
+SAN DIEGO,Animal Cruelty,Animal Cruelty,11,3315236,0.3318014162490996
+SAN DIEGO,Arson,Arson,351,3315236,10.587481554857632
+SAN DIEGO,Assault Offenses,Aggravated Assault,8318,3315236,250.90219821454642
+SAN DIEGO,Assault Offenses,Intimidation,1921,3315236,57.94459278313822
+SAN DIEGO,Assault Offenses,Simple Assault,16174,3315236,487.86873694663063
+SAN DIEGO,Bribery,Bribery,2,3315236,0.06032753022710902
+SAN DIEGO,Burglary/Breaking & Entering,Burglary/Breaking & Entering,5755,3315236,173.5924682285062
+SAN DIEGO,Counterfeiting/Forgery,Counterfeiting/Forgery,777,3315236,23.437245493231853
+SAN DIEGO,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,13661,3315236,412.06719521626815
+SAN DIEGO,Drug/Narcotic Offenses,Drug Equipment Violations,9392,3315236,283.298081946504
+SAN DIEGO,Drug/Narcotic Offenses,Drug/Narcotic Violations,12378,3315236,373.36708457557773
+SAN DIEGO,Embezzlement,Embezzlement,145,3315236,4.373745941465404
+SAN DIEGO,Extortion/Blackmail,Extortion/Blackmail,43,3315236,1.297041899882844
+SAN DIEGO,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,726,3315236,21.898893472440573
+SAN DIEGO,Fraud Offenses,False Pretenses/Swindle/Confidence Game,1254,3315236,37.82536145239735
+SAN DIEGO,Fraud Offenses,Hacking/Computer Invasion,33,3315236,0.9954042487472988
+SAN DIEGO,Fraud Offenses,Identity Theft,1732,3315236,52.24364117667642
+SAN DIEGO,Fraud Offenses,Impersonation,2326,3315236,70.16091765412779
+SAN DIEGO,Fraud Offenses,Welfare Fraud,4,3315236,0.12065506045421805
+SAN DIEGO,Gambling Offenses,Betting/Wagering,2,3315236,0.06032753022710902
+SAN DIEGO,Homicide Offenses,Murder and Nonnegligent Manslaughter,68,3315236,2.051136027721707
+SAN DIEGO,Homicide Offenses,Negligent Manslaughter,5,3315236,0.15081882556777254
+SAN DIEGO,Human Trafficking,"Human Trafficking, Involuntary Servitude",3,3315236,0.09049129534066352
+SAN DIEGO,Kidnapping/Abduction,Kidnapping/Abduction,686,3315236,20.692342867898393
+SAN DIEGO,Larceny/Theft Offenses,All Other Larceny,10972,3315236,330.95683082592006
+SAN DIEGO,Larceny/Theft Offenses,Pocket-picking,158,3315236,4.765874887941613
+SAN DIEGO,Larceny/Theft Offenses,Purse-snatching,115,3315236,3.4688329880587685
+SAN DIEGO,Larceny/Theft Offenses,Shoplifting,6354,3315236,191.66056353152536
+SAN DIEGO,Larceny/Theft Offenses,Theft From Building,1555,3315236,46.90465475157726
+SAN DIEGO,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,22,3315236,0.6636028324981992
+SAN DIEGO,Larceny/Theft Offenses,Theft From Motor Vehicle,8302,3315236,250.41957797272957
+SAN DIEGO,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,1693,3315236,51.06725433724779
+SAN DIEGO,Motor Vehicle Theft,Motor Vehicle Theft,9766,3315236,294.57933009897334
+SAN DIEGO,Pornography/Obscene Material,Pornography/Obscene Material,67,3315236,2.020972262608152
+SAN DIEGO,Prostitution Offenses,Assisting or Promoting Prostitution,26,3315236,0.7842578929524173
+SAN DIEGO,Prostitution Offenses,Prostitution,205,3315236,6.183571848278674
+SAN DIEGO,Robbery,Robbery,2295,3315236,69.22584093560761
+SAN DIEGO,Sex Offenses,Criminal Sexual Contact,829,3315236,25.00576127913669
+SAN DIEGO,Sex Offenses,Rape,421,3315236,12.69894511280645
+SAN DIEGO,Sex Offenses,Sexual Assault With An Object,92,3315236,2.775066390447015
+SAN DIEGO,Sex Offenses,Sodomy,109,3315236,3.2878503973774413
+SAN DIEGO,"Sex Offenses, Non-forcible",Incest,2,3315236,0.06032753022710902
+SAN DIEGO,"Sex Offenses, Non-forcible",Statutory Rape,52,3315236,1.5685157859048346
+SAN DIEGO,Stolen Property Offenses,Stolen Property Offenses,1506,3315236,45.42663026101309
+SAN DIEGO,Weapon Law Violations,Weapon Law Violations,2567,3315236,77.43038504649444
+SAN FRANCISCO,Arson,Arson,4,0,inf
+SAN FRANCISCO,Assault Offenses,Aggravated Assault,23,0,inf
+SAN FRANCISCO,Assault Offenses,Intimidation,42,0,inf
+SAN FRANCISCO,Assault Offenses,Simple Assault,119,0,inf
+SAN FRANCISCO,Burglary/Breaking & Entering,Burglary/Breaking & Entering,42,0,inf
+SAN FRANCISCO,Counterfeiting/Forgery,Counterfeiting/Forgery,11,0,inf
+SAN FRANCISCO,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,238,0,inf
+SAN FRANCISCO,Drug/Narcotic Offenses,Drug Equipment Violations,35,0,inf
+SAN FRANCISCO,Drug/Narcotic Offenses,Drug/Narcotic Violations,25,0,inf
+SAN FRANCISCO,Embezzlement,Embezzlement,2,0,inf
+SAN FRANCISCO,Extortion/Blackmail,Extortion/Blackmail,2,0,inf
+SAN FRANCISCO,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,7,0,inf
+SAN FRANCISCO,Fraud Offenses,False Pretenses/Swindle/Confidence Game,9,0,inf
+SAN FRANCISCO,Fraud Offenses,Impersonation,2,0,inf
+SAN FRANCISCO,Kidnapping/Abduction,Kidnapping/Abduction,6,0,inf
+SAN FRANCISCO,Larceny/Theft Offenses,All Other Larceny,118,0,inf
+SAN FRANCISCO,Larceny/Theft Offenses,Pocket-picking,1,0,inf
+SAN FRANCISCO,Larceny/Theft Offenses,Purse-snatching,1,0,inf
+SAN FRANCISCO,Larceny/Theft Offenses,Shoplifting,17,0,inf
+SAN FRANCISCO,Larceny/Theft Offenses,Theft From Building,102,0,inf
+SAN FRANCISCO,Larceny/Theft Offenses,Theft From Motor Vehicle,57,0,inf
+SAN FRANCISCO,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,45,0,inf
+SAN FRANCISCO,Motor Vehicle Theft,Motor Vehicle Theft,70,0,inf
+SAN FRANCISCO,Robbery,Robbery,11,0,inf
+SAN FRANCISCO,Sex Offenses,Criminal Sexual Contact,11,0,inf
+SAN FRANCISCO,Sex Offenses,Rape,5,0,inf
+SAN FRANCISCO,Sex Offenses,Sexual Assault With An Object,2,0,inf
+SAN FRANCISCO,Stolen Property Offenses,Stolen Property Offenses,10,0,inf
+SAN FRANCISCO,Weapon Law Violations,Weapon Law Violations,15,0,inf
+SAN JOAQUIN,Animal Cruelty,Animal Cruelty,56,821153,6.819679158451592
+SAN JOAQUIN,Arson,Arson,250,821153,30.444996243087463
+SAN JOAQUIN,Assault Offenses,Aggravated Assault,2705,821153,329.41485935020637
+SAN JOAQUIN,Assault Offenses,Intimidation,1122,821153,136.63714313897654
+SAN JOAQUIN,Assault Offenses,Simple Assault,5941,821153,723.4948907207305
+SAN JOAQUIN,Burglary/Breaking & Entering,Burglary/Breaking & Entering,2729,821153,332.33757898954275
+SAN JOAQUIN,Counterfeiting/Forgery,Counterfeiting/Forgery,352,821153,42.86655471026715
+SAN JOAQUIN,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,4794,821153,583.8132479574452
+SAN JOAQUIN,Drug/Narcotic Offenses,Drug Equipment Violations,752,821153,91.57854869920709
+SAN JOAQUIN,Drug/Narcotic Offenses,Drug/Narcotic Violations,1531,821153,186.44515699266762
+SAN JOAQUIN,Embezzlement,Embezzlement,141,821153,17.17097788110133
+SAN JOAQUIN,Extortion/Blackmail,Extortion/Blackmail,20,821153,2.435599699446997
+SAN JOAQUIN,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,399,821153,48.59021400396759
+SAN JOAQUIN,Fraud Offenses,False Pretenses/Swindle/Confidence Game,935,821153,113.8642859491471
+SAN JOAQUIN,Fraud Offenses,Hacking/Computer Invasion,6,821153,0.7306799098340991
+SAN JOAQUIN,Fraud Offenses,Identity Theft,560,821153,68.19679158451592
+SAN JOAQUIN,Fraud Offenses,Impersonation,209,821153,25.45201685922112
+SAN JOAQUIN,Fraud Offenses,Wire Fraud,2,821153,0.2435599699446997
+SAN JOAQUIN,Gambling Offenses,Operating/Promoting/Assisting Gambling,1,821153,0.12177998497234985
+SAN JOAQUIN,Homicide Offenses,Murder and Nonnegligent Manslaughter,59,821153,7.185019113368642
+SAN JOAQUIN,Homicide Offenses,Negligent Manslaughter,4,821153,0.4871199398893994
+SAN JOAQUIN,Human Trafficking,"Human Trafficking, Commercial Sex Acts",20,821153,2.435599699446997
+SAN JOAQUIN,Human Trafficking,"Human Trafficking, Involuntary Servitude",3,821153,0.36533995491704957
+SAN JOAQUIN,Kidnapping/Abduction,Kidnapping/Abduction,226,821153,27.522276603751063
+SAN JOAQUIN,Larceny/Theft Offenses,All Other Larceny,2211,821153,269.25554677386555
+SAN JOAQUIN,Larceny/Theft Offenses,Pocket-picking,77,821153,9.377058842870937
+SAN JOAQUIN,Larceny/Theft Offenses,Purse-snatching,41,821153,4.992979383866344
+SAN JOAQUIN,Larceny/Theft Offenses,Shoplifting,2937,821153,357.66781586379153
+SAN JOAQUIN,Larceny/Theft Offenses,Theft From Building,1144,821153,139.31630280836822
+SAN JOAQUIN,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,5,821153,0.6088999248617493
+SAN JOAQUIN,Larceny/Theft Offenses,Theft From Motor Vehicle,2349,821153,286.0611847000498
+SAN JOAQUIN,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,999,821153,121.65820498737749
+SAN JOAQUIN,Motor Vehicle Theft,Motor Vehicle Theft,2985,821153,363.5132551424643
+SAN JOAQUIN,Pornography/Obscene Material,Pornography/Obscene Material,60,821153,7.306799098340991
+SAN JOAQUIN,Prostitution Offenses,Assisting or Promoting Prostitution,19,821153,2.313819714474647
+SAN JOAQUIN,Prostitution Offenses,Prostitution,5,821153,0.6088999248617493
+SAN JOAQUIN,Robbery,Robbery,1455,821153,177.18987813476903
+SAN JOAQUIN,Sex Offenses,Criminal Sexual Contact,343,821153,41.770534845516
+SAN JOAQUIN,Sex Offenses,Rape,203,821153,24.72133694938702
+SAN JOAQUIN,Sex Offenses,Sexual Assault With An Object,35,821153,4.262299474032245
+SAN JOAQUIN,Sex Offenses,Sodomy,79,821153,9.62061881281564
+SAN JOAQUIN,"Sex Offenses, Non-forcible",Statutory Rape,35,821153,4.262299474032245
+SAN JOAQUIN,Stolen Property Offenses,Stolen Property Offenses,870,821153,105.94858692594437
+SAN JOAQUIN,Weapon Law Violations,Weapon Law Violations,1159,821153,141.1430025829535
+SAN LUIS OBISPO,Animal Cruelty,Animal Cruelty,9,236248,3.809556059733839
+SAN LUIS OBISPO,Arson,Arson,40,236248,16.93136026548373
+SAN LUIS OBISPO,Assault Offenses,Aggravated Assault,660,236248,279.3674443804815
+SAN LUIS OBISPO,Assault Offenses,Intimidation,161,236248,68.148725068572
+SAN LUIS OBISPO,Assault Offenses,Simple Assault,1387,236248,587.0949172056484
+SAN LUIS OBISPO,Burglary/Breaking & Entering,Burglary/Breaking & Entering,393,236248,166.35061460837764
+SAN LUIS OBISPO,Counterfeiting/Forgery,Counterfeiting/Forgery,152,236248,64.33916900883817
+SAN LUIS OBISPO,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,1031,236248,436.4058108428431
+SAN LUIS OBISPO,Drug/Narcotic Offenses,Drug Equipment Violations,1120,236248,474.07808743354445
+SAN LUIS OBISPO,Drug/Narcotic Offenses,Drug/Narcotic Violations,1461,236248,618.4179336967932
+SAN LUIS OBISPO,Embezzlement,Embezzlement,19,236248,8.042396126104771
+SAN LUIS OBISPO,Extortion/Blackmail,Extortion/Blackmail,16,236248,6.772544106193492
+SAN LUIS OBISPO,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,71,236248,30.053164471233618
+SAN LUIS OBISPO,Fraud Offenses,False Pretenses/Swindle/Confidence Game,446,236248,188.78466696014357
+SAN LUIS OBISPO,Fraud Offenses,Hacking/Computer Invasion,2,236248,0.8465680132741865
+SAN LUIS OBISPO,Fraud Offenses,Identity Theft,60,236248,25.39704039822559
+SAN LUIS OBISPO,Fraud Offenses,Impersonation,67,236248,28.36002844468525
+SAN LUIS OBISPO,Homicide Offenses,Murder and Nonnegligent Manslaughter,5,236248,2.116420033185466
+SAN LUIS OBISPO,Homicide Offenses,Negligent Manslaughter,5,236248,2.116420033185466
+SAN LUIS OBISPO,Kidnapping/Abduction,Kidnapping/Abduction,47,236248,19.894348311943382
+SAN LUIS OBISPO,Larceny/Theft Offenses,All Other Larceny,594,236248,251.43069994243336
+SAN LUIS OBISPO,Larceny/Theft Offenses,Pocket-picking,175,236248,74.07470116149132
+SAN LUIS OBISPO,Larceny/Theft Offenses,Purse-snatching,11,236248,4.6561240730080256
+SAN LUIS OBISPO,Larceny/Theft Offenses,Shoplifting,442,236248,187.0915309335952
+SAN LUIS OBISPO,Larceny/Theft Offenses,Theft From Building,144,236248,60.95289695574142
+SAN LUIS OBISPO,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,5,236248,2.116420033185466
+SAN LUIS OBISPO,Larceny/Theft Offenses,Theft From Motor Vehicle,273,236248,115.55653381192644
+SAN LUIS OBISPO,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,76,236248,32.169584504419085
+SAN LUIS OBISPO,Motor Vehicle Theft,Motor Vehicle Theft,182,236248,77.03768920795096
+SAN LUIS OBISPO,Pornography/Obscene Material,Pornography/Obscene Material,42,236248,17.777928278757916
+SAN LUIS OBISPO,Prostitution Offenses,Prostitution,2,236248,0.8465680132741865
+SAN LUIS OBISPO,Prostitution Offenses,Purchasing Prostitution,4,236248,1.693136026548373
+SAN LUIS OBISPO,Robbery,Robbery,44,236248,18.624496292032102
+SAN LUIS OBISPO,Sex Offenses,Criminal Sexual Contact,63,236248,26.66689241813687
+SAN LUIS OBISPO,Sex Offenses,Rape,85,236248,35.97914056415293
+SAN LUIS OBISPO,Sex Offenses,Sexual Assault With An Object,9,236248,3.809556059733839
+SAN LUIS OBISPO,Sex Offenses,Sodomy,21,236248,8.888964139378958
+SAN LUIS OBISPO,"Sex Offenses, Non-forcible",Statutory Rape,11,236248,4.6561240730080256
+SAN LUIS OBISPO,Stolen Property Offenses,Stolen Property Offenses,96,236248,40.63526463716095
+SAN LUIS OBISPO,Weapon Law Violations,Weapon Law Violations,273,236248,115.55653381192644
+SAN MATEO,Animal Cruelty,Animal Cruelty,19,726497,2.6152895331983474
+SAN MATEO,Arson,Arson,90,726497,12.388213578307962
+SAN MATEO,Assault Offenses,Aggravated Assault,1060,726497,145.90562658896044
+SAN MATEO,Assault Offenses,Intimidation,679,726497,93.46218910745674
+SAN MATEO,Assault Offenses,Simple Assault,3137,726497,431.7980666128009
+SAN MATEO,Bribery,Bribery,1,726497,0.13764681753675514
+SAN MATEO,Burglary/Breaking & Entering,Burglary/Breaking & Entering,912,726497,125.53389759352069
+SAN MATEO,Counterfeiting/Forgery,Counterfeiting/Forgery,313,726497,43.08345388900436
+SAN MATEO,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,2870,726497,395.0463663304872
+SAN MATEO,Drug/Narcotic Offenses,Drug Equipment Violations,2342,726497,322.3688466710806
+SAN MATEO,Drug/Narcotic Offenses,Drug/Narcotic Violations,2424,726497,333.65588570909443
+SAN MATEO,Embezzlement,Embezzlement,83,726497,11.424685855550676
+SAN MATEO,Extortion/Blackmail,Extortion/Blackmail,79,726497,10.874098585403656
+SAN MATEO,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,283,726497,38.954049362901706
+SAN MATEO,Fraud Offenses,False Pretenses/Swindle/Confidence Game,1102,726497,151.68679292550416
+SAN MATEO,Fraud Offenses,Hacking/Computer Invasion,5,726497,0.6882340876837757
+SAN MATEO,Fraud Offenses,Identity Theft,605,726497,83.27632460973686
+SAN MATEO,Fraud Offenses,Impersonation,382,726497,52.58108429904046
+SAN MATEO,Homicide Offenses,Murder and Nonnegligent Manslaughter,9,726497,1.2388213578307963
+SAN MATEO,Homicide Offenses,Negligent Manslaughter,2,726497,0.2752936350735103
+SAN MATEO,Human Trafficking,"Human Trafficking, Involuntary Servitude",3,726497,0.4129404526102654
+SAN MATEO,Kidnapping/Abduction,Kidnapping/Abduction,270,726497,37.164640734923886
+SAN MATEO,Larceny/Theft Offenses,All Other Larceny,1996,726497,274.74304780336325
+SAN MATEO,Larceny/Theft Offenses,Pocket-picking,139,726497,19.132907637608966
+SAN MATEO,Larceny/Theft Offenses,Purse-snatching,58,726497,7.983515417131797
+SAN MATEO,Larceny/Theft Offenses,Shoplifting,3687,726497,507.50381625801623
+SAN MATEO,Larceny/Theft Offenses,Theft From Building,1032,726497,142.0515156979313
+SAN MATEO,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,11,726497,1.5141149929043065
+SAN MATEO,Larceny/Theft Offenses,Theft From Motor Vehicle,1961,726497,269.92540918957684
+SAN MATEO,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,876,726497,120.5786121621975
+SAN MATEO,Motor Vehicle Theft,Motor Vehicle Theft,1642,726497,226.01607439535192
+SAN MATEO,Pornography/Obscene Material,Pornography/Obscene Material,85,726497,11.699979490624187
+SAN MATEO,Prostitution Offenses,Assisting or Promoting Prostitution,9,726497,1.2388213578307963
+SAN MATEO,Prostitution Offenses,Prostitution,14,726497,1.9270554455145719
+SAN MATEO,Robbery,Robbery,491,726497,67.58458741054677
+SAN MATEO,Sex Offenses,Criminal Sexual Contact,230,726497,31.658768033453683
+SAN MATEO,Sex Offenses,Rape,162,726497,22.298784440954332
+SAN MATEO,Sex Offenses,Sexual Assault With An Object,38,726497,5.230579066396695
+SAN MATEO,Sex Offenses,Sodomy,54,726497,7.4329281469847786
+SAN MATEO,"Sex Offenses, Non-forcible",Statutory Rape,38,726497,5.230579066396695
+SAN MATEO,Stolen Property Offenses,Stolen Property Offenses,690,726497,94.97630410036105
+SAN MATEO,Weapon Law Violations,Weapon Law Violations,788,726497,108.46569221896304
+SANTA BARBARA,Animal Cruelty,Animal Cruelty,17,238421,7.13024439961245
+SANTA BARBARA,Arson,Arson,99,238421,41.52318797421368
+SANTA BARBARA,Assault Offenses,Aggravated Assault,894,238421,374.9669701913841
+SANTA BARBARA,Assault Offenses,Intimidation,516,238421,216.42388883529557
+SANTA BARBARA,Assault Offenses,Simple Assault,2038,238421,854.7904756711868
+SANTA BARBARA,Bribery,Bribery,1,238421,0.41942614115367355
+SANTA BARBARA,Burglary/Breaking & Entering,Burglary/Breaking & Entering,616,238421,258.3665029506629
+SANTA BARBARA,Counterfeiting/Forgery,Counterfeiting/Forgery,236,238421,98.98456931226696
+SANTA BARBARA,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,2145,238421,899.6690727746297
+SANTA BARBARA,Drug/Narcotic Offenses,Drug Equipment Violations,1053,238421,441.6557266348182
+SANTA BARBARA,Drug/Narcotic Offenses,Drug/Narcotic Violations,1197,238421,502.05309096094726
+SANTA BARBARA,Embezzlement,Embezzlement,29,238421,12.163358093456532
+SANTA BARBARA,Extortion/Blackmail,Extortion/Blackmail,17,238421,7.13024439961245
+SANTA BARBARA,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,74,238421,31.037534445371843
+SANTA BARBARA,Fraud Offenses,False Pretenses/Swindle/Confidence Game,272,238421,114.0839103937992
+SANTA BARBARA,Fraud Offenses,Hacking/Computer Invasion,2,238421,0.8388522823073471
+SANTA BARBARA,Fraud Offenses,Identity Theft,171,238421,71.72187013727817
+SANTA BARBARA,Fraud Offenses,Impersonation,100,238421,41.942614115367356
+SANTA BARBARA,Homicide Offenses,Murder and Nonnegligent Manslaughter,3,238421,1.2582784234610207
+SANTA BARBARA,Homicide Offenses,Negligent Manslaughter,1,238421,0.41942614115367355
+SANTA BARBARA,Human Trafficking,"Human Trafficking, Involuntary Servitude",1,238421,0.41942614115367355
+SANTA BARBARA,Kidnapping/Abduction,Kidnapping/Abduction,134,238421,56.20310291459226
+SANTA BARBARA,Larceny/Theft Offenses,All Other Larceny,1767,238421,741.1259914185412
+SANTA BARBARA,Larceny/Theft Offenses,Pocket-picking,24,238421,10.066227387688166
+SANTA BARBARA,Larceny/Theft Offenses,Purse-snatching,15,238421,6.2913921173051035
+SANTA BARBARA,Larceny/Theft Offenses,Shoplifting,548,238421,229.8455253522131
+SANTA BARBARA,Larceny/Theft Offenses,Theft From Building,190,238421,79.69096681919798
+SANTA BARBARA,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,3,238421,1.2582784234610207
+SANTA BARBARA,Larceny/Theft Offenses,Theft From Motor Vehicle,557,238421,233.62036062259617
+SANTA BARBARA,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,171,238421,71.72187013727817
+SANTA BARBARA,Motor Vehicle Theft,Motor Vehicle Theft,917,238421,384.6137714379186
+SANTA BARBARA,Pornography/Obscene Material,Pornography/Obscene Material,52,238421,21.810159339991024
+SANTA BARBARA,Prostitution Offenses,Assisting or Promoting Prostitution,1,238421,0.41942614115367355
+SANTA BARBARA,Prostitution Offenses,Prostitution,1,238421,0.41942614115367355
+SANTA BARBARA,Prostitution Offenses,Purchasing Prostitution,1,238421,0.41942614115367355
+SANTA BARBARA,Robbery,Robbery,291,238421,122.05300707571901
+SANTA BARBARA,Sex Offenses,Criminal Sexual Contact,135,238421,56.62252905574592
+SANTA BARBARA,Sex Offenses,Rape,131,238421,54.944824491131236
+SANTA BARBARA,Sex Offenses,Sexual Assault With An Object,17,238421,7.13024439961245
+SANTA BARBARA,Sex Offenses,Sodomy,38,238421,15.938193363839595
+SANTA BARBARA,"Sex Offenses, Non-forcible",Statutory Rape,23,238421,9.646801246534492
+SANTA BARBARA,Stolen Property Offenses,Stolen Property Offenses,127,238421,53.26711992651654
+SANTA BARBARA,Weapon Law Violations,Weapon Law Violations,408,238421,171.1258655906988
+SANTA CLARA,Animal Cruelty,Animal Cruelty,161,1670520,9.63771759691593
+SANTA CLARA,Arson,Arson,319,1670520,19.09585039388933
+SANTA CLARA,Assault Offenses,Aggravated Assault,4298,1670520,257.28515671766877
+SANTA CLARA,Assault Offenses,Intimidation,2174,1670520,130.1391183583555
+SANTA CLARA,Assault Offenses,Simple Assault,10610,1670520,635.1315757967579
+SANTA CLARA,Bribery,Bribery,1,1670520,0.05986159998084428
+SANTA CLARA,Burglary/Breaking & Entering,Burglary/Breaking & Entering,6115,1670520,366.05368388286286
+SANTA CLARA,Counterfeiting/Forgery,Counterfeiting/Forgery,740,1670520,44.29758398582477
+SANTA CLARA,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,9417,1670520,563.7166870196107
+SANTA CLARA,Drug/Narcotic Offenses,Drug Equipment Violations,4134,1670520,247.46785432081026
+SANTA CLARA,Drug/Narcotic Offenses,Drug/Narcotic Violations,4427,1670520,265.00730311519766
+SANTA CLARA,Embezzlement,Embezzlement,172,1670520,10.296195196705218
+SANTA CLARA,Extortion/Blackmail,Extortion/Blackmail,175,1670520,10.47577999664775
+SANTA CLARA,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,347,1670520,20.77197519335297
+SANTA CLARA,Fraud Offenses,False Pretenses/Swindle/Confidence Game,3397,1670520,203.34985513492805
+SANTA CLARA,Fraud Offenses,Hacking/Computer Invasion,27,1670520,1.6162631994827956
+SANTA CLARA,Fraud Offenses,Identity Theft,718,1670520,42.9806287862462
+SANTA CLARA,Fraud Offenses,Impersonation,1642,1670520,98.29274716854633
+SANTA CLARA,Fraud Offenses,Welfare Fraud,15,1670520,0.8979239997126643
+SANTA CLARA,Fraud Offenses,Wire Fraud,7,1670520,0.41903119986591003
+SANTA CLARA,Gambling Offenses,Betting/Wagering,14,1670520,0.8380623997318201
+SANTA CLARA,Gambling Offenses,Gambling Equipment Violation,2,1670520,0.11972319996168856
+SANTA CLARA,Gambling Offenses,Operating/Promoting/Assisting Gambling,1,1670520,0.05986159998084428
+SANTA CLARA,Homicide Offenses,Murder and Nonnegligent Manslaughter,32,1670520,1.915571199387017
+SANTA CLARA,Homicide Offenses,Negligent Manslaughter,3,1670520,0.17958479994253287
+SANTA CLARA,Human Trafficking,"Human Trafficking, Commercial Sex Acts",18,1670520,1.077508799655197
+SANTA CLARA,Human Trafficking,"Human Trafficking, Involuntary Servitude",24,1670520,1.436678399540263
+SANTA CLARA,Kidnapping/Abduction,Kidnapping/Abduction,532,1670520,31.846371189809158
+SANTA CLARA,Larceny/Theft Offenses,All Other Larceny,9294,1670520,556.3537102219668
+SANTA CLARA,Larceny/Theft Offenses,Pocket-picking,336,1670520,20.11349759356368
+SANTA CLARA,Larceny/Theft Offenses,Purse-snatching,146,1670520,8.739793597203265
+SANTA CLARA,Larceny/Theft Offenses,Shoplifting,6847,1670520,409.8723750688408
+SANTA CLARA,Larceny/Theft Offenses,Theft From Building,2393,1670520,143.24880875416036
+SANTA CLARA,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,12,1670520,0.7183391997701315
+SANTA CLARA,Larceny/Theft Offenses,Theft From Motor Vehicle,6906,1670520,413.40420946771064
+SANTA CLARA,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,1959,1670520,117.26887436247395
+SANTA CLARA,Motor Vehicle Theft,Motor Vehicle Theft,8413,1670520,503.615640638843
+SANTA CLARA,Pornography/Obscene Material,Pornography/Obscene Material,233,1670520,13.947752795536719
+SANTA CLARA,Prostitution Offenses,Assisting or Promoting Prostitution,18,1670520,1.077508799655197
+SANTA CLARA,Prostitution Offenses,Prostitution,160,1670520,9.577855996935087
+SANTA CLARA,Prostitution Offenses,Purchasing Prostitution,15,1670520,0.8979239997126643
+SANTA CLARA,Robbery,Robbery,1840,1670520,110.14534396475348
+SANTA CLARA,Sex Offenses,Criminal Sexual Contact,941,1670520,56.32976558197448
+SANTA CLARA,Sex Offenses,Rape,647,1670520,38.73045518760625
+SANTA CLARA,Sex Offenses,Sexual Assault With An Object,138,1670520,8.260900797356513
+SANTA CLARA,Sex Offenses,Sodomy,219,1670520,13.109690395804899
+SANTA CLARA,"Sex Offenses, Non-forcible",Incest,2,1670520,0.11972319996168856
+SANTA CLARA,"Sex Offenses, Non-forcible",Statutory Rape,124,1670520,7.422838397624691
+SANTA CLARA,Stolen Property Offenses,Stolen Property Offenses,1045,1670520,62.555371979982276
+SANTA CLARA,Weapon Law Violations,Weapon Law Violations,1558,1670520,93.2643727701554
+SANTA CRUZ,Animal Cruelty,Animal Cruelty,11,262951,4.183288901734544
+SANTA CRUZ,Arson,Arson,81,262951,30.804218276408914
+SANTA CRUZ,Assault Offenses,Aggravated Assault,576,262951,219.05221885446338
+SANTA CRUZ,Assault Offenses,Intimidation,297,262951,112.94880034683268
+SANTA CRUZ,Assault Offenses,Simple Assault,1705,262951,648.4097797688543
+SANTA CRUZ,Burglary/Breaking & Entering,Burglary/Breaking & Entering,426,262951,162.00737019444688
+SANTA CRUZ,Counterfeiting/Forgery,Counterfeiting/Forgery,106,262951,40.31169305307833
+SANTA CRUZ,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,1779,262951,676.5519051077957
+SANTA CRUZ,Drug/Narcotic Offenses,Drug Equipment Violations,1471,262951,559.4198158592285
+SANTA CRUZ,Drug/Narcotic Offenses,Drug/Narcotic Violations,1430,262951,543.8275572254906
+SANTA CRUZ,Embezzlement,Embezzlement,16,262951,6.084783857068428
+SANTA CRUZ,Extortion/Blackmail,Extortion/Blackmail,25,262951,9.507474776669417
+SANTA CRUZ,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,50,262951,19.014949553338834
+SANTA CRUZ,Fraud Offenses,False Pretenses/Swindle/Confidence Game,380,262951,144.51361660537515
+SANTA CRUZ,Fraud Offenses,Identity Theft,211,262951,80.24308711508988
+SANTA CRUZ,Fraud Offenses,Impersonation,96,262951,36.50870314241056
+SANTA CRUZ,Fraud Offenses,Welfare Fraud,1,262951,0.3802989910667767
+SANTA CRUZ,Homicide Offenses,Murder and Nonnegligent Manslaughter,5,262951,1.9014949553338836
+SANTA CRUZ,Human Trafficking,"Human Trafficking, Involuntary Servitude",2,262951,0.7605979821335535
+SANTA CRUZ,Kidnapping/Abduction,Kidnapping/Abduction,138,262951,52.48126076721519
+SANTA CRUZ,Larceny/Theft Offenses,All Other Larceny,1206,262951,458.64058322653267
+SANTA CRUZ,Larceny/Theft Offenses,Pocket-picking,11,262951,4.183288901734544
+SANTA CRUZ,Larceny/Theft Offenses,Purse-snatching,26,262951,9.887773767736194
+SANTA CRUZ,Larceny/Theft Offenses,Shoplifting,725,262951,275.7167685234131
+SANTA CRUZ,Larceny/Theft Offenses,Theft From Building,319,262951,121.31537815030177
+SANTA CRUZ,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,4,262951,1.521195964267107
+SANTA CRUZ,Larceny/Theft Offenses,Theft From Motor Vehicle,806,262951,306.520986799822
+SANTA CRUZ,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,144,262951,54.763054713615844
+SANTA CRUZ,Motor Vehicle Theft,Motor Vehicle Theft,410,262951,155.92258633737845
+SANTA CRUZ,Pornography/Obscene Material,Pornography/Obscene Material,30,262951,11.408969732003301
+SANTA CRUZ,Prostitution Offenses,Assisting or Promoting Prostitution,2,262951,0.7605979821335535
+SANTA CRUZ,Robbery,Robbery,134,262951,50.96006480294808
+SANTA CRUZ,Sex Offenses,Criminal Sexual Contact,84,262951,31.94511524960924
+SANTA CRUZ,Sex Offenses,Rape,71,262951,27.001228365741145
+SANTA CRUZ,Sex Offenses,Sexual Assault With An Object,13,262951,4.943886883868097
+SANTA CRUZ,Sex Offenses,Sodomy,28,262951,10.648371749869748
+SANTA CRUZ,"Sex Offenses, Non-forcible",Statutory Rape,7,262951,2.662092937467437
+SANTA CRUZ,Stolen Property Offenses,Stolen Property Offenses,230,262951,87.46876794535865
+SANTA CRUZ,Weapon Law Violations,Weapon Law Violations,379,262951,144.13331761430837
+SHASTA,Animal Cruelty,Animal Cruelty,16,182783,8.753549290688959
+SHASTA,Arson,Arson,50,182783,27.354841533402993
+SHASTA,Assault Offenses,Aggravated Assault,581,182783,317.8632586181428
+SHASTA,Assault Offenses,Intimidation,186,182783,101.76001050425914
+SHASTA,Assault Offenses,Simple Assault,1013,182783,554.2090894667447
+SHASTA,Bribery,Bribery,1,182783,0.5470968306680599
+SHASTA,Burglary/Breaking & Entering,Burglary/Breaking & Entering,262,182783,143.33936963503172
+SHASTA,Counterfeiting/Forgery,Counterfeiting/Forgery,154,182783,84.25291192288124
+SHASTA,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,738,182783,403.7574610330282
+SHASTA,Drug/Narcotic Offenses,Drug Equipment Violations,1682,182783,920.2168691836769
+SHASTA,Drug/Narcotic Offenses,Drug/Narcotic Violations,1414,182783,773.5949185646368
+SHASTA,Embezzlement,Embezzlement,51,182783,27.90193836407106
+SHASTA,Extortion/Blackmail,Extortion/Blackmail,3,182783,1.6412904920041798
+SHASTA,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,27,182783,14.77161442803762
+SHASTA,Fraud Offenses,False Pretenses/Swindle/Confidence Game,268,182783,146.62195061904006
+SHASTA,Fraud Offenses,Identity Theft,14,182783,7.659355629352839
+SHASTA,Fraud Offenses,Impersonation,62,182783,33.920003501419714
+SHASTA,Homicide Offenses,Murder and Nonnegligent Manslaughter,6,182783,3.2825809840083595
+SHASTA,Homicide Offenses,Negligent Manslaughter,1,182783,0.5470968306680599
+SHASTA,Human Trafficking,"Human Trafficking, Commercial Sex Acts",1,182783,0.5470968306680599
+SHASTA,Kidnapping/Abduction,Kidnapping/Abduction,91,182783,49.78581159079345
+SHASTA,Larceny/Theft Offenses,All Other Larceny,455,182783,248.92905795396726
+SHASTA,Larceny/Theft Offenses,Pocket-picking,163,182783,89.17678339889378
+SHASTA,Larceny/Theft Offenses,Purse-snatching,30,182783,16.4129049200418
+SHASTA,Larceny/Theft Offenses,Shoplifting,592,182783,323.88132375549145
+SHASTA,Larceny/Theft Offenses,Theft From Building,165,182783,90.2709770602299
+SHASTA,Larceny/Theft Offenses,Theft From Motor Vehicle,246,182783,134.58582034434275
+SHASTA,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,65,182783,35.561293993423895
+SHASTA,Motor Vehicle Theft,Motor Vehicle Theft,351,182783,192.03098756448904
+SHASTA,Pornography/Obscene Material,Pornography/Obscene Material,43,182783,23.525163718726578
+SHASTA,Prostitution Offenses,Assisting or Promoting Prostitution,1,182783,0.5470968306680599
+SHASTA,Prostitution Offenses,Prostitution,4,182783,2.1883873226722397
+SHASTA,Robbery,Robbery,124,182783,67.84000700283943
+SHASTA,Sex Offenses,Criminal Sexual Contact,74,182783,40.48516546943643
+SHASTA,Sex Offenses,Rape,94,182783,51.42710208279763
+SHASTA,Sex Offenses,Sexual Assault With An Object,13,182783,7.112258798684779
+SHASTA,Sex Offenses,Sodomy,29,182783,15.865808089373736
+SHASTA,"Sex Offenses, Non-forcible",Incest,1,182783,0.5470968306680599
+SHASTA,"Sex Offenses, Non-forcible",Statutory Rape,16,182783,8.753549290688959
+SHASTA,Stolen Property Offenses,Stolen Property Offenses,328,182783,179.44776045912366
+SHASTA,Weapon Law Violations,Weapon Law Violations,411,182783,224.85679740457263
+SIERRA,Animal Cruelty,Animal Cruelty,1,3245,30.816640986132512
+SIERRA,Arson,Arson,5,3245,154.08320493066256
+SIERRA,Assault Offenses,Aggravated Assault,13,3245,400.61633281972263
+SIERRA,Assault Offenses,Intimidation,9,3245,277.3497688751926
+SIERRA,Assault Offenses,Simple Assault,4,3245,123.26656394453005
+SIERRA,Burglary/Breaking & Entering,Burglary/Breaking & Entering,6,3245,184.89984591679507
+SIERRA,Counterfeiting/Forgery,Counterfeiting/Forgery,1,3245,30.816640986132512
+SIERRA,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,14,3245,431.4329738058551
+SIERRA,Drug/Narcotic Offenses,Drug Equipment Violations,11,3245,338.9830508474576
+SIERRA,Drug/Narcotic Offenses,Drug/Narcotic Violations,15,3245,462.2496147919877
+SIERRA,Embezzlement,Embezzlement,2,3245,61.633281972265024
+SIERRA,Fraud Offenses,False Pretenses/Swindle/Confidence Game,4,3245,123.26656394453005
+SIERRA,Fraud Offenses,Impersonation,1,3245,30.816640986132512
+SIERRA,Kidnapping/Abduction,Kidnapping/Abduction,1,3245,30.816640986132512
+SIERRA,Larceny/Theft Offenses,All Other Larceny,5,3245,154.08320493066256
+SIERRA,Larceny/Theft Offenses,Theft From Building,3,3245,92.44992295839754
+SIERRA,Larceny/Theft Offenses,Theft From Motor Vehicle,1,3245,30.816640986132512
+SIERRA,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,2,3245,61.633281972265024
+SIERRA,Motor Vehicle Theft,Motor Vehicle Theft,1,3245,30.816640986132512
+SIERRA,Pornography/Obscene Material,Pornography/Obscene Material,1,3245,30.816640986132512
+SIERRA,Robbery,Robbery,1,3245,30.816640986132512
+SIERRA,Stolen Property Offenses,Stolen Property Offenses,1,3245,30.816640986132512
+SIERRA,Weapon Law Violations,Weapon Law Violations,7,3245,215.71648690292756
+SISKIYOU,Animal Cruelty,Animal Cruelty,8,40703,19.654570916148685
+SISKIYOU,Arson,Arson,30,40703,73.70464093555758
+SISKIYOU,Assault Offenses,Aggravated Assault,143,40703,351.32545512615775
+SISKIYOU,Assault Offenses,Intimidation,47,40703,115.47060413237354
+SISKIYOU,Assault Offenses,Simple Assault,234,40703,574.8961992973491
+SISKIYOU,Burglary/Breaking & Entering,Burglary/Breaking & Entering,48,40703,117.92742549689213
+SISKIYOU,Counterfeiting/Forgery,Counterfeiting/Forgery,22,40703,54.050070019408885
+SISKIYOU,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,137,40703,336.58452693904627
+SISKIYOU,Drug/Narcotic Offenses,Drug Equipment Violations,237,40703,582.2666633909048
+SISKIYOU,Drug/Narcotic Offenses,Drug/Narcotic Violations,486,40703,1194.0151831560327
+SISKIYOU,Embezzlement,Embezzlement,6,40703,14.740928187111516
+SISKIYOU,Extortion/Blackmail,Extortion/Blackmail,1,40703,2.4568213645185857
+SISKIYOU,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,2,40703,4.913642729037171
+SISKIYOU,Fraud Offenses,False Pretenses/Swindle/Confidence Game,23,40703,56.506891383927474
+SISKIYOU,Fraud Offenses,Hacking/Computer Invasion,1,40703,2.4568213645185857
+SISKIYOU,Fraud Offenses,Identity Theft,5,40703,12.28410682259293
+SISKIYOU,Fraud Offenses,Impersonation,6,40703,14.740928187111516
+SISKIYOU,Homicide Offenses,Murder and Nonnegligent Manslaughter,2,40703,4.913642729037171
+SISKIYOU,Kidnapping/Abduction,Kidnapping/Abduction,13,40703,31.938677738741617
+SISKIYOU,Larceny/Theft Offenses,All Other Larceny,65,40703,159.6933886937081
+SISKIYOU,Larceny/Theft Offenses,Pocket-picking,5,40703,12.28410682259293
+SISKIYOU,Larceny/Theft Offenses,Shoplifting,104,40703,255.50942190993294
+SISKIYOU,Larceny/Theft Offenses,Theft From Building,21,40703,51.5932486548903
+SISKIYOU,Larceny/Theft Offenses,Theft From Motor Vehicle,21,40703,51.5932486548903
+SISKIYOU,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,18,40703,44.22278456133455
+SISKIYOU,Motor Vehicle Theft,Motor Vehicle Theft,45,40703,110.55696140333637
+SISKIYOU,Pornography/Obscene Material,Pornography/Obscene Material,12,40703,29.48185637422303
+SISKIYOU,Robbery,Robbery,13,40703,31.938677738741617
+SISKIYOU,Sex Offenses,Criminal Sexual Contact,8,40703,19.654570916148685
+SISKIYOU,Sex Offenses,Rape,18,40703,44.22278456133455
+SISKIYOU,Sex Offenses,Sexual Assault With An Object,1,40703,2.4568213645185857
+SISKIYOU,Sex Offenses,Sodomy,5,40703,12.28410682259293
+SISKIYOU,"Sex Offenses, Non-forcible",Statutory Rape,1,40703,2.4568213645185857
+SISKIYOU,Stolen Property Offenses,Stolen Property Offenses,23,40703,56.506891383927474
+SISKIYOU,Weapon Law Violations,Weapon Law Violations,102,40703,250.59577918089573
+SOLANO,Animal Cruelty,Animal Cruelty,32,455427,7.026373052102752
+SOLANO,Arson,Arson,121,455427,26.568473103263532
+SOLANO,Assault Offenses,Aggravated Assault,1242,455427,272.71110408473805
+SOLANO,Assault Offenses,Intimidation,612,455427,134.37938462146514
+SOLANO,Assault Offenses,Simple Assault,2467,455427,541.6894474855465
+SOLANO,Bribery,Bribery,1,455427,0.219574157878211
+SOLANO,Burglary/Breaking & Entering,Burglary/Breaking & Entering,1299,455427,285.22683108379607
+SOLANO,Counterfeiting/Forgery,Counterfeiting/Forgery,279,455427,61.26119004802087
+SOLANO,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,3348,455427,735.1342805762504
+SOLANO,Drug/Narcotic Offenses,Drug Equipment Violations,920,455427,202.0082252479541
+SOLANO,Drug/Narcotic Offenses,Drug/Narcotic Violations,1129,455427,247.89922424450023
+SOLANO,Embezzlement,Embezzlement,104,455427,22.835712419333944
+SOLANO,Extortion/Blackmail,Extortion/Blackmail,23,455427,5.050205631198853
+SOLANO,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,413,455427,90.68412720370114
+SOLANO,Fraud Offenses,False Pretenses/Swindle/Confidence Game,686,455427,150.62787230445275
+SOLANO,Fraud Offenses,Hacking/Computer Invasion,1,455427,0.219574157878211
+SOLANO,Fraud Offenses,Identity Theft,431,455427,94.63646204550895
+SOLANO,Fraud Offenses,Impersonation,190,455427,41.71908999686009
+SOLANO,Gambling Offenses,Betting/Wagering,1,455427,0.219574157878211
+SOLANO,Homicide Offenses,Murder and Nonnegligent Manslaughter,22,455427,4.830631473320642
+SOLANO,Homicide Offenses,Negligent Manslaughter,5,455427,1.097870789391055
+SOLANO,Human Trafficking,"Human Trafficking, Commercial Sex Acts",12,455427,2.634889894538532
+SOLANO,Human Trafficking,"Human Trafficking, Involuntary Servitude",6,455427,1.317444947269266
+SOLANO,Kidnapping/Abduction,Kidnapping/Abduction,202,455427,44.353979891398616
+SOLANO,Larceny/Theft Offenses,All Other Larceny,1768,455427,388.20711112867707
+SOLANO,Larceny/Theft Offenses,Pocket-picking,44,455427,9.661262946641283
+SOLANO,Larceny/Theft Offenses,Purse-snatching,14,455427,3.074038210294954
+SOLANO,Larceny/Theft Offenses,Shoplifting,1879,455427,412.57984265315844
+SOLANO,Larceny/Theft Offenses,Theft From Building,334,455427,73.33776873132247
+SOLANO,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,3,455427,0.658722473634633
+SOLANO,Larceny/Theft Offenses,Theft From Motor Vehicle,2255,455427,495.1397260153658
+SOLANO,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,1083,455427,237.7988129821025
+SOLANO,Motor Vehicle Theft,Motor Vehicle Theft,1728,455427,379.4241448135486
+SOLANO,Pornography/Obscene Material,Pornography/Obscene Material,63,455427,13.833171946327292
+SOLANO,Prostitution Offenses,Assisting or Promoting Prostitution,19,455427,4.171908999686009
+SOLANO,Prostitution Offenses,Prostitution,13,455427,2.854464052416743
+SOLANO,Prostitution Offenses,Purchasing Prostitution,6,455427,1.317444947269266
+SOLANO,Robbery,Robbery,554,455427,121.64408346452889
+SOLANO,Sex Offenses,Criminal Sexual Contact,163,455427,35.79058773414839
+SOLANO,Sex Offenses,Rape,133,455427,29.203362997802063
+SOLANO,Sex Offenses,Sexual Assault With An Object,32,455427,7.026373052102752
+SOLANO,Sex Offenses,Sodomy,57,455427,12.515726999058028
+SOLANO,"Sex Offenses, Non-forcible",Incest,1,455427,0.219574157878211
+SOLANO,"Sex Offenses, Non-forcible",Statutory Rape,18,455427,3.952334841807798
+SOLANO,Stolen Property Offenses,Stolen Property Offenses,432,455427,94.85603620338715
+SOLANO,Weapon Law Violations,Weapon Law Violations,647,455427,142.06448014720252
+SONOMA,Animal Cruelty,Animal Cruelty,14,487566,2.871406127580676
+SONOMA,Arson,Arson,89,487566,18.253938953905728
+SONOMA,Assault Offenses,Aggravated Assault,734,487566,150.54372126030117
+SONOMA,Assault Offenses,Intimidation,408,487566,83.68097857520827
+SONOMA,Assault Offenses,Simple Assault,2558,487566,524.6469195965265
+SONOMA,Burglary/Breaking & Entering,Burglary/Breaking & Entering,812,487566,166.54155539967923
+SONOMA,Counterfeiting/Forgery,Counterfeiting/Forgery,297,487566,60.914829992247206
+SONOMA,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,1700,487566,348.6707440633678
+SONOMA,Drug/Narcotic Offenses,Drug Equipment Violations,2167,487566,444.4526484619518
+SONOMA,Drug/Narcotic Offenses,Drug/Narcotic Violations,2321,487566,476.03811586533925
+SONOMA,Embezzlement,Embezzlement,87,487566,17.843738078537058
+SONOMA,Extortion/Blackmail,Extortion/Blackmail,17,487566,3.486707440633678
+SONOMA,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,219,487566,44.91699585286915
+SONOMA,Fraud Offenses,False Pretenses/Swindle/Confidence Game,631,487566,129.41837617881478
+SONOMA,Fraud Offenses,Hacking/Computer Invasion,10,487566,2.0510043768433404
+SONOMA,Fraud Offenses,Identity Theft,421,487566,86.34728426510462
+SONOMA,Fraud Offenses,Impersonation,273,487566,55.992419487823184
+SONOMA,Gambling Offenses,Betting/Wagering,1,487566,0.205100437684334
+SONOMA,Gambling Offenses,Operating/Promoting/Assisting Gambling,2,487566,0.410200875368668
+SONOMA,Homicide Offenses,Murder and Nonnegligent Manslaughter,6,487566,1.2306026261060041
+SONOMA,Human Trafficking,"Human Trafficking, Commercial Sex Acts",1,487566,0.205100437684334
+SONOMA,Human Trafficking,"Human Trafficking, Involuntary Servitude",2,487566,0.410200875368668
+SONOMA,Kidnapping/Abduction,Kidnapping/Abduction,172,487566,35.27727528170545
+SONOMA,Larceny/Theft Offenses,All Other Larceny,1564,487566,320.7770845382984
+SONOMA,Larceny/Theft Offenses,Pocket-picking,20,487566,4.102008753686681
+SONOMA,Larceny/Theft Offenses,Purse-snatching,21,487566,4.307109191371015
+SONOMA,Larceny/Theft Offenses,Shoplifting,1070,487566,219.4574683222374
+SONOMA,Larceny/Theft Offenses,Theft From Building,227,487566,46.55779935434382
+SONOMA,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,3,487566,0.6153013130530021
+SONOMA,Larceny/Theft Offenses,Theft From Motor Vehicle,768,487566,157.51713614156853
+SONOMA,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,229,487566,46.96800022971249
+SONOMA,Motor Vehicle Theft,Motor Vehicle Theft,603,487566,123.67556392365341
+SONOMA,Pornography/Obscene Material,Pornography/Obscene Material,93,487566,19.074340704643063
+SONOMA,Prostitution Offenses,Assisting or Promoting Prostitution,6,487566,1.2306026261060041
+SONOMA,Prostitution Offenses,Prostitution,1,487566,0.205100437684334
+SONOMA,Prostitution Offenses,Purchasing Prostitution,1,487566,0.205100437684334
+SONOMA,Robbery,Robbery,219,487566,44.91699585286915
+SONOMA,Sex Offenses,Criminal Sexual Contact,246,487566,50.45470767034617
+SONOMA,Sex Offenses,Rape,188,487566,38.5588822846548
+SONOMA,Sex Offenses,Sexual Assault With An Object,46,487566,9.434620133479365
+SONOMA,Sex Offenses,Sodomy,87,487566,17.843738078537058
+SONOMA,"Sex Offenses, Non-forcible",Statutory Rape,29,487566,5.947912692845686
+SONOMA,Stolen Property Offenses,Stolen Property Offenses,442,487566,90.65439345647563
+SONOMA,Weapon Law Violations,Weapon Law Violations,594,487566,121.82965998449441
+STANISLAUS,Animal Cruelty,Animal Cruelty,43,374117,11.493730570917654
+STANISLAUS,Arson,Arson,151,374117,40.36170502810618
+STANISLAUS,Assault Offenses,Aggravated Assault,1291,374117,345.07921318731843
+STANISLAUS,Assault Offenses,Intimidation,330,374117,88.20769973029827
+STANISLAUS,Assault Offenses,Simple Assault,2948,374117,787.9887842573312
+STANISLAUS,Bribery,Bribery,1,374117,0.2672960597887827
+STANISLAUS,Burglary/Breaking & Entering,Burglary/Breaking & Entering,834,374117,222.92491386384475
+STANISLAUS,Counterfeiting/Forgery,Counterfeiting/Forgery,212,374117,56.66676467522193
+STANISLAUS,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,2366,374117,632.4224774602598
+STANISLAUS,Drug/Narcotic Offenses,Drug Equipment Violations,1582,374117,422.8623665858542
+STANISLAUS,Drug/Narcotic Offenses,Drug/Narcotic Violations,1978,374117,528.7116062622121
+STANISLAUS,Embezzlement,Embezzlement,56,374117,14.968579348171827
+STANISLAUS,Extortion/Blackmail,Extortion/Blackmail,57,374117,15.235875407960611
+STANISLAUS,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,517,374117,138.19206291080064
+STANISLAUS,Fraud Offenses,False Pretenses/Swindle/Confidence Game,525,374117,140.3304313891109
+STANISLAUS,Fraud Offenses,Hacking/Computer Invasion,10,374117,2.6729605978878266
+STANISLAUS,Fraud Offenses,Identity Theft,391,374117,104.51275937741401
+STANISLAUS,Fraud Offenses,Impersonation,190,374117,50.7862513598687
+STANISLAUS,Gambling Offenses,Gambling Equipment Violation,8,374117,2.1383684783102614
+STANISLAUS,Gambling Offenses,Operating/Promoting/Assisting Gambling,12,374117,3.207552717465392
+STANISLAUS,Homicide Offenses,Justifiable Homicide,1,374117,0.2672960597887827
+STANISLAUS,Homicide Offenses,Murder and Nonnegligent Manslaughter,12,374117,3.207552717465392
+STANISLAUS,Homicide Offenses,Negligent Manslaughter,2,374117,0.5345921195775654
+STANISLAUS,Human Trafficking,"Human Trafficking, Commercial Sex Acts",1,374117,0.2672960597887827
+STANISLAUS,Kidnapping/Abduction,Kidnapping/Abduction,141,374117,37.68874443021836
+STANISLAUS,Larceny/Theft Offenses,All Other Larceny,1622,374117,433.5542089774055
+STANISLAUS,Larceny/Theft Offenses,Pocket-picking,23,374117,6.147809375142001
+STANISLAUS,Larceny/Theft Offenses,Purse-snatching,28,374117,7.484289674085914
+STANISLAUS,Larceny/Theft Offenses,Shoplifting,2302,374117,615.3155296337777
+STANISLAUS,Larceny/Theft Offenses,Theft From Building,434,374117,116.00648994833168
+STANISLAUS,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,3,374117,0.801888179366348
+STANISLAUS,Larceny/Theft Offenses,Theft From Motor Vehicle,1225,374117,327.4376732412587
+STANISLAUS,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,387,374117,103.4435751382589
+STANISLAUS,Motor Vehicle Theft,Motor Vehicle Theft,1465,374117,391.58872759056663
+STANISLAUS,Pornography/Obscene Material,Pornography/Obscene Material,239,374117,63.88375828951905
+STANISLAUS,Prostitution Offenses,Assisting or Promoting Prostitution,5,374117,1.3364802989439133
+STANISLAUS,Prostitution Offenses,Prostitution,12,374117,3.207552717465392
+STANISLAUS,Prostitution Offenses,Purchasing Prostitution,18,374117,4.811329076198088
+STANISLAUS,Robbery,Robbery,403,374117,107.7203120948794
+STANISLAUS,Sex Offenses,Criminal Sexual Contact,175,374117,46.776810463036966
+STANISLAUS,Sex Offenses,Rape,140,374117,37.42144837042957
+STANISLAUS,Sex Offenses,Sexual Assault With An Object,36,374117,9.622658152396175
+STANISLAUS,Sex Offenses,Sodomy,55,374117,14.701283288383046
+STANISLAUS,"Sex Offenses, Non-forcible",Statutory Rape,23,374117,6.147809375142001
+STANISLAUS,Stolen Property Offenses,Stolen Property Offenses,303,374117,80.99070611600114
+STANISLAUS,Weapon Law Violations,Weapon Law Violations,669,374117,178.8210639986956
+SUTTER,Animal Cruelty,Animal Cruelty,5,99046,5.048159441067787
+SUTTER,Arson,Arson,26,99046,26.25042909355249
+SUTTER,Assault Offenses,Aggravated Assault,215,99046,217.07085596591483
+SUTTER,Assault Offenses,Intimidation,123,99046,124.18472225026755
+SUTTER,Assault Offenses,Simple Assault,699,99046,705.7326898612766
+SUTTER,Burglary/Breaking & Entering,Burglary/Breaking & Entering,191,99046,192.83969064878946
+SUTTER,Counterfeiting/Forgery,Counterfeiting/Forgery,78,99046,78.75128728065746
+SUTTER,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,509,99046,513.9026311007007
+SUTTER,Drug/Narcotic Offenses,Drug Equipment Violations,601,99046,606.7887648163479
+SUTTER,Drug/Narcotic Offenses,Drug/Narcotic Violations,789,99046,796.5995598004966
+SUTTER,Embezzlement,Embezzlement,21,99046,21.202269652484706
+SUTTER,Extortion/Blackmail,Extortion/Blackmail,8,99046,8.077055105708459
+SUTTER,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,37,99046,37.35637986390162
+SUTTER,Fraud Offenses,False Pretenses/Swindle/Confidence Game,193,99046,194.85895442521655
+SUTTER,Fraud Offenses,Hacking/Computer Invasion,1,99046,1.0096318882135573
+SUTTER,Fraud Offenses,Identity Theft,166,99046,167.59889344345052
+SUTTER,Fraud Offenses,Impersonation,54,99046,54.52012196353209
+SUTTER,Homicide Offenses,Murder and Nonnegligent Manslaughter,4,99046,4.038527552854229
+SUTTER,Homicide Offenses,Negligent Manslaughter,2,99046,2.0192637764271146
+SUTTER,Kidnapping/Abduction,Kidnapping/Abduction,48,99046,48.462330634250755
+SUTTER,Larceny/Theft Offenses,All Other Larceny,472,99046,476.5462512367991
+SUTTER,Larceny/Theft Offenses,Pocket-picking,3,99046,3.028895664640672
+SUTTER,Larceny/Theft Offenses,Purse-snatching,6,99046,6.057791329281344
+SUTTER,Larceny/Theft Offenses,Shoplifting,259,99046,261.49465904731136
+SUTTER,Larceny/Theft Offenses,Theft From Building,101,99046,101.97282070956929
+SUTTER,Larceny/Theft Offenses,Theft From Motor Vehicle,253,99046,255.43686771803002
+SUTTER,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,73,99046,73.7031278395897
+SUTTER,Motor Vehicle Theft,Motor Vehicle Theft,394,99046,397.79496395614154
+SUTTER,Pornography/Obscene Material,Pornography/Obscene Material,24,99046,24.231165317125377
+SUTTER,Prostitution Offenses,Prostitution,1,99046,1.0096318882135573
+SUTTER,Robbery,Robbery,64,99046,64.61644084566767
+SUTTER,Sex Offenses,Criminal Sexual Contact,55,99046,55.529753851745646
+SUTTER,Sex Offenses,Rape,51,99046,51.491226298891426
+SUTTER,Sex Offenses,Sexual Assault With An Object,14,99046,14.134846434989804
+SUTTER,Sex Offenses,Sodomy,12,99046,12.115582658562689
+SUTTER,"Sex Offenses, Non-forcible",Statutory Rape,15,99046,15.14447832320336
+SUTTER,Stolen Property Offenses,Stolen Property Offenses,74,99046,74.71275972780325
+SUTTER,Weapon Law Violations,Weapon Law Violations,210,99046,212.02269652484705
+TEHAMA,Animal Cruelty,Animal Cruelty,31,65698,47.18560686778898
+TEHAMA,Arson,Arson,43,65698,65.45100307467503
+TEHAMA,Assault Offenses,Aggravated Assault,225,65698,342.47617887911355
+TEHAMA,Assault Offenses,Intimidation,59,65698,89.80486468385644
+TEHAMA,Assault Offenses,Simple Assault,681,65698,1036.5612347407837
+TEHAMA,Burglary/Breaking & Entering,Burglary/Breaking & Entering,173,65698,263.326128649274
+TEHAMA,Counterfeiting/Forgery,Counterfeiting/Forgery,52,65698,79.15005022983956
+TEHAMA,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,478,65698,727.5716155742945
+TEHAMA,Drug/Narcotic Offenses,Drug Equipment Violations,315,65698,479.46665043075893
+TEHAMA,Drug/Narcotic Offenses,Drug/Narcotic Violations,414,65698,630.1561691375689
+TEHAMA,Embezzlement,Embezzlement,11,65698,16.743279856312217
+TEHAMA,Extortion/Blackmail,Extortion/Blackmail,1,65698,1.5221163505738378
+TEHAMA,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,35,65698,53.274072270084325
+TEHAMA,Fraud Offenses,False Pretenses/Swindle/Confidence Game,51,65698,77.62793387926573
+TEHAMA,Fraud Offenses,Identity Theft,29,65698,44.1413741666413
+TEHAMA,Fraud Offenses,Impersonation,24,65698,36.53079241377211
+TEHAMA,Homicide Offenses,Murder and Nonnegligent Manslaughter,4,65698,6.088465402295351
+TEHAMA,Homicide Offenses,Negligent Manslaughter,1,65698,1.5221163505738378
+TEHAMA,Human Trafficking,"Human Trafficking, Involuntary Servitude",1,65698,1.5221163505738378
+TEHAMA,Kidnapping/Abduction,Kidnapping/Abduction,58,65698,88.2827483332826
+TEHAMA,Larceny/Theft Offenses,All Other Larceny,331,65698,503.82051203994035
+TEHAMA,Larceny/Theft Offenses,Purse-snatching,3,65698,4.566349051721514
+TEHAMA,Larceny/Theft Offenses,Shoplifting,288,65698,438.3695089652653
+TEHAMA,Larceny/Theft Offenses,Theft From Building,62,65698,94.37121373557795
+TEHAMA,Larceny/Theft Offenses,Theft From Motor Vehicle,78,65698,118.72507534475935
+TEHAMA,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,36,65698,54.796188620658164
+TEHAMA,Motor Vehicle Theft,Motor Vehicle Theft,235,65698,357.6973423848519
+TEHAMA,Pornography/Obscene Material,Pornography/Obscene Material,16,65698,24.353861609181404
+TEHAMA,Prostitution Offenses,Assisting or Promoting Prostitution,1,65698,1.5221163505738378
+TEHAMA,Prostitution Offenses,Prostitution,1,65698,1.5221163505738378
+TEHAMA,Robbery,Robbery,57,65698,86.76063198270876
+TEHAMA,Sex Offenses,Criminal Sexual Contact,34,65698,51.751955919510486
+TEHAMA,Sex Offenses,Rape,46,65698,70.01735212639653
+TEHAMA,Sex Offenses,Sexual Assault With An Object,11,65698,16.743279856312217
+TEHAMA,Sex Offenses,Sodomy,11,65698,16.743279856312217
+TEHAMA,"Sex Offenses, Non-forcible",Statutory Rape,14,65698,21.30962890803373
+TEHAMA,Stolen Property Offenses,Stolen Property Offenses,121,65698,184.1760784194344
+TEHAMA,Weapon Law Violations,Weapon Law Violations,215,65698,327.25501537337516
+TRINITY,Animal Cruelty,Animal Cruelty,18,15788,114.01064099315936
+TRINITY,Arson,Arson,8,15788,50.67139599695972
+TRINITY,Assault Offenses,Aggravated Assault,63,15788,399.0372434760578
+TRINITY,Assault Offenses,Intimidation,21,15788,133.01241449201927
+TRINITY,Assault Offenses,Simple Assault,72,15788,456.0425639726374
+TRINITY,Burglary/Breaking & Entering,Burglary/Breaking & Entering,65,15788,411.7050924752977
+TRINITY,Counterfeiting/Forgery,Counterfeiting/Forgery,2,15788,12.66784899923993
+TRINITY,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,94,15788,595.3889029642767
+TRINITY,Drug/Narcotic Offenses,Drug Equipment Violations,36,15788,228.0212819863187
+TRINITY,Drug/Narcotic Offenses,Drug/Narcotic Violations,78,15788,494.0461109703572
+TRINITY,Embezzlement,Embezzlement,3,15788,19.001773498859894
+TRINITY,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,6,15788,38.00354699771979
+TRINITY,Fraud Offenses,False Pretenses/Swindle/Confidence Game,9,15788,57.00532049657968
+TRINITY,Fraud Offenses,Identity Theft,2,15788,12.66784899923993
+TRINITY,Kidnapping/Abduction,Kidnapping/Abduction,3,15788,19.001773498859894
+TRINITY,Larceny/Theft Offenses,All Other Larceny,76,15788,481.3782619711173
+TRINITY,Larceny/Theft Offenses,Shoplifting,2,15788,12.66784899923993
+TRINITY,Larceny/Theft Offenses,Theft From Building,1,15788,6.333924499619965
+TRINITY,Larceny/Theft Offenses,Theft From Motor Vehicle,3,15788,19.001773498859894
+TRINITY,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,7,15788,44.33747149733975
+TRINITY,Motor Vehicle Theft,Motor Vehicle Theft,28,15788,177.349885989359
+TRINITY,Pornography/Obscene Material,Pornography/Obscene Material,3,15788,19.001773498859894
+TRINITY,Robbery,Robbery,4,15788,25.33569799847986
+TRINITY,Sex Offenses,Criminal Sexual Contact,6,15788,38.00354699771979
+TRINITY,Sex Offenses,Rape,2,15788,12.66784899923993
+TRINITY,"Sex Offenses, Non-forcible",Statutory Rape,1,15788,6.333924499619965
+TRINITY,Stolen Property Offenses,Stolen Property Offenses,10,15788,63.339244996199646
+TRINITY,Weapon Law Violations,Weapon Law Violations,20,15788,126.67848999239929
+TULARE,Animal Cruelty,Animal Cruelty,56,489252,11.446044165378988
+TULARE,Arson,Arson,107,489252,21.870120101706277
+TULARE,Assault Offenses,Aggravated Assault,1399,489252,285.94671048866434
+TULARE,Assault Offenses,Intimidation,931,489252,190.29048424942567
+TULARE,Assault Offenses,Simple Assault,4284,489252,875.6223786514925
+TULARE,Burglary/Breaking & Entering,Burglary/Breaking & Entering,1262,489252,257.94478101264787
+TULARE,Counterfeiting/Forgery,Counterfeiting/Forgery,346,489252,70.7202014503773
+TULARE,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,3571,489252,729.8897091887208
+TULARE,Drug/Narcotic Offenses,Drug Equipment Violations,1575,489252,321.91999215128396
+TULARE,Drug/Narcotic Offenses,Drug/Narcotic Violations,2803,489252,572.9153892063804
+TULARE,Embezzlement,Embezzlement,72,489252,14.716342498344412
+TULARE,Extortion/Blackmail,Extortion/Blackmail,28,489252,5.723022082689494
+TULARE,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,195,489252,39.85676093301611
+TULARE,Fraud Offenses,False Pretenses/Swindle/Confidence Game,548,489252,112.00771790406581
+TULARE,Fraud Offenses,Hacking/Computer Invasion,1,489252,0.20439364581033906
+TULARE,Fraud Offenses,Identity Theft,98,489252,20.030577289413227
+TULARE,Fraud Offenses,Impersonation,356,489252,72.7641379084807
+TULARE,Gambling Offenses,Betting/Wagering,1,489252,0.20439364581033906
+TULARE,Gambling Offenses,Operating/Promoting/Assisting Gambling,1,489252,0.20439364581033906
+TULARE,Homicide Offenses,Justifiable Homicide,1,489252,0.20439364581033906
+TULARE,Homicide Offenses,Murder and Nonnegligent Manslaughter,24,489252,4.905447499448137
+TULARE,Homicide Offenses,Negligent Manslaughter,5,489252,1.0219682290516954
+TULARE,Kidnapping/Abduction,Kidnapping/Abduction,192,489252,39.243579995585094
+TULARE,Larceny/Theft Offenses,All Other Larceny,2266,489252,463.15600140622826
+TULARE,Larceny/Theft Offenses,Pocket-picking,16,489252,3.270298332965425
+TULARE,Larceny/Theft Offenses,Purse-snatching,19,489252,3.883479270396442
+TULARE,Larceny/Theft Offenses,Shoplifting,1524,489252,311.4959162149567
+TULARE,Larceny/Theft Offenses,Theft From Building,408,489252,83.39260749061833
+TULARE,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,9,489252,1.8395428122930515
+TULARE,Larceny/Theft Offenses,Theft From Motor Vehicle,1268,489252,259.1711428875099
+TULARE,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,435,489252,88.91123592749749
+TULARE,Motor Vehicle Theft,Motor Vehicle Theft,1580,489252,322.9419603803357
+TULARE,Pornography/Obscene Material,Pornography/Obscene Material,181,489252,36.995249891671364
+TULARE,Prostitution Offenses,Assisting or Promoting Prostitution,1,489252,0.20439364581033906
+TULARE,Prostitution Offenses,Prostitution,11,489252,2.2483301039137293
+TULARE,Prostitution Offenses,Purchasing Prostitution,1,489252,0.20439364581033906
+TULARE,Robbery,Robbery,365,489252,74.60368072077375
+TULARE,Sex Offenses,Criminal Sexual Contact,290,489252,59.27415728499832
+TULARE,Sex Offenses,Rape,173,489252,35.36010072518865
+TULARE,Sex Offenses,Sexual Assault With An Object,23,489252,4.701053853637798
+TULARE,Sex Offenses,Sodomy,55,489252,11.241650519568648
+TULARE,"Sex Offenses, Non-forcible",Incest,1,489252,0.20439364581033906
+TULARE,"Sex Offenses, Non-forcible",Statutory Rape,42,489252,8.58453312403424
+TULARE,Stolen Property Offenses,Stolen Property Offenses,474,489252,96.8825881141007
+TULARE,Weapon Law Violations,Weapon Law Violations,1146,489252,234.23511809864857
+TUOLUMNE,Animal Cruelty,Animal Cruelty,4,54703,7.312213224137616
+TUOLUMNE,Arson,Arson,1,54703,1.828053306034404
+TUOLUMNE,Assault Offenses,Aggravated Assault,192,54703,350.9862347586056
+TUOLUMNE,Assault Offenses,Intimidation,100,54703,182.8053306034404
+TUOLUMNE,Assault Offenses,Simple Assault,466,54703,851.8728406120323
+TUOLUMNE,Burglary/Breaking & Entering,Burglary/Breaking & Entering,109,54703,199.25781035775003
+TUOLUMNE,Counterfeiting/Forgery,Counterfeiting/Forgery,22,54703,40.217172732756886
+TUOLUMNE,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,213,54703,389.37535418532804
+TUOLUMNE,Drug/Narcotic Offenses,Drug Equipment Violations,206,54703,376.5789810430872
+TUOLUMNE,Drug/Narcotic Offenses,Drug/Narcotic Violations,287,54703,524.651298831874
+TUOLUMNE,Embezzlement,Embezzlement,16,54703,29.248852896550463
+TUOLUMNE,Extortion/Blackmail,Extortion/Blackmail,2,54703,3.656106612068808
+TUOLUMNE,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,14,54703,25.592746284481652
+TUOLUMNE,Fraud Offenses,False Pretenses/Swindle/Confidence Game,75,54703,137.1039979525803
+TUOLUMNE,Fraud Offenses,Hacking/Computer Invasion,1,54703,1.828053306034404
+TUOLUMNE,Fraud Offenses,Identity Theft,22,54703,40.217172732756886
+TUOLUMNE,Fraud Offenses,Impersonation,30,54703,54.841599181032116
+TUOLUMNE,Homicide Offenses,Murder and Nonnegligent Manslaughter,1,54703,1.828053306034404
+TUOLUMNE,Human Trafficking,"Human Trafficking, Involuntary Servitude",1,54703,1.828053306034404
+TUOLUMNE,Kidnapping/Abduction,Kidnapping/Abduction,42,54703,76.77823885344496
+TUOLUMNE,Larceny/Theft Offenses,All Other Larceny,155,54703,283.3482624353326
+TUOLUMNE,Larceny/Theft Offenses,Pocket-picking,2,54703,3.656106612068808
+TUOLUMNE,Larceny/Theft Offenses,Purse-snatching,4,54703,7.312213224137616
+TUOLUMNE,Larceny/Theft Offenses,Shoplifting,61,54703,111.51125166809864
+TUOLUMNE,Larceny/Theft Offenses,Theft From Building,56,54703,102.37098513792661
+TUOLUMNE,Larceny/Theft Offenses,Theft From Motor Vehicle,60,54703,109.68319836206423
+TUOLUMNE,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,13,54703,23.764692978447254
+TUOLUMNE,Motor Vehicle Theft,Motor Vehicle Theft,15,54703,27.420799590516058
+TUOLUMNE,Pornography/Obscene Material,Pornography/Obscene Material,36,54703,65.80991901723854
+TUOLUMNE,Robbery,Robbery,12,54703,21.93663967241285
+TUOLUMNE,Sex Offenses,Criminal Sexual Contact,38,54703,69.46602562930735
+TUOLUMNE,Sex Offenses,Rape,32,54703,58.49770579310093
+TUOLUMNE,Sex Offenses,Sexual Assault With An Object,7,54703,12.796373142240826
+TUOLUMNE,Sex Offenses,Sodomy,22,54703,40.217172732756886
+TUOLUMNE,"Sex Offenses, Non-forcible",Statutory Rape,9,54703,16.452479754309635
+TUOLUMNE,Stolen Property Offenses,Stolen Property Offenses,32,54703,58.49770579310093
+TUOLUMNE,Weapon Law Violations,Weapon Law Violations,99,54703,180.97727729740598
+VENTURA,Animal Cruelty,Animal Cruelty,36,838619,4.29277180698267
+VENTURA,Arson,Arson,109,838619,12.997559082253085
+VENTURA,Assault Offenses,Aggravated Assault,1600,838619,190.78985808811868
+VENTURA,Assault Offenses,Intimidation,464,838619,55.32905884555442
+VENTURA,Assault Offenses,Simple Assault,3702,838619,441.44003415138457
+VENTURA,Burglary/Breaking & Entering,Burglary/Breaking & Entering,1379,838619,164.4370089396973
+VENTURA,Counterfeiting/Forgery,Counterfeiting/Forgery,441,838619,52.586454635537706
+VENTURA,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,3979,838619,474.4705283328901
+VENTURA,Drug/Narcotic Offenses,Drug Equipment Violations,2547,838619,303.71360534402396
+VENTURA,Drug/Narcotic Offenses,Drug/Narcotic Violations,4921,838619,586.79805728227
+VENTURA,Embezzlement,Embezzlement,62,838619,7.393107000914599
+VENTURA,Extortion/Blackmail,Extortion/Blackmail,103,838619,12.282097114422639
+VENTURA,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,327,838619,38.99267724675926
+VENTURA,Fraud Offenses,False Pretenses/Swindle/Confidence Game,1188,838619,141.66146963042812
+VENTURA,Fraud Offenses,Hacking/Computer Invasion,11,838619,1.3116802743558158
+VENTURA,Fraud Offenses,Identity Theft,801,838619,95.51417270536442
+VENTURA,Fraud Offenses,Impersonation,353,838619,42.09301244069118
+VENTURA,Fraud Offenses,Welfare Fraud,2,838619,0.23848732261014832
+VENTURA,Fraud Offenses,Wire Fraud,90,838619,10.731929517456676
+VENTURA,Gambling Offenses,Operating/Promoting/Assisting Gambling,1,838619,0.11924366130507416
+VENTURA,Homicide Offenses,Murder and Nonnegligent Manslaughter,23,838619,2.742604210016706
+VENTURA,Homicide Offenses,Negligent Manslaughter,3,838619,0.3577309839152225
+VENTURA,Human Trafficking,"Human Trafficking, Commercial Sex Acts",8,838619,0.9539492904405933
+VENTURA,Human Trafficking,"Human Trafficking, Involuntary Servitude",2,838619,0.23848732261014832
+VENTURA,Kidnapping/Abduction,Kidnapping/Abduction,145,838619,17.290330889235754
+VENTURA,Larceny/Theft Offenses,All Other Larceny,2238,838619,266.86731400075604
+VENTURA,Larceny/Theft Offenses,Pocket-picking,150,838619,17.886549195761127
+VENTURA,Larceny/Theft Offenses,Purse-snatching,44,838619,5.246721097423263
+VENTURA,Larceny/Theft Offenses,Shoplifting,2990,838619,356.5385473021718
+VENTURA,Larceny/Theft Offenses,Theft From Building,529,838619,63.07989683038424
+VENTURA,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,10,838619,1.1924366130507418
+VENTURA,Larceny/Theft Offenses,Theft From Motor Vehicle,2157,838619,257.208577435045
+VENTURA,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,578,838619,68.92283623433286
+VENTURA,Motor Vehicle Theft,Motor Vehicle Theft,1369,838619,163.24457232664656
+VENTURA,Pornography/Obscene Material,Pornography/Obscene Material,46,838619,5.485208420033412
+VENTURA,Prostitution Offenses,Assisting or Promoting Prostitution,2,838619,0.23848732261014832
+VENTURA,Prostitution Offenses,Prostitution,7,838619,0.8347056291355192
+VENTURA,Prostitution Offenses,Purchasing Prostitution,1,838619,0.11924366130507416
+VENTURA,Robbery,Robbery,452,838619,53.89813490989353
+VENTURA,Sex Offenses,Criminal Sexual Contact,213,838619,25.3988998579808
+VENTURA,Sex Offenses,Rape,155,838619,18.4827675022865
+VENTURA,Sex Offenses,Sexual Assault With An Object,24,838619,2.86184787132178
+VENTURA,Sex Offenses,Sodomy,42,838619,5.008233774813116
+VENTURA,"Sex Offenses, Non-forcible",Statutory Rape,19,838619,2.2656295647964093
+VENTURA,Stolen Property Offenses,Stolen Property Offenses,478,838619,56.998470103825454
+VENTURA,Weapon Law Violations,Weapon Law Violations,898,838619,107.08080785195662
+YOLO,Animal Cruelty,Animal Cruelty,2,183196,1.0917268936002968
+YOLO,Arson,Arson,49,183196,26.747308893207276
+YOLO,Assault Offenses,Aggravated Assault,282,183196,153.93349199764188
+YOLO,Assault Offenses,Intimidation,121,183196,66.04947706281796
+YOLO,Assault Offenses,Simple Assault,587,183196,320.4218432716871
+YOLO,Bribery,Bribery,1,183196,0.5458634468001484
+YOLO,Burglary/Breaking & Entering,Burglary/Breaking & Entering,347,183196,189.41461603965152
+YOLO,Counterfeiting/Forgery,Counterfeiting/Forgery,89,183196,48.581846765213214
+YOLO,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,1153,183196,629.3805541605713
+YOLO,Drug/Narcotic Offenses,Drug Equipment Violations,495,183196,270.2024061660735
+YOLO,Drug/Narcotic Offenses,Drug/Narcotic Violations,465,183196,253.82650276206905
+YOLO,Embezzlement,Embezzlement,25,183196,13.646586170003712
+YOLO,Extortion/Blackmail,Extortion/Blackmail,9,183196,4.912771021201336
+YOLO,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,90,183196,49.12771021201337
+YOLO,Fraud Offenses,False Pretenses/Swindle/Confidence Game,198,183196,108.08096246642938
+YOLO,Fraud Offenses,Hacking/Computer Invasion,2,183196,1.0917268936002968
+YOLO,Fraud Offenses,Identity Theft,68,183196,37.1187143824101
+YOLO,Fraud Offenses,Impersonation,43,183196,23.472128212406385
+YOLO,Homicide Offenses,Murder and Nonnegligent Manslaughter,8,183196,4.366907574401187
+YOLO,Homicide Offenses,Negligent Manslaughter,1,183196,0.5458634468001484
+YOLO,Human Trafficking,"Human Trafficking, Commercial Sex Acts",1,183196,0.5458634468001484
+YOLO,Kidnapping/Abduction,Kidnapping/Abduction,53,183196,28.930762680407867
+YOLO,Larceny/Theft Offenses,All Other Larceny,1313,183196,716.718705648595
+YOLO,Larceny/Theft Offenses,Pocket-picking,16,183196,8.733815148802375
+YOLO,Larceny/Theft Offenses,Purse-snatching,9,183196,4.912771021201336
+YOLO,Larceny/Theft Offenses,Shoplifting,598,183196,326.4263411864888
+YOLO,Larceny/Theft Offenses,Theft From Building,192,183196,104.80578178562851
+YOLO,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,2,183196,1.0917268936002968
+YOLO,Larceny/Theft Offenses,Theft From Motor Vehicle,609,183196,332.4308391012904
+YOLO,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,197,183196,107.53509901962924
+YOLO,Motor Vehicle Theft,Motor Vehicle Theft,721,183196,393.5675451429071
+YOLO,Pornography/Obscene Material,Pornography/Obscene Material,20,183196,10.91726893600297
+YOLO,Prostitution Offenses,Prostitution,1,183196,0.5458634468001484
+YOLO,Robbery,Robbery,106,183196,57.86152536081573
+YOLO,Sex Offenses,Criminal Sexual Contact,36,183196,19.651084084805344
+YOLO,Sex Offenses,Rape,36,183196,19.651084084805344
+YOLO,Sex Offenses,Sexual Assault With An Object,11,183196,6.004497914801633
+YOLO,Sex Offenses,Sodomy,8,183196,4.366907574401187
+YOLO,"Sex Offenses, Non-forcible",Statutory Rape,4,183196,2.1834537872005937
+YOLO,Stolen Property Offenses,Stolen Property Offenses,106,183196,57.86152536081573
+YOLO,Weapon Law Violations,Weapon Law Violations,131,183196,71.50811153081945
+YUBA,Animal Cruelty,Animal Cruelty,16,88446,18.090134093118966
+YUBA,Arson,Arson,17,88446,19.2207674739389
+YUBA,Assault Offenses,Aggravated Assault,299,88446,338.0593808651607
+YUBA,Assault Offenses,Intimidation,77,88446,87.05877032313502
+YUBA,Assault Offenses,Simple Assault,599,88446,677.2493951111413
+YUBA,Burglary/Breaking & Entering,Burglary/Breaking & Entering,134,88446,151.50487302987133
+YUBA,Counterfeiting/Forgery,Counterfeiting/Forgery,44,88446,49.74786875607715
+YUBA,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,366,88446,413.8118173800964
+YUBA,Drug/Narcotic Offenses,Drug Equipment Violations,557,88446,629.762793116704
+YUBA,Drug/Narcotic Offenses,Drug/Narcotic Violations,803,88446,907.8986047984081
+YUBA,Embezzlement,Embezzlement,6,88446,6.783800284919613
+YUBA,Extortion/Blackmail,Extortion/Blackmail,10,88446,11.306333808199353
+YUBA,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,26,88446,29.39646790131832
+YUBA,Fraud Offenses,False Pretenses/Swindle/Confidence Game,81,88446,91.58130384641476
+YUBA,Fraud Offenses,Identity Theft,43,88446,48.61723537525722
+YUBA,Fraud Offenses,Impersonation,25,88446,28.265834520498384
+YUBA,Homicide Offenses,Murder and Nonnegligent Manslaughter,4,88446,4.5225335232797415
+YUBA,Kidnapping/Abduction,Kidnapping/Abduction,40,88446,45.22533523279741
+YUBA,Larceny/Theft Offenses,All Other Larceny,215,88446,243.0861768762861
+YUBA,Larceny/Theft Offenses,Pocket-picking,5,88446,5.653166904099677
+YUBA,Larceny/Theft Offenses,Purse-snatching,4,88446,4.5225335232797415
+YUBA,Larceny/Theft Offenses,Shoplifting,83,88446,93.84257060805463
+YUBA,Larceny/Theft Offenses,Theft From Building,76,88446,85.92813694231509
+YUBA,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,1,88446,1.1306333808199354
+YUBA,Larceny/Theft Offenses,Theft From Motor Vehicle,86,88446,97.23447075051445
+YUBA,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,30,88446,33.91900142459806
+YUBA,Motor Vehicle Theft,Motor Vehicle Theft,105,88446,118.7165049860932
+YUBA,Pornography/Obscene Material,Pornography/Obscene Material,24,88446,27.13520113967845
+YUBA,Prostitution Offenses,Prostitution,2,88446,2.2612667616398707
+YUBA,Prostitution Offenses,Purchasing Prostitution,2,88446,2.2612667616398707
+YUBA,Robbery,Robbery,33,88446,37.31090156705787
+YUBA,Sex Offenses,Criminal Sexual Contact,33,88446,37.31090156705787
+YUBA,Sex Offenses,Rape,29,88446,32.78836804377813
+YUBA,Sex Offenses,Sexual Assault With An Object,5,88446,5.653166904099677
+YUBA,Sex Offenses,Sodomy,11,88446,12.436967189019288
+YUBA,"Sex Offenses, Non-forcible",Incest,1,88446,1.1306333808199354
+YUBA,"Sex Offenses, Non-forcible",Statutory Rape,8,88446,9.045067046559483
+YUBA,Stolen Property Offenses,Stolen Property Offenses,110,88446,124.36967189019289
+YUBA,Weapon Law Violations,Weapon Law Violations,203,88446,229.51857630644687
